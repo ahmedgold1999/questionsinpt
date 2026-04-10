@@ -1939,6 +1939,357 @@
 "Backup Copy"
 ],
 "answer": "Work File"
+}, 
+{
+"question": "In Excel, which feature allows you to freeze rows or columns so they stay visible while scrolling?",
+"options": ["Split Pane", "Freeze Panes", "Lock Cells", "Static View"],
+"answer": "Freeze Panes"
+},
+{
+"question": "What is the primary function of a Router?",
+"options": ["To print documents", "To store databases", "To direct data packets between networks", "To display graphics"],
+"answer": "To direct data packets between networks"
+},
+{
+"question": "Which protocol is used for secure communication over a computer network (the secure version of HTTP)?",
+"options": ["FTP", "HTTPS", "SNMP", "SSH"],
+"answer": "HTTPS"
+},
+{
+"question": "In Word, what is the default font usually set for new documents in modern versions?",
+"options": ["Times New Roman", "Arial", "Calibri", "Courier New"],
+"answer": "Calibri"
+},
+{
+"question": "What is the term for the set of keys (F1 through F12) at the top of a keyboard?",
+"options": ["Control Keys", "Navigation Keys", "Function Keys", "Numeric Keys"],
+"answer": "Function Keys"
+},
+{
+"question": "Which PowerPoint feature allows you to copy the animation from one object and apply it to another?",
+"options": ["Animation Painter", "Format Painter", "Motion Copier", "Transition Brush"],
+"answer": "Animation Painter"
+},
+{
+"question": "What does 'GUI' stand for?",
+"options": ["General User Information", "Graphical User Interface", "Global Unit Integration", "Group User Interaction"],
+"answer": "Graphical User Interface"
+},
+{
+"question": "In Excel, what happens if you double-click the boundary between two column headers?",
+"options": ["Deletes the column", "Hides the column", "Auto-fits the column width", "Selects the entire sheet"],
+"answer": "Auto-fits the column width"
+},
+{
+"question": "Which hardware component connects the CPU to all other hardware components?",
+"options": ["Hard Drive", "Power Supply", "Motherboard", "Video Card"],
+"answer": "Motherboard"
+},
+{
+"question": "What is the name of the 'Trash' folder in macOS?",
+"options": ["Recycle Bin", "Trash", "Dumpster", "Garbage"],
+"answer": "Trash"
+},
+{
+"question": "In Word, which feature allows you to automatically replace a specific word with another throughout the document?",
+"options": ["Find and Replace", "Autocorrect", "Thesaurus", "Review"],
+"answer": "Find and Replace"
+},
+{
+"question": "What is 'Phishing' in computer security?",
+"options": ["A way to speed up the internet", "Fraudulent attempts to obtain sensitive info via email", "Installing a hardware firewall", "Searching for deep-web data"],
+"answer": "Fraudulent attempts to obtain sensitive info via email"
+},
+{
+"question": "Which unit is used to measure the resolution of a computer monitor?",
+"options": ["Gigahertz", "Pixels", "Bits", "Amps"],
+"answer": "Pixels"
+},
+{
+"question": "In Excel, what does the '####' error mean?",
+"options": ["Formula is wrong", "The cell is too narrow to display the value", "Division by zero", "Value not available"],
+"answer": "The cell is too narrow to display the value"
+},
+{
+"question": "What is the shortcut to open the 'Task Manager' in Windows?",
+"options": ["Ctrl+Alt+Delete", "Ctrl+Shift+Esc", "Alt+F4", "Win+R"],
+"answer": "Ctrl+Shift+Esc"
+},
+{
+"question": "What is the main purpose of CSS in web development?",
+"options": ["To define the database structure", "To style and layout web pages", "To handle server-side logic", "To create system drivers"],
+"answer": "To style and layout web pages"
+},
+{
+"question": "Which device is used to protect a computer from power surges and provide temporary power during a failure?",
+"options": ["CPU", "UPS", "GPU", "RAM"],
+"answer": "UPS"
+},
+{
+"question": "In PowerPoint, what is 'Presenter View' used for?",
+"options": ["To edit slides", "To show the audience the notes only", "To see notes and upcoming slides while the audience sees only the current slide", "To record the screen"],
+"answer": "To see notes and upcoming slides while the audience sees only the current slide"
+},
+{
+"question": "What is a 'Hotspot'?",
+"options": ["A virus-infected computer", "A physical location where people can access the internet via Wi-Fi", "A broken pixel on a screen", "A fast-running CPU"],
+"answer": "A physical location where people can access the internet via Wi-Fi"
+},
+{
+"question": "What is the name of the small text file stored on your computer by a website to remember your preferences?",
+"options": ["Cookie", "Cache", "History", "Log"],
+"answer": "Cookie"
+},
+{
+"question": "In Word, which tab do you use to add a 'Watermark'?",
+"options": ["Home", "Insert", "Design", "Layout"],
+"answer": "Design"
+},
+{
+"question": "Which programming language is mainly used for 'Data Science' and 'Artificial Intelligence'?",
+"options": ["HTML", "C++", "Python", "PHP"],
+"answer": "Python"
+},
+{
+"question": "What is 'Open Source' software?",
+"options": ["Software that requires a paid license", "Software whose source code is available for anyone to inspect and modify", "Software that only works on Windows", "Software that cannot be updated"],
+"answer": "Software whose source code is available for anyone to inspect and modify"
+},
+{
+"question": "In Excel, which function is used to join several text strings into one?",
+"options": ["MERGE", "CONCATENATE", "COMBINE", "GROUP"],
+"answer": "CONCATENATE"
+},
+{
+"question": "What is the maximum number of bits in an IPv4 address?",
+"options": ["16 bits", "32 bits", "64 bits", "128 bits"],
+"answer": "32 bits"
+},
+{
+"question": "Which component is often called the 'Graphics Card'?",
+"options": ["CPU", "GPU", "PSU", "HDD"],
+"answer": "GPU"
+},
+{
+"question": "In Windows, which shortcut key is used to rename a selected file?",
+"options": ["F1", "F2", "F5", "F10"],
+"answer": "F2"
+},
+{
+"question": "What is a 'Firewall'?",
+"options": ["A cooling fan for the CPU", "A security system that monitors and controls network traffic", "A program to delete duplicate files", "A physical wall to protect servers"],
+"answer": "A security system that monitors and controls network traffic"
+},
+{
+"question": "In Word, what is the shortcut for 'Double Underline'?",
+"options": ["Ctrl+U", "Ctrl+Shift+D", "Ctrl+D", "Alt+U"],
+"answer": "Ctrl+Shift+D"
+},
+{
+"question": "What is the standard measurement for Laptop screen size?",
+"options": ["Vertical height", "Horizontal width", "Diagonal length", "Perimeter"],
+"answer": "Diagonal length"
+},
+{
+"question": "In Excel, which error occurs when you try to divide a number by zero?",
+"options": ["#VALUE!", "#REF!", "#DIV/0!", "#NAME?"],
+"answer": "#DIV/0!"
+},
+{
+"question": "What does 'BIOS' stand for?",
+"options": ["Binary Input Output System", "Basic Input Output System", "Basic Integrated Operating System", "Built-in Information On Startup"],
+"answer": "Basic Input Output System"
+},
+{
+"question": "What is the name of the browser developed by Google?",
+"options": ["Safari", "Edge", "Firefox", "Chrome"],
+"answer": "Chrome"
+},
+{
+"question": "In PowerPoint, which shortcut key is used to end a slide show?",
+"options": ["Enter", "Esc", "Shift", "Backspace"],
+"answer": "Esc"
+},
+{
+"question": "What is 'Bandwidth'?",
+"options": ["The length of a network cable", "The amount of data that can be transmitted in a fixed amount of time", "The speed of the CPU", "The number of files in a folder"],
+"answer": "The amount of data that can be transmitted in a fixed amount of time"
+},
+{
+"question": "Which port is used to connect a computer to a wired network?",
+"options": ["HDMI Port", "USB Port", "Ethernet Port", "VGA Port"],
+"answer": "Ethernet Port"
+},
+{
+"question": "In Excel, what is the shortcut to select an entire column?",
+"options": ["Ctrl+Space", "Shift+Space", "Alt+Space", "Ctrl+A"],
+"answer": "Ctrl+Space"
+},
+{
+"question": "What is the primary function of a 'Compiler'?",
+"options": ["To browse the web", "To translate high-level code into machine language", "To design graphics", "To manage files"],
+"answer": "To translate high-level code into machine language"
+},
+{
+"question": "In Word, what do you call the space between the content and the edge of the paper?",
+"options": ["Gutter", "Indent", "Margin", "Padding"],
+"answer": "Margin"
+},
+{
+"question": "Which company developed the 'macOS' operating system?",
+"options": ["Microsoft", "Google", "Apple", "IBM"],
+"answer": "Apple"
+},
+{
+"question": "What is 'Encryption'?",
+"options": ["Compressing a file to a smaller size", "Converting information into a secret code to prevent unauthorized access", "Deleting a file permanently", "Installing a new font"],
+"answer": "Converting information into a secret code to prevent unauthorized access"
+},
+{
+"question": "In Excel, which function returns the number of characters in a string?",
+"options": ["LEN", "LENGTH", "COUNT", "SIZE"],
+"answer": "LEN"
+},
+{
+"question": "What does 'RAM' stand for?",
+"options": ["Read Access Memory", "Random Access Memory", "Real Action Module", "Rapid Access Memory"],
+"answer": "Random Access Memory"
+},
+{
+"question": "What is the shortcut to 'Redo' an action in most Windows programs?",
+"options": ["Ctrl+Z", "Ctrl+Y", "Ctrl+R", "Ctrl+N"],
+"answer": "Ctrl+Y"
+},
+{
+"question": "Which of these is a 'Cloud Storage' service by Microsoft?",
+"options": ["Google Drive", "Dropbox", "OneDrive", "iCloud"],
+"answer": "OneDrive"
+},
+{
+"question": "In PowerPoint, what is the 'Slide Master' used for?",
+"options": ["To play the presentation", "To set the default layout and styles for all slides", "To check spelling", "To record audio"],
+"answer": "To set the default layout and styles for all slides"
+},
+{
+"question": "What is a 'Server'?",
+"options": ["A person who fixes computers", "A computer that provides data to other computers", "A type of virus", "A small laptop"],
+"answer": "A computer that provides data to other computers"
+},
+{
+"question": "Which of these is a database management software?",
+"options": ["MS Word", "MS Excel", "MS Access", "MS PowerPoint"],
+"answer": "MS Access"
+},
+{
+"question": "In Excel, what does the 'V' in VLOOKUP stand for?",
+"options": ["Value", "Variable", "Vertical", "Visual"],
+"answer": "Vertical"
+},
+{
+"question": "What is 'Hypertext'?",
+"options": ["Very fast text", "Text that contains links to other text", "Encrypted text", "Deleted text"],
+"answer": "Text that contains links to other text"
+},
+{
+"question": "What is the main purpose of an 'Operating System'?",
+"options": ["To create documents", "To browse the web", "To manage computer hardware and software resources", "To send emails"],
+"answer": "To manage computer hardware and software resources"
+},
+{
+"question": "Which file format is used for images with a transparent background?",
+"options": ["JPEG", "BMP", "PNG", "TIFF"],
+"answer": "PNG"
+},
+{
+"question": "In Word, which shortcut is used to 'Center' the selected text?",
+"options": ["Ctrl+C", "Ctrl+E", "Ctrl+L", "Ctrl+R"],
+"answer": "Ctrl+E"
+},
+{
+"question": "What does 'Wi-Fi' stand for?",
+"options": ["Wireless Fiber", "Wireless Fidelity", "Wired Field", "Wide Filter"],
+"answer": "Wireless Fidelity"
+},
+{
+"question": "Which hardware component is considered the computer's 'Short Term Memory'?",
+"options": ["Hard Drive", "RAM", "CPU", "ROM"],
+"answer": "RAM"
+},
+{
+"question": "In Excel, what is the shortcut to insert a new worksheet?",
+"options": ["Shift+F11", "Ctrl+N", "Alt+W", "Ctrl+F1"],
+"answer": "Shift+F11"
+},
+{
+"question": "What is 'Spam'?",
+"options": ["A type of computer virus", "Unsolicited or junk email", "A high-speed network", "A programming language"],
+"answer": "Unsolicited or junk email"
+},
+{
+"question": "What is the name of the 'Windows' voice assistant?",
+"options": ["Siri", "Alexa", "Cortana", "Bixby"],
+"answer": "Cortana"
+},
+{
+"question": "In PowerPoint, what is the shortcut to duplicate a selected slide?",
+"options": ["Ctrl+C", "Ctrl+D", "Ctrl+V", "Ctrl+N"],
+"answer": "Ctrl+D"
+},
+{
+"question": "Which device is used to scan documents and convert them into digital images?",
+"options": ["Printer", "Plotter", "Scanner", "Projector"],
+"answer": "Scanner"
+},
+{
+"question": "In Excel, which function is used to find the smallest value in a range?",
+"options": ["MIN", "MAX", "SMALL", "LOW"],
+"answer": "MIN"
+},
+{
+"question": "What is the shortcut to 'Lock' your Windows computer quickly?",
+"options": ["Ctrl+L", "Win+L", "Alt+L", "Shift+L"],
+"answer": "Win+L"
+},
+{
+"question": "What is 'Multitasking' in computers?",
+"options": ["Running multiple programs at the same time", "Having multiple hard drives", "Using multiple mouses", "Connecting to multiple networks"],
+"answer": "Running multiple programs at the same time"
+},
+{
+"question": "Which of these is an example of an 'Output' device?",
+"options": ["Keyboard", "Mouse", "Microphone", "Monitor"],
+"answer": "Monitor"
+},
+{
+"question": "What is the function of the 'Power Supply Unit' (PSU)?",
+"options": ["To store data", "To process instructions", "To convert AC power to low-voltage DC power for the computer", "To cool the CPU"],
+"answer": "To convert AC power to low-voltage DC power for the computer"
+},
+{
+"question": "In Word, what is the shortcut for 'Page Break'?",
+"options": ["Shift+Enter", "Ctrl+Enter", "Alt+Enter", "Tab+Enter"],
+"answer": "Ctrl+Enter"
+},
+{
+"question": "What is 'Data Mining'?",
+"options": ["Deleting old data", "Extracting useful information from large datasets", "Mining for cryptocurrency", "Repairing a broken hard drive"],
+"answer": "Extracting useful information from large datasets"
+},
+{
+"question": "Which protocol is used to assign IP addresses automatically to devices on a network?",
+"options": ["DNS", "DHCP", "FTP", "HTTP"],
+"answer": "DHCP"
+},
+{
+"question": "What is the main function of the 'ALU' inside the CPU?",
+"options": ["To store data permanently", "To perform arithmetic and logical operations", "To control power flow", "To manage the display"],
+"answer": "To perform arithmetic and logical operations"
+},
+{
+"question": "In Excel, what is the shortcut to open the 'Format Cells' dialog box?",
+"options": ["Ctrl+1", "Ctrl+F", "Alt+Enter", "Shift+F10"],
+"answer": "Ctrl+1"
 }
 ]
 }
+
