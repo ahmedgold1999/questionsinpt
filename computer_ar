@@ -2286,6 +2286,506 @@
 "answer": "To perform arithmetic and logical operations"
 },
 {
+"question": "What is the primary purpose of a 'Proxy Server'?",
+"options": ["To speed up the CPU", "To act as an intermediary between a user and the internet", "To create backups", "To install drivers"],
+"answer": "To act as an intermediary between a user and the internet"
+},
+{
+"question": "In Excel, which function is used to lookup a value in a horizontal row?",
+"options": ["VLOOKUP", "HLOOKUP", "LOOKUP", "ZLOOKUP"],
+"answer": "HLOOKUP"
+},
+{
+"question": "What does 'IoT' stand for?",
+"options": ["Internal office Technology", "Internet of Things", "Input Output Tool", "Integrated online Tracking"],
+"answer": "Internet of Things"
+},
+{
+"question": "Which of these is a non-volatile memory that holds the startup instructions for the computer?",
+"options": ["RAM", "ROM", "Cache", "Virtual Memory"],
+"answer": "ROM"
+},
+{
+"question": "In Word, what is the shortcut to insert a 'Copyright' symbol (©)?",
+"options": ["Alt+Ctrl+C", "Ctrl+C", "Shift+C", "Alt+C"],
+"answer": "Alt+Ctrl+C"
+},
+{
+"question": "What is 'Artificial Intelligence' (AI)?",
+"options": ["A mechanical robot", "Simulation of human intelligence by machines", "High-speed internet", "A new type of monitor"],
+"answer": "Simulation of human intelligence by machines"
+},
+{
+"question": "Which protocol is used to access and manage a computer remotely over a network?",
+"options": ["HTTP", "SSH", "SMTP", "POP3"],
+"answer": "SSH"
+},
+{
+"question": "In PowerPoint, what is the shortcut to group selected objects?",
+"options": ["Ctrl+G", "Ctrl+H", "Ctrl+J", "Ctrl+K"],
+"answer": "Ctrl+G"
+},
+{
+"question": "What is the name of the 'Father of Computer'?",
+"options": ["Bill Gates", "Charles Babbage", "Alan Turing", "Steve Jobs"],
+"answer": "Charles Babbage"
+},
+{
+"question": "What does 'SaaS' stand for in cloud computing?",
+"options": ["System as a Service", "Software as a Service", "Storage as a Service", "Security as a Service"],
+"answer": "Software as a Service"
+},
+{
+"question": "In Excel, which function is used to count cells that are NOT empty?",
+"options": ["COUNT", "COUNTBLANK", "COUNTA", "COUNTIF"],
+"answer": "COUNTA"
+},
+{
+"question": "Which type of network is usually used to connect devices within a city-wide area?",
+"options": ["LAN", "PAN", "MAN", "WAN"],
+"answer": "MAN"
+},
+{
+"question": "What is 'Machine Learning'?",
+"options": ["Repairing machines", "A subset of AI that allows systems to learn from data", "Building computers", "Operating heavy machinery"],
+"answer": "A subset of AI that allows systems to learn from data"
+},
+{
+"question": "In Word, what is the shortcut to open the 'Navigation Pane'?",
+"options": ["Ctrl+N", "Ctrl+F", "Ctrl+H", "Ctrl+P"],
+"answer": "Ctrl+F"
+},
+{
+"question": "What is the main advantage of a 'Solid State Drive' (SSD) over a 'Hard Disk Drive' (HDD)?",
+"options": ["Lower price", "More storage space", "Faster data access speed", "Heavier weight"],
+"answer": "Faster data access speed"
+},
+{
+"question": "Which of these is a 'Vector' graphics file format?",
+"options": ["JPG", "GIF", "SVG", "PNG"],
+"answer": "SVG"
+},
+{
+"question": "In Excel, which tool allows you to visualize data based on specific conditions (e.g., coloring cells over 100)?",
+"options": ["Data Validation", "Conditional Formatting", "AutoFilter", "Pivot Table"],
+"answer": "Conditional Formatting"
+},
+{
+"question": "What is a 'Trojan Horse' in computer terms?",
+"options": ["A helpful utility", "Malware disguised as legitimate software", "A hardware component", "A high-speed router"],
+"answer": "Malware disguised as legitimate software"
+},
+{
+"question": "Which port is commonly used for connecting high-definition video and audio?",
+"options": ["VGA", "DVI", "HDMI", "PS/2"],
+"answer": "HDMI"
+},
+{
+"question": "What does 'SQL' stand for?",
+"options": ["Standard Query Language", "Structured Query Language", "Simple Query Language", "Sequential Query Language"],
+"answer": "Structured Query Language"
+},
+{
+"question": "In Word, which shortcut key aligns text to the 'Right'?",
+"options": ["Ctrl+L", "Ctrl+R", "Ctrl+E", "Ctrl+J"],
+"answer": "Ctrl+R"
+},
+{
+"question": "What is the function of the 'Kernel' in an operating system?",
+"options": ["Designing the icons", "The core part that manages hardware and system operations", "Browsing files", "Connecting to Wi-Fi"],
+"answer": "The core part that manages hardware and system operations"
+},
+{
+"question": "Which of these is a social engineering attack?",
+"options": ["DDoS", "Phishing", "SQL Injection", "Brute Force"],
+"answer": "Phishing"
+},
+{
+"question": "In Excel, what is the shortcut to edit the content of a selected cell?",
+"options": ["F1", "F2", "F3", "F4"],
+"answer": "F2"
+},
+{
+"question": "What is the main function of 'Mainframe' computers?",
+"options": ["Playing games", "Large-scale data processing for big organizations", "Personal browsing", "Graphic design"],
+"answer": "Large-scale data processing for big organizations"
+},
+{
+"question": "What does 'API' stand for?",
+"options": ["Application Programming Interface", "Advanced Program Integration", "Apple Protocol Internet", "Automated Programming Index"],
+"answer": "Application Programming Interface"
+},
+{
+"question": "In PowerPoint, what is the shortcut to start a slide show from the 'Current' slide?",
+"options": ["F5", "Shift+F5", "Alt+F5", "Ctrl+F5"],
+"answer": "Shift+F5"
+},
+{
+"question": "What is a 'Cookie' in web browsing?",
+"options": ["A small data file stored by websites to track user activity", "A hardware component", "A type of virus", "A website password"],
+"answer": "A small data file stored by websites to track user activity"
+},
+{
+"question": "Which unit measures the clock speed of a CPU?",
+"options": ["MB", "TB", "GHz", "DPI"],
+"answer": "GHz"
+},
+{
+"question": "In Word, what is the shortcut to 'Justify' text?",
+"options": ["Ctrl+J", "Ctrl+K", "Ctrl+L", "Ctrl+M"],
+"answer": "Ctrl+J"
+},
+{
+"question": "What is 'Blockchain' technology primarily known for?",
+"options": ["Editing photos", "Secure and decentralized record-keeping", "Increasing RAM speed", "Creating 3D models"],
+"answer": "Secure and decentralized record-keeping"
+},
+{
+"question": "Which company created the 'Android' operating system?",
+"options": ["Apple", "Microsoft", "Google", "Samsung"],
+"answer": "Google"
+},
+{
+"question": "In Excel, what function is used to calculate the 'Square Root' of a number?",
+"options": ["SQRT", "ROOT", "POWER", "SQUARE"],
+"answer": "SQRT"
+},
+{
+"question": "What does 'URL' stand for?",
+"options": ["United Resource Locator", "Universal Resource Locator", "Uniform Resource Locator", "Unique Resource Link"],
+"answer": "Uniform Resource Locator"
+},
+{
+"question": "Which device acts as both an input and output device?",
+"options": ["Monitor", "Keyboard", "Touchscreen", "Printer"],
+"answer": "Touchscreen"
+},
+{
+"question": "In Windows, what is the shortcut to 'Undo' a file deletion?",
+"options": ["Ctrl+D", "Ctrl+Z", "Ctrl+Y", "Ctrl+X"],
+"answer": "Ctrl+Z"
+},
+{
+"question": "What is a 'DDoS' attack?",
+"options": ["Stealing passwords", "Overwhelming a server with traffic to crash it", "Deleting files", "Spying through a webcam"],
+"answer": "Overwhelming a server with traffic to crash it"
+},
+{
+"question": "Which HTML tag is used to create a link?",
+"options": ["<link>", "<a>", "<url>", "<href>"],
+"answer": "<a>"
+},
+{
+"question": "In Word, what is the shortcut to increase font size?",
+"options": ["Ctrl+[", "Ctrl+]", "Ctrl+Shift+>", "Both B and C"],
+"answer": "Both B and C"
+},
+{
+"question": "What is the purpose of 'Defragmenting' a hard drive?",
+"options": ["To delete viruses", "To reorganize fragmented data for faster access", "To install a new OS", "To backup files"],
+"answer": "To reorganize fragmented data for faster access"
+},
+{
+"question": "Which of these is a primary color model for digital screens?",
+"options": ["CMYK", "RGB", "RYB", "Pantone"],
+"answer": "RGB"
+},
+{
+"question": "In Excel, which function counts the number of cells based on a single condition?",
+"options": ["COUNT", "COUNTIF", "COUNTIFS", "COUNTA"],
+"answer": "COUNTIF"
+},
+{
+"question": "What is 'VPN'?",
+"options": ["Virtual Private Network", "Visual Program Node", "Verified Private Network", "Virtual Public Network"],
+"answer": "Virtual Private Network"
+},
+{
+"question": "What is the shortcut to 'Copy' a file in Windows?",
+"options": ["Ctrl+X", "Ctrl+V", "Ctrl+C", "Ctrl+A"],
+"answer": "Ctrl+C"
+},
+{
+"question": "Which protocol is used for sending files between a client and server?",
+"options": ["HTTP", "SMTP", "FTP", "DNS"],
+"answer": "FTP"
+},
+{
+"question": "In PowerPoint, what is the 'Animation Pane' used for?",
+"options": ["To design slides", "To manage and reorder slide animations", "To record video", "To set transitions"],
+"answer": "To manage and reorder slide animations"
+},
+{
+"question": "What is 'Open Source'?",
+"options": ["Paid software", "Software whose source code is free to modify", "Closed software", "A type of virus"],
+"answer": "Software whose source code is free to modify"
+},
+{
+"question": "Which hardware device converts digital signals to analog for sound?",
+"options": ["CPU", "GPU", "Sound Card", "Motherboard"],
+"answer": "Sound Card"
+},
+{
+"question": "In Excel, what is the shortcut to 'AutoSum'?",
+"options": ["Alt+=", "Ctrl+=", "Shift+=", "Alt+S"],
+"answer": "Alt+="
+},
+{
+"question": "What is 'Bandwidth'?",
+"options": ["Computer weight", "The maximum rate of data transfer across a network", "Hard drive size", "CPU temperature"],
+"answer": "The maximum rate of data transfer across a network"
+},
+{
+"question": "Which operating system uses the 'Linux' kernel?",
+"options": ["Windows 10", "Ubuntu", "macOS", "iOS"],
+"answer": "Ubuntu"
+},
+{
+"question": "What is 'Phishing'?",
+"options": ["Catching fish online", "Fraudulent emails to steal personal info", "A network tool", "A hardware fix"],
+"answer": "Fraudulent emails to steal personal info"
+},
+{
+"question": "In Word, which shortcut key 'Underlines' text?",
+"options": ["Ctrl+B", "Ctrl+I", "Ctrl+U", "Ctrl+D"],
+"answer": "Ctrl+U"
+},
+{
+"question": "What does 'BIOS' stand for?",
+"options": ["Basic Input Output System", "Basic Internal Operating System", "Binary Input Output System", "Built-in info System"],
+"answer": "Basic Input Output System"
+},
+{
+"question": "Which device is needed to connect to the internet over a phone line?",
+"options": ["Monitor", "Modem", "Scanner", "Printer"],
+"answer": "Modem"
+},
+{
+"question": "In Excel, what character must every formula start with?",
+"options": ["+", "-", "=", "*"],
+"answer": "="
+},
+{
+"question": "What is a 'Firewall'?",
+"options": ["A cooling system", "A network security system", "A physical wall", "A fast computer"],
+"answer": "A network security system"
+},
+{
+"question": "Which of these is NOT a web browser?",
+"options": ["Chrome", "Firefox", "Safari", "Windows"],
+"answer": "Windows"
+},
+{
+"question": "In PowerPoint, what is a 'Transition'?",
+"options": ["A movement on a single slide", "A visual effect between two slides", "A sound file", "A text style"],
+"answer": "A visual effect between two slides"
+},
+{
+"question": "What is 'RAM' used for?",
+"options": ["Permanent storage", "Temporary storage for running apps", "Displaying images", "Powering the computer"],
+"answer": "Temporary storage for running apps"
+},
+{
+"question": "Which programming language is the backbone of web styling?",
+"options": ["HTML", "C++", "CSS", "Python"],
+"answer": "CSS"
+},
+{
+"question": "In Word, what is the shortcut for 'Print'?",
+"options": ["Ctrl+P", "Ctrl+O", "Ctrl+N", "Ctrl+S"],
+"answer": "Ctrl+P"
+},
+{
+"question": "What is 'Malware'?",
+"options": ["Good software", "Malicious software", "Hardware parts", "Network cables"],
+"answer": "Malicious software"
+},
+{
+"question": "What does 'PDF' stand for?",
+"options": ["Print Document File", "Portable Document Format", "Private Data File", "Personal Document File"],
+"answer": "Portable Document Format"
+},
+{
+"question": "Which port is used for high-speed data and charging on modern devices?",
+"options": ["USB-A", "VGA", "USB-C", "Serial"],
+"answer": "USB-C"
+},
+{
+"question": "In Excel, which function finds the 'Average' of a range?",
+"options": ["MEAN", "MEDIAN", "AVERAGE", "TOTAL"],
+"answer": "AVERAGE"
+},
+{
+"question": "What is 'Bluetooth' used for?",
+"options": ["Long-distance communication", "Short-range wireless data exchange", "Wired networking", "Storing files"],
+"answer": "Short-range wireless data exchange"
+},
+{
+"question": "Which company developed 'Windows'?",
+"options": ["Apple", "Google", "Microsoft", "Intel"],
+"answer": "Microsoft"
+},
+{
+"question": "In PowerPoint, what is the shortcut to create a 'New Slide'?",
+"options": ["Ctrl+N", "Ctrl+M", "Ctrl+S", "Ctrl+L"],
+"answer": "Ctrl+M"
+},
+{
+"question": "What is the 'Recycle Bin' in Windows used for?",
+"options": ["Storing new files", "Storing deleted files temporarily", "Cleaning the computer", "Creating folders"],
+"answer": "Storing deleted files temporarily"
+},
+{
+"question": "Which of these is an 'Input' device?",
+"options": ["Monitor", "Printer", "Keyboard", "Speakers"],
+"answer": "Keyboard"
+},
+{
+"question": "What is the shortcut to 'Paste' in Office?",
+"options": ["Ctrl+C", "Ctrl+V", "Ctrl+P", "Ctrl+X"],
+"answer": "Ctrl+V"
+},
+{
+"question": "What is an 'IP Address'?",
+"options": ["A home address", "A unique numerical label for a device on a network", "A website name", "A password"],
+"answer": "A unique numerical label for a device on a network"
+},
+{
+"question": "Which device is used to display a computer's output to a large audience?",
+"options": ["Scanner", "Projector", "Mouse", "Microphone"],
+"answer": "Projector"
+},
+{
+"question": "In Word, what is the shortcut to 'Select All'?",
+"options": ["Ctrl+S", "Ctrl+A", "Ctrl+Z", "Ctrl+E"],
+"answer": "Ctrl+A"
+},
+{
+"question": "What is 'Cloud Computing'?",
+"options": ["Predicting weather", "Accessing computing services over the internet", "A type of fan", "Programming clouds"],
+"answer": "Accessing computing services over the internet"
+},
+{
+"question": "Which of these is a permanent storage device?",
+"options": ["RAM", "HDD", "Cache", "Bus"],
+"answer": "HDD"
+},
+{
+"question": "In Excel, what is a 'Cell'?",
+"options": ["A battery", "A single box at the intersection of a row and column", "A whole sheet", "A chart"],
+"answer": "A single box at the intersection of a row and column"
+},
+{
+"question": "What does 'HTTP' stand for?",
+"options": ["High Text Transfer Protocol", "Hypertext Transfer Protocol", "Hyper Transfer Text Protocol", "Home Text Transfer Protocol"],
+"answer": "Hypertext Transfer Protocol"
+},
+{
+"question": "Which device captures audio into a computer?",
+"options": ["Speaker", "Monitor", "Microphone", "Webcam"],
+"answer": "Microphone"
+},
+{
+"question": "In Word, what is the shortcut to make text 'Bold'?",
+"options": ["Ctrl+B", "Ctrl+I", "Ctrl+U", "Ctrl+O"],
+"answer": "Ctrl+B"
+},
+{
+"question": "What is a 'Domain Name'?",
+"options": ["The name of a computer", "The human-readable address of a website", "An IP address", "A server name"],
+"answer": "The human-readable address of a website"
+},
+{
+"question": "Which of these is a database program?",
+"options": ["Word", "Access", "Paint", "Outlook"],
+"answer": "Access"
+},
+{
+"question": "What is the shortcut to 'Save' a document?",
+"options": ["Ctrl+S", "Ctrl+O", "Ctrl+P", "Ctrl+V"],
+"answer": "Ctrl+S"
+},
+{
+"question": "What is a 'Gigabyte'?",
+"options": ["1024 Kilobytes", "1024 Megabytes", "1000 Megabytes", "1024 Bits"],
+"answer": "1024 Megabytes"
+},
+{
+"question": "In PowerPoint, what is the shortcut to 'Find' a word?",
+"options": ["Ctrl+F", "Ctrl+H", "Ctrl+N", "Ctrl+S"],
+"answer": "Ctrl+F"
+},
+{
+"question": "Which component powers all parts of a desktop computer?",
+"options": ["CPU", "GPU", "Power Supply Unit (PSU)", "Motherboard"],
+"answer": "Power Supply Unit (PSU)"
+},
+{
+"question": "What is 'Encryption' used for?",
+"options": ["Making files smaller", "Securing data by converting it into code", "Speeding up internet", "Printing files"],
+"answer": "Securing data by converting it into code"
+},
+{
+"question": "In Excel, what is a 'Range'?",
+"options": ["A single cell", "A collection of selected cells", "A type of chart", "A formula"],
+"answer": "A collection of selected cells"
+},
+{
+"question": "Which key is used to refresh a web page?",
+"options": ["F1", "F5", "F10", "F12"],
+"answer": "F5"
+},
+{
+"question": "What is the primary function of a 'Graphics Card'?",
+"options": ["Storing files", "Processing and rendering images and videos", "Managing the keyboard", "Connecting to Wi-Fi"],
+"answer": "Processing and rendering images and videos"
+},
+{
+"question": "In Word, which shortcut key opens a 'New' document?",
+"options": ["Ctrl+N", "Ctrl+O", "Ctrl+S", "Ctrl+M"],
+"answer": "Ctrl+N"
+},
+{
+"question": "What is 'E-commerce'?",
+"options": ["Sending emails", "Buying and selling goods online", "Programming websites", "Online banking"],
+"answer": "Buying and selling goods online"
+},
+{
+"question": "Which of these is an example of 'Software'?",
+"options": ["Mouse", "Windows 10", "CPU", "Monitor"],
+"answer": "Windows 10"
+},
+{
+"question": "What is the shortcut to 'Cut' text?",
+"options": ["Ctrl+C", "Ctrl+X", "Ctrl+V", "Ctrl+Z"],
+"answer": "Ctrl+X"
+},
+{
+"question": "What does 'LAN' stand for?",
+"options": ["Large Area Network", "Local Area Network", "Link Area Network", "Light Area Network"],
+"answer": "Local Area Network"
+},
+{
+"question": "Which hardware part is the 'Brain' of the computer?",
+"options": ["RAM", "Monitor", "CPU", "Hard Drive"],
+"answer": "CPU"
+},
+{
+"question": "In Excel, which function adds a range of cells together?",
+"options": ["ADD", "TOTAL", "SUM", "PLUS"],
+"answer": "SUM"
+},
+{
+"question": "What is a 'Web Browser'?",
+"options": ["A website", "A program used to access the internet", "A network cable", "A type of monitor"],
+"answer": "A program used to access the internet"
+},
+{
+"question": "What is the shortcut to 'Undo' an action?",
+"options": ["Ctrl+Z", "Ctrl+Y", "Ctrl+U", "Ctrl+R"],
+"answer": "Ctrl+Z"
+}, 
+{
 "question": "In Excel, what is the shortcut to open the 'Format Cells' dialog box?",
 "options": ["Ctrl+1", "Ctrl+F", "Alt+Enter", "Shift+F10"],
 "answer": "Ctrl+1"
