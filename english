@@ -1511,8 +1511,7 @@
       "answer": "since"
     }, 
 {
-  "questions": [
-    {"question": "What is the boiling point of water in Celsius?", "options": ["50°C", "90°C", "100°C", "120°C"], "answer": "100°C"},
+    "question": "What is the boiling point of water in Celsius?", "options": ["50°C", "90°C", "100°C", "120°C"], "answer": "100°C"},
     {"question": "Which ocean is the largest on Earth?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer": "Pacific"},
     {"question": "She ___ a book when the phone rang.", "options": ["read", "was reading", "reads", "is reading"], "answer": "was reading"},
     {"question": "The sun ___ in the west.", "options": ["sets", "rises", "setting", "set"], "answer": "sets"},
