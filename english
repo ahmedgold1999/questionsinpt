@@ -44,6 +44,307 @@
     {"question": "What unusual thing did the workers report?", "options": ["Tools disappeared at night", "The farm work was mysteriously completed overnight", "Animals escaped during the night", "The brothers forced them to work in the moonlight"], "answer": "The farm work was mysteriously completed overnight"},
     {"question": "What did one worker claim to have seen?", "options": ["Joe Cox feeding cows", "A ghost cutting corn in the moonlight", "Bob Cox building sheds", "A soldier hiding on the farm"], "answer": "A ghost cutting corn in the moonlight"},
     {"question": "How did the villagers react when they heard that the 'ghost' had died?", "options": ["They refused to believe it", "They were astonished and attended the funeral", "They ignored the news", "They thought it was a joke"], "answer": "They were astonished and attended the funeral"},
+[
+{
+"question":"Teacher: Why were you absent yesterday? \n Student: I ______ a terrible headache.",
+"options":["have","had","has","am having"],
+"answer":"had"
+},
+{
+"question":"Which of the following is a healthy habit?",
+"options":["Sleeping 4 hours","Drinking soda","Daily exercise","Skipping breakfast"],
+"answer":"Daily exercise"
+},
+{
+"question":"I haven't finished my project ______.",
+"options":["already","yet","since","for"],
+"answer":"yet"
+},
+{
+"question":"If it rains tomorrow, we ______ the match.",
+"options":["cancel","will cancel","cancelled","would cancel"],
+"answer":"will cancel"
+},
+{
+"question":"This is the house ______ my grandfather built.",
+"options":["who","where","which","whose"],
+"answer":"which"
+},
+{
+"question":"A: Can I borrow your pen? \n B: ______, here you are.",
+"options":["No, thanks","Sure","I'm sorry","Never mind"],
+"answer":"Sure"
+},
+{
+"question":"The cookies ______ by my sister this morning.",
+"options":["were baked","baked","are baking","was bake"],
+"answer":"were baked"
+},
+{
+"question":"Look at those clouds! It ______ rain.",
+"options":["is going to","will","is","goes to"],
+"answer":"is going to"
+},
+{
+"question":"I am looking forward to ______ you soon.",
+"options":["see","seeing","seen","saw"],
+"answer":"seeing"
+},
+{
+"question":"She is ______ at English than her brother.",
+"options":["good","better","best","the best"],
+"answer":"better"
+},
+{
+"question":"How ______ money do you need for the trip?",
+"options":["many","much","few","long"],
+"answer":"much"
+},
+{
+"question":"They ______ football when it started to rain.",
+"options":["play","were playing","played","are playing"],
+"answer":"were playing"
+},
+{
+"question":"You ______ wear a helmet while riding a bike. It's the law.",
+"options":["might","must","may","can"],
+"answer":"must"
+},
+{
+"question":"A: I've just passed my driving test! \n B: ______!",
+"options":["Good luck","Congratulations","What a pity","Never mind"],
+"answer":"Congratulations"
+},
+{
+"question":"The plane ______ at 9:00 PM tonight.",
+"options":["take off","takes off","taking off","is take off"],
+"answer":"takes off"
+},
+{
+"question":"I don't know ______ to solve this problem.",
+"options":["what","how","which","who"],
+"answer":"how"
+},
+{
+"question":"He is very ______; he always says 'please' and 'thank you'.",
+"options":["rude","polite","angry","lazy"],
+"answer":"polite"
+},
+{
+"question":"Could you tell me where ______?",
+"options":["is the bank","the bank is","bank is","is bank"],
+"answer":"the bank is"
+},
+{
+"question":"I'm tired. I ______ to go home now.",
+"options":["want","am wanting","wants","wanted"],
+"answer":"want"
+},
+{
+"question":"A: Would you like some coffee? \n B: ______, I don't like coffee.",
+"options":["Yes, please","No, thank you","Sure","Of course"],
+"answer":"No, thank you"
+},
+{
+"question":"Which word means the same as 'Large'?",
+"options":["Small","Tiny","Huge","Thin"],
+"answer":"Huge"
+},
+{
+"question":"She ______ her keys yesterday.",
+"options":["lose","lost","loses","is losing"],
+"answer":"lost"
+},
+{
+"question":"We ______ to the cinema last weekend.",
+"options":["go","went","gone","going"],
+"answer":"went"
+},
+{
+"question":"This book is ______ than the one I read last week.",
+"options":["interesting","more interesting","most interesting","as interesting"],
+"answer":"more interesting"
+},
+{
+"question":"He ______ a car if he had enough money.",
+"options":["buys","will buy","would buy","bought"],
+"answer":"would buy"
+},
+{
+"question":"I ______ my teeth every morning.",
+"options":["brush","brushes","brushing","brushed"],
+"answer":"brush"
+},
+{
+"question":"My father is a doctor. ______ works in a big hospital.",
+"options":["He","She","It","They"],
+"answer":"He"
+},
+{
+"question":"There ______ some milk in the fridge.",
+"options":["is","are","am","be"],
+"answer":"is"
+},
+{
+"question":"Listen! Someone ______ the piano.",
+"options":["play","is playing","plays","played"],
+"answer":"is playing"
+},
+{
+"question":"A: What's the weather like? \n B: It ______.",
+"options":["rains","is raining","rainy","is rain"],
+"answer":"is raining"
+},
+{
+"question":"I ______ London twice in my life.",
+"options":["visit","visited","have visited","am visiting"],
+"answer":"have visited"
+},
+{
+"question":"The cat is sitting ______ the chair.",
+"options":["on","in","at","between"],
+"answer":"on"
+},
+{
+"question":"We should ______ more water to stay healthy.",
+"options":["drink","drinks","drinking","drank"],
+"answer":"drink"
+},
+{
+"question":"A: Excuse me, is there a pharmacy nearby? \n B: ______, it's just around the corner.",
+"options":["No","Yes","Sorry","Maybe"],
+"answer":"Yes"
+},
+{
+"question":"He is the ______ student in our class.",
+"options":["tall","taller","tallest","the tallest"],
+"answer":"tallest"
+},
+{
+"question":"I ______ a movie when you called me.",
+"options":["watch","was watching","watched","am watching"],
+"answer":"was watching"
+},
+{
+"question":"______ you ever been to Paris?",
+"options":["Do","Did","Have","Are"],
+"answer":"Have"
+},
+{
+"question":"They ______ their homework yet.",
+"options":["didn't finish","haven't finished","don't finish","finished"],
+"answer":"haven't finished"
+},
+{
+"question":"She usually ______ to work by bus.",
+"options":["go","goes","going","went"],
+"answer":"goes"
+},
+{
+"question":"A: I'm sorry for being late. \n B: ______.",
+"options":["That's okay","You're welcome","Thank you","Goodbye"],
+"answer":"That's okay"
+},
+{
+"question":"What is the opposite of 'Difficult'?",
+"options":["Hard","Easy","Heavy","Fast"],
+"answer":"Easy"
+},
+{
+"question":"Please ______ the door before you leave.",
+"options":["close","closing","closed","closes"],
+"answer":"close"
+},
+{
+"question":"He ______ English for five years now.",
+"options":["studied","is studying","has been studying","studies"],
+"answer":"has been studying"
+},
+{
+"question":"If you ______ ice, it melts.",
+"options":["heat","will heat","heated","heats"],
+"answer":"heat"
+},
+{
+"question":"This is the person ______ helped me yesterday.",
+"options":["which","who","whose","where"],
+"answer":"who"
+},
+{
+"question":"A: How do you do? \n B: ______.",
+"options":["Fine, thanks","How do you do?","I am a teacher","Nice to meet you"],
+"answer":"How do you do?"
+},
+{
+"question":"You ______ smoke here. It's forbidden.",
+"options":["must","can","mustn't","needn't"],
+"answer":"mustn't"
+},
+{
+"question":"I ______ my lunch at 1:00 PM yesterday.",
+"options":["eat","ate","eaten","eating"],
+"answer":"ate"
+},
+{
+"question":"______ is your favorite color?",
+"options":["Who","What","Where","When"],
+"answer":"What"
+},
+{
+"question":"She ______ speak three languages fluently.",
+"options":["can","must","should","may"],
+"answer":"can"
+},
+{
+"question":"A: Thanks for your help! \n B: ______.",
+"options":["No problem","You're welcome","Both are correct","Neither is correct"],
+"answer":"Both are correct"
+},
+{
+"question":"We ______ dinner when the lights went out.",
+"options":["have","were having","had","are having"],
+"answer":"were having"
+},
+{
+"question":"Which of these is a vegetable?",
+"options":["Apple","Banana","Carrot","Orange"],
+"answer":"Carrot"
+},
+{
+"question":"He is ______ than his cousin.",
+"options":["strong","stronger","strongest","the stronger"],
+"answer":"stronger"
+},
+{
+"question":"I ______ a new phone last week.",
+"options":["buy","bought","buying","have bought"],
+"answer":"bought"
+},
+{
+"question":"It ______ a lot in winter here.",
+"options":["snow","snows","snowing","snowed"],
+"answer":"snows"
+},
+{
+"question":"A: Can you swim? \n B: ______, I can.",
+"options":["No","Yes","Maybe","Sometimes"],
+"answer":"Yes"
+},
+{
+"question":"They ______ to the park every Friday.",
+"options":["go","goes","going","went"],
+"answer":"go"
+},
+{
+"question":"I am ______ English right now.",
+"options":["study","studying","studies","studied"],
+"answer":"studying"
+},
+{
+"question":"The sun ______ in the east.",
+"options":["rise","rises","rising","rose"],
+"answer":"rises"
+},
     {"question": "Who was actually the ghost of Endley?", "options": ["Joe Cox", "Bob Cox", "Eric Cox", "A farm worker"], "answer": "Eric Cox"},
     {"question": "Why did everyone believe Eric was dead?", "options": ["His body was found during the war", "His father told everyone he had been killed in action", "His brothers announced his death publicly", "He disappeared while working at the farm"], "answer": "His father told everyone he had been killed in action"},
     {"question": "Why did Eric return to the farm during the war?", "options": ["He missed his family", "He was injured in battle", "He hated army life and decided to desert", "He wanted to protect the farm"], "answer": "He hated army life and decided to desert"},
