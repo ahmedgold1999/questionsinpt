@@ -525,6 +525,2617 @@
       "options": ["Joe Cox", "Bob Cox", "Eric Cox", "A farm worker"],
       "answer": "Eric Cox"
     },
+
+  {
+    "question": "Tim: Were you able to get some sleep last night? I know you were really tired. Amy: well, actually I was able to sleep only a little bit. What does Amy mean?",
+    "options": [
+      "Tim was unable to sleep",
+      "Amy Had a trouble with sleeping but managed to sleep",
+      "Tim suffers from sleeping troubles",
+      "Amy can sleep easily every night"
+    ],
+    "answer": "Amy Had a trouble with sleeping but managed to sleep"
+  },
+  {
+    "question": "Woman: Why is Lisa feeling so happy. Man: she just started working in a real good company. What does the man say about Lisa?",
+    "options": [
+      "She always likes her job and the company",
+      "she began a new job",
+      "she bought a new company",
+      "she got married"
+    ],
+    "answer": "she began a new job"
+  },
+  {
+    "question": "In a business setting what is an appropriate response to show understanding during a conversation?",
+    "options": [
+      "I have no idea",
+      "I'm sorry I wasn't listening",
+      "I understand",
+      "what ever"
+    ],
+    "answer": "I understand"
+  },
+  {
+    "question": "Speaker a: will it take long to get there. B: ………………",
+    "options": [
+      "take the left",
+      "it is no distance at all",
+      "such a nice day",
+      "your name Sounds Familiar"
+    ],
+    "answer": "it is no distance at all"
+  },
+  {
+    "question": "Chuck: Whenever we meet, Martha pretends not to see me. I don't think it is because Martha nowadays hasn't got over her anger. she is having a bad time at work. What does Sue try to say?",
+    "options": [
+      "Chuck is angry with Sue",
+      "Sue is angry with Chuck recently",
+      "Martha has a bad time",
+      "they have finally managed to get over her resentment"
+    ],
+    "answer": "Martha has a bad time"
+  },
+  {
+    "question": "Marty: tell me what was the reason which caused that giant quarrel between you and Sally. Philip: Because I always need to warn her not poke her nose when to whatever I do. yet she is constantly doing that. What does Marty imply?",
+    "options": [
+      "well. she has begun becoming unbearable these days.",
+      "because she gave my car to our son without my permission",
+      "it is hard to find her at home she visits her parents too much.",
+      "she suddenly started shouting and always insults me without any reason."
+    ],
+    "answer": "well. she has begun becoming unbearable these days."
+  },
+  {
+    "question": "MD: I have been having some pain especially the finger. What seems to be MD problem?",
+    "options": [
+      "broken knees",
+      "broken fingers",
+      "joint pains",
+      "headache"
+    ],
+    "answer": "joint pains"
+  },
+  {
+    "question": "Man: The paper isn't due until next week. Woman: Yes I know but I wanted to turn it in ahead of time if that's all right. What does the woman mean?",
+    "options": [
+      "she wants to submit her paper early",
+      "answers on paper are all correct",
+      "the deadline has passed for the paper",
+      "the paper is not quite finished"
+    ],
+    "answer": "she wants to submit her paper early"
+  },
+  {
+    "question": "Nina: Why are you always complaining about your parents? Mark: well, because they never stop criticizing me. Who is criticizing Mark?",
+    "options": [
+      "his friends",
+      "his sister",
+      "his father and mother",
+      "his teacher"
+    ],
+    "answer": "his father and mother"
+  },
+  {
+    "question": "Tom: ....................................... Does she have a cat? Adam: Yes, she has a cat named whiskers.",
+    "options": [
+      "What's her favorite type of cuisine",
+      "Does she like animals",
+      "Is she a vegetarian",
+      "Has she ever owned a chicken"
+    ],
+    "answer": "Does she like animals"
+  },
+  {
+    "question": "Man: how do you like to help me plan the refreshments for the astronomy Club meeting tomorrow night let's be careful not to overdo it, though, last time we had enough for three clubs. What does the woman mean?",
+    "options": [
+      "she Would rather not invite other clubs to join them",
+      "They should have prepared extra refreshments",
+      "the members of the club go out early",
+      "there was too much food in the last meeting"
+    ],
+    "answer": "there was too much food in the last meeting"
+  },
+  {
+    "question": "Woman: let us just email our response to John instead of calling. Man: John has an email address? What had the man assumed?",
+    "options": [
+      "He would have an email address",
+      "he wouldn't have an email address",
+      "he received no calls.",
+      "he received just e-mails"
+    ],
+    "answer": "he wouldn't have an email address"
+  },
+  {
+    "question": "Speaker A: thanks for you. Speaker B: .……………",
+    "options": [
+      "Most welcome",
+      "Thanks",
+      "Never mind",
+      "Next time"
+    ],
+    "answer": "Most welcome"
+  },
+  {
+    "question": "Man: You are in my economics class, aren't you? Woman: Yes, I'm not an economics major. Man: So, what do you think of Professor Ali? Woman: I think he's a great person, but the class just turns me off. What does the woman mean?",
+    "options": [
+      "She doesn't like the class.",
+      "Her classmates are really great.",
+      "The professor isn't very nice.",
+      "The class is interesting"
+    ],
+    "answer": "She doesn't like the class."
+  },
+  {
+    "question": "Woman: Have you heard anything about the new professor? Man: Just that she's no pushover. What does the man say about the professor?",
+    "options": [
+      "She works very hard.",
+      "She is very strict",
+      "Her classes fill up quickly.",
+      "It's easy to get good grades in her courses"
+    ],
+    "answer": "She is very strict"
+  },
+  {
+    "question": "Man: I need to get a copy of my birth certificate. Woman: Sorry but we can only accept requests by mail now. What does the woman mean?",
+    "options": [
+      "The office already mailed the man's birth certificates",
+      "The office no longer issues birth certificates",
+      "The man will have to apply for his birth Certificate by mail",
+      "The man doesn't have sufficient identification for his request."
+    ],
+    "answer": "The man will have to apply for his birth Certificate by mail"
+  },
+  {
+    "question": "Woman: this house is pretty expensive. Do you think we can afford it? Man: I’m optimistic. If we really tighten our budget, I think we can make it work. What does the man mean?",
+    "options": [
+      "He is confident they have enough money",
+      "He wants to look at cheaper houses",
+      "He is willing to cut spending to buy the house",
+      "He doesn’t think they can afford the house."
+    ],
+    "answer": "He is willing to cut spending to buy the house"
+  },
+  {
+    "question": "Laura: I feel upset before exams. Lina: I feel the opposite of you.",
+    "options": [
+      "Lina likes to finish early her exams",
+      "Lina doesn't like being unhappy before exams",
+      "Laura feels happy after exams",
+      "Laura is always upset"
+    ],
+    "answer": "Lina doesn't like being unhappy before exams"
+  },
+  {
+    "question": "Mom: Did you finish your science project? Child: I was going to work on it, but my friend called me to go to the movies. What does the child mean?",
+    "options": [
+      "They went to the movies instead",
+      "science projects are boring",
+      "he finished the project earlier",
+      "he will work on it after the movie"
+    ],
+    "answer": "They went to the movies instead"
+  },
+  {
+    "question": "After you have stayed in your friend's house, you are ready to leave. You: ………………………...",
+    "options": [
+      "I'm sorry I took up you too much time",
+      "I'm sorry I stayed with you",
+      "It was nice to stay with you",
+      "but I have to to leave"
+    ],
+    "answer": "It was nice to stay with you"
+  },
+  {
+    "question": "Your friend is from Basra ask him where he is living.",
+    "options": [
+      "Where are you live now",
+      "Where you living nownow",
+      "Where did he lived?",
+      "Where are you living now"
+    ],
+    "answer": "Where are you living now"
+  },
+  {
+    "question": "A: I am really sorry about what I said to you the other night. B: ......................",
+    "options": [
+      "no problem",
+      "please forgive me",
+      "now thank you",
+      "I'm sorry"
+    ],
+    "answer": "no problem"
+  },
+  {
+    "question": "She is lucky. she has…………………. Problems.",
+    "options": [
+      "Few",
+      "so many",
+      "Little",
+      "Much"
+    ],
+    "answer": "Few"
+  },
+  {
+    "question": "Could you……….. me that book for a couple of days, please?",
+    "options": [
+      "lend",
+      "owe",
+      "borrow",
+      "rent"
+    ],
+    "answer": "lend"
+  },
+  {
+    "question": "He………….. defined the job, but he had no luck.",
+    "options": [
+      "tried hard",
+      "hardly tried",
+      "tried hardly",
+      "hard tried"
+    ],
+    "answer": "tried hard"
+  },
+  {
+    "question": "They ……………. Into the park. it started to rain heavily.",
+    "options": [
+      "walked",
+      "were walking",
+      "were walk",
+      "are walking"
+    ],
+    "answer": "were walking"
+  },
+  {
+    "question": "I will phone you tomorrow, okay. Goodbye.",
+    "options": [
+      "Phone",
+      "I will phone",
+      "I am phoning",
+      "I phoned"
+    ],
+    "answer": "I will phone"
+  },
+  {
+    "question": "How long……….. married since 1992?",
+    "options": [
+      "has you been",
+      "have you been",
+      "you are",
+      "you have been"
+    ],
+    "answer": "have you been"
+  },
+  {
+    "question": "She is allergic ……………peanuts.",
+    "options": [
+      "of",
+      "from",
+      "to",
+      "on"
+    ],
+    "answer": "to"
+  },
+  {
+    "question": "Identify the adverb in the following sentence: He ran quickly to catch the bus.",
+    "options": [
+      "he",
+      "ran",
+      "quickly",
+      "bus"
+    ],
+    "answer": "quickly"
+  },
+  {
+    "question": "Tamara is still watching. She has . ....... TV all day.",
+    "options": [
+      "watch",
+      "watched",
+      "watched",
+      "watching"
+    ],
+    "answer": "watched"
+  },
+  {
+    "question": "The person …………..you met yesterday is my cousin.",
+    "options": [
+      "Which",
+      "Who",
+      "Was",
+      "whose"
+    ],
+    "answer": "Who"
+  },
+  {
+    "question": "Paula and Jenny …………. next week, but they will not come.",
+    "options": [
+      "will not come",
+      "cannot to come",
+      "cannot coming",
+      "couldn't come"
+    ],
+    "answer": "will not come"
+  },
+  {
+    "question": "Most of the alumni arrived……………….. Buses.",
+    "options": [
+      "With",
+      "By",
+      "From",
+      "In"
+    ],
+    "answer": "By"
+  },
+  {
+    "question": "They had been\_\_\_\_\_\_\_ false beliefs from the Childhood.",
+    "options": [
+      "Teach",
+      "Teaches",
+      "Taught",
+      "Is taught"
+    ],
+    "answer": "Taught"
+  },
+  {
+    "question": "………. many times every winter in Frankfort.",
+    "options": [
+      "it snows",
+      "it snowed",
+      "it is snowing",
+      "it is snow"
+    ],
+    "answer": "it snows"
+  },
+  {
+    "question": "Change the sentence to indirect speech: he said 'I might consider the offer'.",
+    "options": [
+      "he said that he might consider the offer",
+      "he says that he might consider the offer",
+      "he said that he may consider the offer",
+      "he says’ I might consider the offer"
+    ],
+    "answer": "he said that he might consider the offer"
+  },
+  {
+    "question": "The cost of living ……………….. every year things are more expensive.",
+    "options": [
+      "is rise",
+      "are rising",
+      "is rising",
+      "were Rising"
+    ],
+    "answer": "is rising"
+  },
+  {
+    "question": "I like your hair. Where ……………… it?",
+    "options": [
+      "did you cut",
+      "do you have cut",
+      "does cut it",
+      "do you have it cut"
+    ],
+    "answer": "do you have it cut"
+  },
+  {
+    "question": "Eishan…………….. a book yesterday.",
+    "options": [
+      "Had read",
+      "Readed",
+      "Reading",
+      "Read"
+    ],
+    "answer": "Read"
+  },
+  {
+    "question": "Is your English……………….. Better? yes, it is.",
+    "options": [
+      "getting",
+      "get",
+      "was getting",
+      "got"
+    ],
+    "answer": "getting"
+  },
+  {
+    "question": "Having seen the film, ..........",
+    "options": [
+      "the cinema closed",
+      "the car came",
+      "the building appeared",
+      "the man went out"
+    ],
+    "answer": "the man went out"
+  },
+  {
+    "question": "John tells me Jack is going out with Helen, ………………. I find hard to believe.",
+    "options": [
+      "Which",
+      "who",
+      "Whose",
+      "Where"
+    ],
+    "answer": "Which"
+  },
+  {
+    "question": "When Mr Brown………… to the party all the guests………………. at the table.",
+    "options": [
+      "coming- sit",
+      "comes- sat",
+      "came-had Sat",
+      "came- are sitting"
+    ],
+    "answer": "came-were sitting"
+  },
+  {
+    "question": "I was born……………. 1993.",
+    "options": [
+      "On",
+      "In",
+      "At",
+      "To"
+    ],
+    "answer": "In"
+  },
+  {
+    "question": "I'm very happy……………. in India. I really miss being there.",
+    "options": [
+      "to live",
+      "to have lived",
+      "to be lived",
+      "to be living"
+    ],
+    "answer": "to have lived"
+  },
+  {
+    "question": "Dave……………. In a factory. Now he works in a supermarket.",
+    "options": [
+      "Working",
+      "Works",
+      "used to work",
+      "Will work"
+    ],
+    "answer": "used to work"
+  },
+  {
+    "question": "Who are the scientists that study weather?",
+    "options": [
+      "Geologists",
+      "Biologists",
+      "Meteorologists",
+      "Astronomers"
+    ],
+    "answer": "Meteorologists"
+  },
+  {
+    "question": "What specific methods do the scientists use to gather weather information?",
+    "options": [
+      "They conduct ground surveys and interviews with locals.",
+      "They observe weather patterns through ground-based instruments",
+      "They rely solely on historical weather data.",
+      "They use animal behaviors as indicators of upcoming weather."
+    ],
+    "answer": "They observe weather patterns through ground-based instruments"
+  },
+  {
+    "question": "What other type of information is crucial for weather forecasting?",
+    "options": [
+      "Astronomical date",
+      "images from satellites",
+      "Political trends",
+      "Cultural practices."
+    ],
+    "answer": "images from satellites"
+  },
+  {
+    "question": "How can weather forecast maps be used in the context of natural disasters?",
+    "options": [
+      "To predict population growth in affected areas",
+      "To inform people about geological changes",
+      "To warn people about upcoming hurricanes or heat waves",
+      "To analyze the impact of climate change over decades"
+    ],
+    "answer": "To warn people about upcoming hurricanes or heat waves"
+  },
+  {
+    "question": "What type of tools are used to predict the weather?",
+    "options": [
+      "Astrological charts",
+      "Prediction tools",
+      "Historical artifacts",
+      "Mathematical equations"
+    ],
+    "answer": "Prediction tools"
+  },
+  {
+    "question": "What temperatures can weather forecast maps predict?",
+    "options": [
+      "sea temperatures",
+      "underground temperatures",
+      "Temperatures for a particular time in an area",
+      "Body temperatures"
+    ],
+    "answer": "Temperatures for a particular time in an area"
+  },
+  {
+    "question": "What is one reason meteorologists might make incorrect weather predictions?",
+    "options": [
+      "Inaccurate satellite data",
+      "Sudden and unpredictable changes in weather patterns",
+      "Limited access to ground-based instruments",
+      "Dependence on outdated prediction tools"
+    ],
+    "answer": "Sudden and unpredictable changes in weather patterns"
+  },
+  {
+    "question": "Which of the following is NOT a factor that meteorologists consider when predicting the weather?",
+    "options": [
+      "Local weather patterns",
+      "Data from weather satellites",
+      "Predictions of stock market trends",
+      "records of different areas."
+    ],
+    "answer": "Predictions of stock market trends"
+  },
+  {
+    "question": "What do weather forecast maps indicate?",
+    "options": [
+      "Historical weather data",
+      "Future rain, snow, or wind in a town or city",
+      "Population density",
+      "Geological formations"
+    ],
+    "answer": "Future rain, snow, or wind in a town or city"
+  },
+  {
+    "question": "What is one benefit of having accurate weather forecasts for a community?",
+    "options": [
+      "It helps with planning recreational activities.",
+      "It ensures residents are better prepared for adverse weather conditions.",
+      "It boosts the local economy.",
+      "It decreases the population growth rate."
+    ],
+    "answer": "It ensures residents are better prepared for adverse weather conditions."
+  },
+  {
+    "question": "Girl 1: What shall I do? I can't get into this dress anymore and I haven't any other suitable one for the interview. GIRL 2: WHY NOT BORROW ONE OF MINE?",
+    "options": [
+      "To inquire",
+      "To offer",
+      "To volunteer",
+      "To advise"
+    ],
+    "answer": "To offer"
+  },
+  {
+    "question": "Jenny: Should I take part in the contest? Chin: Of course, you should.",
+    "options": [
+      "To encourage",
+      "To remind",
+      "To suggest",
+      "To appeal"
+    ],
+    "answer": "To encourage"
+  },
+  {
+    "question": "Daisy: The walkathon is on 20 June. Anne: Are you going to take part?",
+    "options": [
+      "To inform",
+      "To enquire",
+      "To offer",
+      "To suggest"
+    ],
+    "answer": "To enquire"
+  },
+  {
+    "question": "Chairman: Are there any nominations for the post of treasurer? Alan: I propose Karen for the post.",
+    "options": [
+      "To agree",
+      "To request",
+      "To offer",
+      "To propose"
+    ],
+    "answer": "To propose"
+  },
+  {
+    "question": "Kelvin: I've won the first prize, Mother. Mother: That's wonderful!",
+    "options": [
+      "To express interest",
+      "To express relief",
+      "To express gratitude",
+      "To express pleasure"
+    ],
+    "answer": "To express pleasure"
+  },
+  {
+    "question": "Monitor: Why isn't the wastepaper basket emptied? Harry: It's Roy's turn today. He never does his duty.",
+    "options": [
+      "To accuse",
+      "To refuse",
+      "To propose",
+      "To warn"
+    ],
+    "answer": "To accuse"
+  },
+  {
+    "question": "Rosemary: I'm sorry I'm late for the meeting. Connor: It's all right.",
+    "options": [
+      "To wish",
+      "To inform",
+      "To welcome",
+      "To forgive"
+    ],
+    "answer": "To forgive"
+  },
+  {
+    "question": "Peter: I'm afraid I've failed my driving test. Jane: Don't worry, you can try again.",
+    "options": [
+      "To announce",
+      "To console",
+      "To remind",
+      "To regret"
+    ],
+    "answer": "To console"
+  },
+  {
+    "question": "Father: I'm giving you five dollars for the week. Eng. Hock: It's not enough!",
+    "options": [
+      "To advise",
+      "To explain",
+      "To refuse",
+      "To protest"
+    ],
+    "answer": "To protest"
+  },
+  {
+    "question": "Catherine: I won't forgive her. How can she do such a thing? Tim: Calm down. I'm sure she didn't mean to do it.",
+    "options": [
+      "To demand",
+      "To pacify",
+      "To claim",
+      "To bargain"
+    ],
+    "answer": "To pacify"
+  },
+  {
+    "question": "Sean: Ouch! I stepped on a nail. Roger: Are you all right?",
+    "options": [
+      "To express fear",
+      "To express displeasure",
+      "To express concern",
+      "To express relief"
+    ],
+    "answer": "To express concern"
+  },
+  {
+    "question": "Dalton: I propose Bobby as our troop leader. Tom: No. He is not a good leader.",
+    "options": [
+      "To object",
+      "To confirm",
+      "To brief",
+      "To clarify"
+    ],
+    "answer": "To object"
+  },
+  {
+    "question": "Robert: Give me all your money or I'll shoot. Almond: Please don't kill me.",
+    "options": [
+      "To deny",
+      "To claim",
+      "To discourage",
+      "To threaten"
+    ],
+    "answer": "To threaten"
+  },
+  {
+    "question": "Mother: How about this dress? Amanda: No, I prefer the other one. This one makes me look so old.",
+    "options": [
+      "To bargain",
+      "To scold",
+      "To command",
+      "To compare"
+    ],
+    "answer": "To compare"
+  },
+  {
+    "question": "Derek: I'm going to stay up to watch the football finals. Ben: I advise you not to. You won't be able to wake up in time for school.",
+    "options": [
+      "To threaten",
+      "To discourage",
+      "To deny",
+      "To inform"
+    ],
+    "answer": "To discourage"
+  },
+  {
+    "question": "Daisy: She is going to America tonight. Tom: Who cares?",
+    "options": [
+      "To express indifference",
+      "To express hope",
+      "To express envy",
+      "To express unwillingness"
+    ],
+    "answer": "To express indifference"
+  },
+  {
+    "question": "Abdul: Can you finish your assignment by Monday? Tammy: I'm sure I can finish my assignment on time.",
+    "options": [
+      "To compromise",
+      "To assure",
+      "To hope",
+      "To admire"
+    ],
+    "answer": "To assure"
+  },
+  {
+    "question": "Darren: Are you coming for the concert? Andrew: Which concert? I don't know anything about it.",
+    "options": [
+      "To express indifference",
+      "To express disgust",
+      "To express ignorance",
+      "To express fear"
+    ],
+    "answer": "To express ignorance"
+  },
+  {
+    "question": "Sarah: I hope we will make it to the finals this year. Jasmine: We'll all try our best.",
+    "options": [
+      "To promise",
+      "To hope",
+      "To console",
+      "To compromise"
+    ],
+    "answer": "To promise"
+  },
+  {
+    "question": "Alan: Why do you look so gloomy? Gary: I am so sad. I feel like crying.",
+    "options": [
+      "To express shock",
+      "To express anger",
+      "To express preference",
+      "To express unhappiness"
+    ],
+    "answer": "To express unhappiness"
+  },
+  {
+    "question": "Andrew: He is the most popular boy in school. Heather: He is? I can't stand him at all.",
+    "options": [
+      "To express disgust",
+      "To express envy",
+      "To express preference",
+      "To express anger"
+    ],
+    "answer": "To express disgust"
+  },
+  {
+    "question": "David: I wish I had his brains. Then I wouldn't have to study so hard. Shirley: So do I.",
+    "options": [
+      "To assure",
+      "To confirm",
+      "To agree",
+      "To hope"
+    ],
+    "answer": "To agree"
+  },
+  {
+    "question": "Kerry: We won the Thomas Cup! John: Are you sure?",
+    "options": [
+      "To suggest",
+      "To doubt",
+      "To assure",
+      "To hope"
+    ],
+    "answer": "To doubt"
+  },
+  {
+    "question": "Student: I'm sorry for making so much noise in class today. Teacher: Don't do it again.",
+    "options": [
+      "To deny",
+      "To apologize",
+      "To assure",
+      "To hope"
+    ],
+    "answer": "To apologize"
+  },
+  {
+    "question": "Tina: Who broke the glass? It must be you.",
+    "options": [
+      "To blame",
+      "To confirm",
+      "To accept",
+      "To deny"
+    ],
+    "answer": "To blame"
+  },
+  {
+    "question": "Hello, Ali! Nice to see you.",
+    "options": [
+      "To introduce",
+      "To inform",
+      "To compliment",
+      "To greet"
+    ],
+    "answer": "To greet"
+  },
+  {
+    "question": "Jacob: Well, it's getting late. I've to go now. See you tomorrow. Don: See you.",
+    "options": [
+      "To inform",
+      "To take leave",
+      "To promise",
+      "To offer"
+    ],
+    "answer": "To take leave"
+  },
+  {
+    "question": "Cathy: I wish I hadn't copied your essay! Now the teacher will never trust me again.",
+    "options": [
+      "To express anxiety",
+      "To express disappointment",
+      "To express regret",
+      "To express dislike"
+    ],
+    "answer": "To express regret"
+  },
+  {
+    "question": "Steven: Rothman! Rothman! Rothman: Oh! It's you. Do come in.",
+    "options": [
+      "To agree",
+      "To interrupt",
+      "To invite",
+      "To instruct"
+    ],
+    "answer": "To invite"
+  },
+  {
+    "question": "Jane: I just can't stand ... Joseph: Yes, I know! You can't stand talkative people. Well, no one asked you to listen.",
+    "options": [
+      "To confirm",
+      "To interrupt",
+      "To accept",
+      "To protect"
+    ],
+    "answer": "To interrupt"
+  },
+  {
+    "question": "Sam: Could you speak a little slower, please? I don't understand French very well. Jean: Of course. Sorry.",
+    "options": [
+      "to demand",
+      "To beg",
+      "To direct",
+      "To request"
+    ],
+    "answer": "To request"
+  },
+  {
+    "question": "Student: How did I do? Teacher: You got 60%. Student: Only 60%! I expected to do better.",
+    "options": [
+      "To express disappointment",
+      "To express fear",
+      "To express regret",
+      "To express hope"
+    ],
+    "answer": "To express disappointment"
+  },
+  {
+    "question": "Ashley: I'm sure Ryan took it. I saw him near at it and then, suddenly, it wasn't there anymore.",
+    "options": [
+      "To urge",
+      "To warn",
+      "To offer",
+      "To accuse"
+    ],
+    "answer": "To accuse"
+  },
+  {
+    "question": "Boy: Will you marry me? Girl: Don't be silly. Whoever gets married at seventeen these days.",
+    "options": [
+      "To scold",
+      "To disagree",
+      "To reject",
+      "To criticize"
+    ],
+    "answer": "To reject"
+  },
+  {
+    "question": "Father: Well, how did it go? Son: Only second place. Tobias won first place with his Chopin Sonnet.",
+    "options": [
+      "To express disappointment",
+      "To express disliks",
+      "To express wishes",
+      "To express regret"
+    ],
+    "answer": "To express disappointment"
+  },
+  {
+    "question": "Marco: Is anything the mater, Cassie? You look so sad! Cassie: I've failed nearly all the subjects in my trial exam. Marco: Well, that's bad, indeed. But the thing is, this exam is not all that important. And, you were ill at that time, weren't you? Otherwise, you would have done better.",
+    "options": [
+      "To scold",
+      "To defend",
+      "To agree",
+      "To console"
+    ],
+    "answer": "To console"
+  },
+  {
+    "question": "Rachel: So, is it settled then! Ten o'clock tomorrow? Albert: Right! I'll see you then.",
+    "options": [
+      "To inform",
+      "To instruct",
+      "To confirm",
+      "To accept"
+    ],
+    "answer": "To confirm"
+  },
+  {
+    "question": "Father: You'll have to get much better results than this. You will fail your A level exams at this.",
+    "options": [
+      "To threaten",
+      "To blame",
+      "To order",
+      "To warn"
+    ],
+    "answer": "To warn"
+  },
+  {
+    "question": "Mother: Don't you touch my cakes! They're for the party tonight.",
+    "options": [
+      "To request",
+      "To appeal",
+      "To order",
+      "To invite"
+    ],
+    "answer": "To order"
+  },
+  {
+    "question": "Joe: That remark was uncalled for. Raymond: I'm sorry. I shouldn't have said it.",
+    "options": [
+      "To apologize",
+      "To wish",
+      "To blame",
+      "To forgive"
+    ],
+    "answer": "To apologize"
+  },
+  {
+    "question": "Rooney: Are we going now? Mother: Yes. Don't forget to lock your room.",
+    "options": [
+      "To instruct",
+      "To remind",
+      "To announce",
+      "To inform"
+    ],
+    "answer": "To remind"
+  },
+  {
+    "question": "Kim: What shall we do this weekend? May: Why don't we go on a picnic?",
+    "options": [
+      "To welcome",
+      "To praise",
+      "To suggest",
+      "To advise"
+    ],
+    "answer": "To suggest"
+  },
+  {
+    "question": "May Li: How dare you accuse me of cheating! Susan: I didn't say that.",
+    "options": [
+      "To protest",
+      "To complain",
+      "To appeal",
+      "To warn"
+    ],
+    "answer": "To protest"
+  },
+  {
+    "question": "Rose: Sara, may I borrow your umbrella, please? Sara: I'm sorry I can't lend it to you. Why don't you borrow one from Wendy.",
+    "options": [
+      "To suggest",
+      "To remind",
+      "To encourage",
+      "To advise"
+    ],
+    "answer": "To suggest"
+  },
+  {
+    "question": "Charles: Gary, let's join Dark Glove's gang. Gary: No, I will never join them.",
+    "options": [
+      "To warn",
+      "To regret",
+      "To refuse",
+      "To apologise"
+    ],
+    "answer": "To refuse"
+  },
+  {
+    "question": "Owen: Please forgive me for being rude. Teacher: You're forgiven.",
+    "options": [
+      "To regret",
+      "To protest",
+      "To encourage",
+      "To forgive"
+    ],
+    "answer": "To forgive"
+  },
+  {
+    "question": "Mother: I wonder why Sharon has not written for a long time. Barry: Don't worry. I'm sure he is fine.",
+    "options": [
+      "To comfort",
+      "To compliment",
+      "To inform",
+      "To remind"
+    ],
+    "answer": "To comfort"
+  },
+  {
+    "question": "Mother: So you see, we can't go to the zoo today. Child: But you promised.",
+    "options": [
+      "To promise",
+      "To pacify",
+      "To protest",
+      "To explain"
+    ],
+    "answer": "To protest"
+  },
+  {
+    "question": "Boy: You did! I saw you! (angry) Girl: No, I didn't! I didn't! (angry) Mother: Calm down, now, both of you. There must have been some mistake.",
+    "options": [
+      "To protest",
+      "To pacify",
+      "To beg",
+      "To discourage"
+    ],
+    "answer": "To pacify"
+  },
+  {
+    "question": "Teacher: That girl is useless! She hasn't passed up a single exercise all year! I'm fed up! Principal: Why don't you ask her mother to come and see you.",
+    "options": [
+      "To question",
+      "To console",
+      "To suggest",
+      "To comple"
+    ],
+    "answer": "To suggest"
+  },
+  {
+    "question": "Suspect: I was at home all night reading. Detective: Was anyone with you? Suspect: No. I was alone.",
+    "options": [
+      "To confirm",
+      "To appeal",
+      "To consent",
+      "To claim"
+    ],
+    "answer": "To claim"
+  },
+  {
+    "question": "Son: I got a Grade 1, Mum. Mother: Oh, well done! I always expected you to do well.",
+    "options": [
+      "To express appreciation",
+      "To express admiration",
+      "To express approval",
+      "To express surprise"
+    ],
+    "answer": "To express admiration"
+  },
+  {
+    "question": "Husband: It's all your fault that we're late! Can't you learn to dress faster? Wife: My fault? Rubbish. You were still shaving at eight o'clock.",
+    "options": [
+      "To threaten",
+      "To condemn",
+      "To disapprove",
+      "To blame"
+    ],
+    "answer": "To blame"
+  },
+  {
+    "question": "Student: Good evening. Miss Tan, I'm so glad you could come ... but you look worried. Is anything the matter?",
+    "options": [
+      "To greet",
+      "To welcome",
+      "To invite",
+      "To compliment"
+    ],
+    "answer": "To greet"
+  },
+  {
+    "question": "Boy: Hi, you look lost. Can I help you? Tourist: Yes, I'm trying to get to the railway station.",
+    "options": [
+      "To offer",
+      "To allow",
+      "To direct",
+      "To greet"
+    ],
+    "answer": "To offer"
+  },
+  {
+    "question": "Eve: George, I'm afraid I've rather bad news for you. Helen is in hospital. George: Hospital? What happened?",
+    "options": [
+      "To express surprise",
+      "To express interest",
+      "To express shock",
+      "To express regret"
+    ],
+    "answer": "To express shock"
+  },
+  {
+    "question": "Father: Well, how was the test Son: No sweat.",
+    "options": [
+      "To express disappointment",
+      "To express happiness",
+      "To express satisfaction",
+      "To express dissatisfaction"
+    ],
+    "answer": "To express satisfaction"
+  },
+  {
+    "question": "Student: May I speak to you for a moment? Teacher: Well, I'm rather busy at the moment. Come at ten if you're free then.",
+    "options": [
+      "To apologize",
+      "To blame",
+      "To decline",
+      "To reject"
+    ],
+    "answer": "To decline"
+  },
+  {
+    "question": "Mrs. Tang: More rice, Dear? Mr. Tang: Thanks. I'm full.",
+    "options": [
+      "To decline",
+      "To deny",
+      "To inform",
+      "To explain"
+    ],
+    "answer": "To decline"
+  },
+  {
+    "question": "Mei Ling: If you want to know, I failed every single subject. Ann: Really?",
+    "options": [
+      "To express surprise",
+      "To express admiration",
+      "To express sympathy",
+      "To accuse"
+    ],
+    "answer": "To express sympathy"
+  },
+  {
+    "question": "I really appreciate the thought behind your letter. And, I felt a little better after reading.",
+    "options": [
+      "To tell",
+      "Compliment",
+      "To pairs",
+      "To explain"
+    ],
+    "answer": "To explain"
+  },
+  {
+    "question": "Your parents were very kind to me when I was a child and it's the least I can do to try to repay their kindness.",
+    "options": [
+      "express admiration",
+      "to praise",
+      "To express appreciation",
+      "To express approve"
+    ],
+    "answer": "To express appreciation"
+  },
+  {
+    "question": "Don't be angry with me, alright, Mummy? I would have told you beforehand if I could have.",
+    "options": [
+      "To ask",
+      "To plead",
+      "To compel",
+      "To urge"
+    ],
+    "answer": "To plead"
+  },
+  {
+    "question": "Do come if you possible can. I'm eager to see you. Also, its' now the rambutan season and my trees are laden. We can roam around the town too.",
+    "options": [
+      "To urge",
+      "To advise",
+      "To invite",
+      "To explain"
+    ],
+    "answer": "To invite"
+  },
+  {
+    "question": "Till we meet again, take care. Please send my warmest regards to your mother.",
+    "options": [
+      "To warn",
+      "To advise",
+      "To express interest",
+      "To take leave"
+    ],
+    "answer": "To take leave"
+  },
+  {
+    "question": "Miss Leong: I must go and help her. I'll see you later at the party. Student: Yes, alright.",
+    "options": [
+      "To take leave",
+      "To announce",
+      "To instruct",
+      "To promise"
+    ],
+    "answer": "To promise"
+  },
+  {
+    "question": "Boy: That's it. You'll see the railway station in front of you. Tourist: Oh! Can it be so close by then? I'd never have expected so.",
+    "options": [
+      "To express anxiety",
+      "To express dismay",
+      "To express surprise",
+      "To express interest"
+    ],
+    "answer": "To express surprise"
+  },
+  {
+    "question": "Sorry. I'm not trying to be rude. I'm just used to speaking in this way.",
+    "options": [
+      "To describe",
+      "To explain",
+      "To protest",
+      "To deny"
+    ],
+    "answer": "To explain"
+  },
+  {
+    "question": "Student: I'm sorry but I didn't bring my book. Teacher: Again! Well, this is he second time you've done it this week. If you do it just once more, you will have to leave the class.",
+    "options": [
+      "To command",
+      "To criticize",
+      "To warn",
+      "To complain"
+    ],
+    "answer": "To warn"
+  },
+  {
+    "question": "Boy: Will you come to the pictures with me? Girl: Yes. I'd love to.",
+    "options": [
+      "To request",
+      "To invite",
+      "To suggest",
+      "To offer"
+    ],
+    "answer": "To invite"
+  },
+  {
+    "question": "Girl 1: I don't think it's going to rain. Do you? Girl 2: Well, if I were you, I'd take an umbrella with me, anyway.",
+    "options": [
+      "To offer",
+      "To advise",
+      "To threaten",
+      "To urge"
+    ],
+    "answer": "To advise"
+  },
+  {
+    "question": "Child: Mother, can I come with you? Mother: I guess so. Come on, then.",
+    "options": [
+      "To consent",
+      "To thank",
+      "To direct",
+      "To suggest"
+    ],
+    "answer": "To consent"
+  },
+  {
+    "question": "Teacher: Well, at long last, I have received a reply from the scholarship board regarding your application. Student: You have? Well, ... so ... did I ... I mean.",
+    "options": [
+      "To express interest",
+      "To express anxiety",
+      "To express fear",
+      "To express surprise"
+    ],
+    "answer": "To express anxiety"
+  },
+  {
+    "question": "Teacher: Look and see for yourself. Student: (Looks at letter) Oh! Oh! I got it! I got it! Oh boy.",
+    "options": [
+      "To express shock",
+      "To express surprise",
+      "To express happiness",
+      "To express satisfaction"
+    ],
+    "answer": "To express happiness"
+  },
+  {
+    "question": "Girl 1: I'm sure to fail! I just can't understand Maths. I might as well give up. Girl 2: Don't give up. You will understand it. Just keep trying and you will succeed.",
+    "options": [
+      "To explain",
+      "To confirm",
+      "To agree",
+      "To encourage"
+    ],
+    "answer": "To encourage"
+  },
+  {
+    "question": "Boy: Oh, I'm so sorry I'm late. I missed the bus! Girl: I'm sick and tired of your being late. We're through.",
+    "options": [
+      "To apologize",
+      "To explain",
+      "To claim",
+      "To persuade"
+    ],
+    "answer": "To scold"
+  },
+  {
+    "question": "Teacher: All the girls who didn't finish this exercise will have to stay back after school to do it. Student: But there was not enough time for us to do it. How could we have finished that exercise in ten minutes.",
+    "options": [
+      "To deny",
+      "To scold",
+      "To disagree",
+      "To protest"
+    ],
+    "answer": "To protest"
+  },
+  {
+    "question": "Student 1: You stole my pen, didn't you? You thief! Student 2: What? Me?",
+    "options": [
+      "To accuse",
+      "To ask",
+      "To announce",
+      "To blame"
+    ],
+    "answer": "To ask"
+  },
+  {
+    "question": "Teacher: Didn't you apply for the scholarship for needy children? Mariah: Not actually. It was the scholarship for servicemen's children.",
+    "options": [
+      "To deny",
+      "To reject",
+      "To disagree",
+      "To decline"
+    ],
+    "answer": "To deny"
+  },
+  {
+    "question": "Shall I carry this bag for you?",
+    "options": [
+      "Asking information",
+      "Offering help",
+      "Giving information",
+      "Proposing"
+    ],
+    "answer": "Offering help"
+  },
+  {
+    "question": "shall I do it for you?",
+    "options": [
+      "Offering help",
+      "Making a request",
+      "Seeking help",
+      "Seeking information"
+    ],
+    "answer": "Offering help"
+  },
+  {
+    "question": "Man 1: What shall I do? I can't get into this dress anymore and I haven't any suitable one for the Man 2: Why not borrow one of mine.",
+    "options": [
+      "To inquire",
+      "To offer",
+      "To volunteer",
+      "To advise"
+    ],
+    "answer": "To offer"
+  },
+  {
+    "question": "Man: Can I give you a lift? Lady: No, thanks.",
+    "options": [
+      "To offer",
+      "To invite",
+      "To urge",
+      "To volunteer"
+    ],
+    "answer": "To offer"
+  },
+  {
+    "question": "could you give me your pen?",
+    "options": [
+      "Making a request",
+      "Asking a request",
+      "Making a suggestion",
+      "Asking a help"
+    ],
+    "answer": "Making a request"
+  },
+  {
+    "question": "Ahmed: Could you speak a little slower, please? I don't understand French. Sami: Of course. Sorry.",
+    "options": [
+      "To demand",
+      "To beg",
+      "To direct",
+      "To request"
+    ],
+    "answer": "To request"
+  },
+  {
+    "question": "Sam: hello, Mary you look worried, can I help you? Mary: could you lend me twenty dollars?",
+    "options": [
+      "To inform",
+      "To apologize",
+      "To request",
+      "To offer"
+    ],
+    "answer": "To request"
+  },
+  {
+    "question": "Mani: Ali are you free this evening? Ali: yes. Mani: Would you like to come over to my house?",
+    "options": [
+      "How about giving me a treat?",
+      "Please invite me.",
+      "Would you like to come over to my house?",
+      "Have you received my invitation letter?"
+    ],
+    "answer": "Would you like to come over to my house?"
+  },
+  {
+    "question": "would you like to play soccer?",
+    "options": [
+      "A suggestion",
+      "Permission",
+      "Invitation",
+      "Faver"
+    ],
+    "answer": "Invitation"
+  },
+  {
+    "question": "Ahmed: Rami! Rami! Rami: Oh! It's you. Do come in.",
+    "options": [
+      "To greet",
+      "To interrupt",
+      "To invite",
+      "To instruct"
+    ],
+    "answer": "To invite"
+  },
+  {
+    "question": "why don’t we take a break?",
+    "options": [
+      "Order",
+      "Suggest",
+      "Request",
+      "Question"
+    ],
+    "answer": "Suggest"
+  },
+  {
+    "question": "we have nothing to do this evening. Shall we see a film this evening?",
+    "options": [
+      "Question",
+      "Request",
+      "Suggest",
+      "Offer"
+    ],
+    "answer": "Suggest"
+  },
+  {
+    "question": "let’s go back at once.",
+    "options": [
+      "Asking questions",
+      "Making a request",
+      "Making a offer",
+      "Making suggestion"
+    ],
+    "answer": "Making suggestion"
+  },
+  {
+    "question": "if I were you, I would buy a new mobile phone.",
+    "options": [
+      "Faver",
+      "Suggest",
+      "Permission",
+      "Invitation"
+    ],
+    "answer": "Suggest"
+  },
+  {
+    "question": "My uncle is visiting me this afternoon. Could I leave the office early?",
+    "options": [
+      "Asking a question",
+      "Making a suggestion",
+      "Making a offer",
+      "Seeking permission"
+    ],
+    "answer": "Seeking permission"
+  },
+  {
+    "question": "can I see the manager?",
+    "options": [
+      "Seeking permission",
+      "Making a suggestion",
+      "Making a offer",
+      "Making help"
+    ],
+    "answer": "Seeking permission"
+  },
+  {
+    "question": "you can go now.",
+    "options": [
+      "Giving advise",
+      "Expressing inability",
+      "Giving permission",
+      "Expressing ability"
+    ],
+    "answer": "Giving permission"
+  },
+  {
+    "question": "do you mind if I smoke?",
+    "options": [
+      "Permission",
+      "Faver",
+      "Suggest",
+      "Invitation"
+    ],
+    "answer": "Permission"
+  },
+  {
+    "question": "can I go out?",
+    "options": [
+      "Suggest",
+      "Faver",
+      "Invitation",
+      "Permission"
+    ],
+    "answer": "Permission"
+  },
+  {
+    "question": "Speaker 1: I suggest we go to London? Speaker 2: I don`t think I can.",
+    "options": [
+      "To agree",
+      "To refuse",
+      "To argue",
+      "To condemn"
+    ],
+    "answer": "To refuse"
+  },
+  {
+    "question": "Speaker A: it feels like Spring today! Speaker B: really? It feels humid.",
+    "options": [
+      "To confirm",
+      "To mitigate",
+      "To excuse",
+      "To disagree"
+    ],
+    "answer": "To disagree"
+  },
+  {
+    "question": "Speaker A: prepare your ID cards and fasten seat belts. Speaker B: All right.",
+    "options": [
+      "To inform",
+      "To disagree",
+      "To claim",
+      "To intimidate"
+    ],
+    "answer": "To inform"
+  },
+  {
+    "question": "Speaker 1: We are winning the sixth war, long live the king. Speaker 2: Long live the king!",
+    "options": [
+      "To agree",
+      "To excuse",
+      "To take leave",
+      "To celebrate"
+    ],
+    "answer": "To celebrate"
+  },
+  {
+    "question": "Room partner: do I have to clean the room twice a day? Speaker 2: It has never been my mess.",
+    "options": [
+      "To agree",
+      "To celebrate",
+      "To mitigate",
+      "To protest"
+    ],
+    "answer": "To protest"
+  },
+  {
+    "question": "Police officer: Car registration papers please! Driver: All right Sir.",
+    "options": [
+      "To order",
+      "To inform",
+      "To take leave",
+      "To disagree"
+    ],
+    "answer": "To order"
+  },
+  {
+    "question": "Speaker A: I don`t want to see you now, get off!",
+    "options": [
+      "To agree",
+      "To claim",
+      "To refuse",
+      "To dismiss"
+    ],
+    "answer": "To dismiss"
+  },
+  {
+    "question": "Player A: you had the worst performance today. Player B: Yea it wasn`t actually me.",
+    "options": [
+      "To order",
+      "To celebrate",
+      "To thank",
+      "To blame"
+    ],
+    "answer": "To blame"
+  },
+  {
+    "question": "Speaker: I need to hurry up to my aunt now, it was a nice session.",
+    "options": [
+      "To blame",
+      "To take leave",
+      "To celebrate",
+      "To agree"
+    ],
+    "answer": "To take leave"
+  },
+  {
+    "question": "Mother: I haven’t seen my pet since the last weekend! Kids: We will search for it.",
+    "options": [
+      "To volunteer",
+      "To celebrate",
+      "To apologize",
+      "To intimidate"
+    ],
+    "answer": "To volunteer"
+  },
+  {
+    "question": "Coach: I expect a better performance. Player: I’m doing my best.",
+    "options": [
+      "To inform",
+      "To excuse",
+      "To mourn",
+      "To encourage"
+    ],
+    "answer": "To excuse"
+  },
+  {
+    "question": "Teacher: Keep your marks high. Student: I will do my best.",
+    "options": [
+      "To fear",
+      "To inform",
+      "To claim",
+      "To promise"
+    ],
+    "answer": "To promise"
+  },
+  {
+    "question": "Sargent: regroup now! Soldier: coming Sir.",
+    "options": [
+      "To inform",
+      "To express fear",
+      "To confirm",
+      "To describe"
+    ],
+    "answer": "To inform"
+  },
+  {
+    "question": "Mother: get back before dark, otherwise your dad will get angry. Son: Ok mom I will for sure.",
+    "options": [
+      "To volunteer",
+      "To inform",
+      "To claim",
+      "To threaten"
+    ],
+    "answer": "To threaten"
+  },
+  {
+    "question": "Speaker: Listen to me all please, my new baby`s name will be Marry.",
+    "options": [
+      "To claim",
+      "To announce",
+      "To protest",
+      "To condemn"
+    ],
+    "answer": "To announce"
+  },
+  {
+    "question": "Ali: Ahmed, I want you to meet Sameer, Sameer this is Ahmed. Sameer: Nice to meet you. Ahmed: Nice to meet you too.",
+    "options": [
+      "To volunteer",
+      "To take leave",
+      "To introduce",
+      "To express anger"
+    ],
+    "answer": "To introduce"
+  },
+  {
+    "question": "Speaker 1: Long time no see dad! Speaker 2: Welcome back my dear son.",
+    "options": [
+      "To welcome",
+      "To agree",
+      "To inform",
+      "To refuse"
+    ],
+    "answer": "To welcome"
+  },
+  {
+    "question": "Speaker A: What time is it? Speaker B: 9 pm.",
+    "options": [
+      "To ask",
+      "To agree",
+      "To disagree",
+      "To condemn"
+    ],
+    "answer": "To ask"
+  },
+  {
+    "question": "Speaker A: Your shoes are full of mud! Speaker B: it is muddy outside.",
+    "options": [
+      "To agree",
+      "To welcome",
+      "To inform",
+      "To condemn"
+    ],
+    "answer": "To inform"
+  },
+  {
+    "question": "Speaker 1: Do not lose the ball to the opponent. Speaker 2: I am doing my best.",
+    "options": [
+      "To agree",
+      "To inform",
+      "To question",
+      "To claim"
+    ],
+    "answer": "To claim"
+  },
+  {
+    "question": "Speaker A: I feel so bored. Speaker B: Let`s go to the movies.",
+    "options": [
+      "To urge",
+      "To suggest",
+      "To blame",
+      "To condemn"
+    ],
+    "answer": "To suggest"
+  },
+  {
+    "question": "Speaker A: I am very sick. Speaker B: I wish you soon feel better.",
+    "options": [
+      "To announce",
+      "To wish",
+      "To protest",
+      "To condemn"
+    ],
+    "answer": "To wish"
+  },
+  {
+    "question": "Speaker A: He is late for school! Speaker B: Let`s give him a ride.",
+    "options": [
+      "To blame",
+      "To suggest",
+      "To confirm",
+      "To assure"
+    ],
+    "answer": "To suggest"
+  },
+  {
+    "question": "Speaker A: What are you doing here? Speaker B: None of your business!",
+    "options": [
+      "To protest",
+      "To wish",
+      "To inform",
+      "To express offense"
+    ],
+    "answer": "To express offense"
+  },
+  {
+    "question": "Employee: I am quitting this job. Director: Request denied.",
+    "options": [
+      "To take leave",
+      "To volunteer",
+      "To express anger",
+      "To deny"
+    ],
+    "answer": "To deny"
+  },
+  {
+    "question": "Speaker A: If you touch my kid I will call the police. Speaker B: Come on, I am joking.",
+    "options": [
+      "To refuse",
+      "To assure",
+      "To claim",
+      "To threaten"
+    ],
+    "answer": "To threaten"
+  },
+  {
+    "question": "Speaker A: My father has just died. Speaker B: I am sorry to hear that.",
+    "options": [
+      "To express fear",
+      "To express condolences",
+      "To agree",
+      "To express joy"
+    ],
+    "answer": "To express condolences"
+  },
+  {
+    "question": "Speaker A: I am from Iraq. Speaker B: Me too, I am very glad to hear that.",
+    "options": [
+      "To show solidarity",
+      "To threaten",
+      "To refuse",
+      "To fear"
+    ],
+    "answer": "To show solidarity"
+  },
+  {
+    "question": "Teacher: you are all present today, right? Students: Yes Sir.",
+    "options": [
+      "To volunteer",
+      "To take leave",
+      "To express anger",
+      "To confirm"
+    ],
+    "answer": "To confirm"
+  },
+  {
+    "question": "Speaker A: Hi dear, How are you? Speaker B: I am fine thanks.",
+    "options": [
+      "To welcome",
+      "To refuse",
+      "To assure",
+      "To threaten"
+    ],
+    "answer": "To greet"
+  },
+  {
+    "question": "Player A: it is so hot today. Player B: I believe that too.",
+    "options": [
+      "To refuse",
+      "To agree",
+      "To remind",
+      "To threaten"
+    ],
+    "answer": "To agree"
+  },
+  {
+    "question": "don't ………. me I have an exam tomorrow.",
+    "options": [
+      "Disturbs",
+      "disturb",
+      "disturbed",
+      "disturbing"
+    ],
+    "answer": "disturb"
+  },
+  {
+    "question": "Henry: How did she take it? Tim: My sister really liked that doll house, and obviously she was not very……….. But, I told her that I would build a better one for her. So, I need your help.",
+    "options": [
+      "Sure",
+      "fast",
+      "happy",
+      "strong"
+    ],
+    "answer": "happy"
+  },
+  {
+    "question": "she has not been to Paris -----along time.",
+    "options": [
+      "since",
+      "till",
+      "for",
+      "to"
+    ],
+    "answer": "for"
+  },
+  {
+    "question": "Tim: Henry, what are you doing? Henry: I have been trying to solve this physics problem for the last half hour, and I still have no idea how to do it. Tim: When do you have to turn it in? Henry: --------at the end of this week.",
+    "options": [
+      "It is not",
+      "It is due",
+      "It is time",
+      "It is brings"
+    ],
+    "answer": "It is due"
+  },
+  {
+    "question": "tom: now that your problem is solved, I need you to lend me hand with -----------.",
+    "options": [
+      "Yours",
+      "she",
+      "my",
+      "mine"
+    ],
+    "answer": "mine"
+  },
+  {
+    "question": "Mrs. Anderson: I am baking cakes. This is your favourite carrot cake. Debbie: It looks really yummy. And I see muffins over there too. You were Busy……….,?",
+    "options": [
+      "Were you not",
+      "weren’t you",
+      "Wasn't you",
+      "Was you"
+    ],
+    "answer": "weren’t you"
+  },
+  {
+    "question": "she is ------- beautiful that everybody looks at her.",
+    "options": [
+      "some",
+      "such",
+      "though",
+      "so"
+    ],
+    "answer": "so"
+  },
+  {
+    "question": "-----------------------? Yes, here it is.",
+    "options": [
+      "Do you see the map there",
+      "How have you been",
+      "How is it going",
+      "May I see your library card"
+    ],
+    "answer": "May I see your library card"
+  },
+  {
+    "question": "Mrs. Anderson: Yes. Jeff has to take something to school tomorrow. So, those muffins are for------------. Don’t touch them.",
+    "options": [
+      "Me",
+      "you",
+      "him",
+      "her"
+    ],
+    "answer": "him"
+  },
+  {
+    "question": "Can I have another piece please?",
+    "options": [
+      "Please do",
+      "Tanks a lot",
+      "Neither do I",
+      "Fine thank you"
+    ],
+    "answer": "Please do"
+  },
+  {
+    "question": "would you mind --------- these rooms?",
+    "options": [
+      "Paint",
+      "painting",
+      "painted",
+      "To paint"
+    ],
+    "answer": "painting"
+  },
+  {
+    "question": "Could you -------------me your umbrella?",
+    "options": [
+      "Lending",
+      "lend",
+      "lends",
+      "Was lending"
+    ],
+    "answer": "lend"
+  },
+  {
+    "question": "He is man ---------------virtue.",
+    "options": [
+      "About",
+      "in",
+      "for",
+      "of"
+    ],
+    "answer": "of"
+  },
+  {
+    "question": "he used to watch tv a lot when he ------- a child.",
+    "options": [
+      "Was",
+      "where",
+      "is",
+      "had"
+    ],
+    "answer": "Was"
+  },
+  {
+    "question": "Excuse me, have you got a light?",
+    "options": [
+      "It's dark now",
+      "It's already on",
+      ". It's alright",
+      "Not on me"
+    ],
+    "answer": "Not on me"
+  },
+  {
+    "question": "You'd better get a move on!",
+    "options": [
+      "I am swim in the river",
+      "Put it in the kitchen",
+      "I don't want it",
+      "I'm going as fast as I can"
+    ],
+    "answer": "I'm going as fast as I can"
+  },
+  {
+    "question": "Do you mind if I switch the television on?",
+    "options": [
+      "Not at all, go ahead",
+      "Don't mention it",
+      "No, it's too loud",
+      "yes, change it"
+    ],
+    "answer": "Not at all, go ahead"
+  },
+  {
+    "question": "What's up?",
+    "options": [
+      "I've just lost my job",
+      "yes, change it",
+      "The stairs are over here",
+      "A beer, please"
+    ],
+    "answer": "I've just lost my job"
+  },
+  {
+    "question": "Thanks for your help.",
+    "options": [
+      "I don't want it",
+      "Yes, please",
+      "It wasn't necessary",
+      "Don't mention it"
+    ],
+    "answer": "Don't mention it"
+  },
+  {
+    "question": "Could you tell me the way to the airport?",
+    "options": [
+      "I'm stranger myself",
+      "Thank you very much indeed",
+      "How far is it?",
+      "What a nonsense!"
+    ],
+    "answer": "I'm stranger myself"
+  },
+  {
+    "question": "how much is this?",
+    "options": [
+      "Thirty-five kilometers",
+      "Fifty thousand dollars",
+      "Too much",
+      "Not much"
+    ],
+    "answer": "Fifty thousand dollars"
+  },
+  {
+    "question": "would you like --------- with me.",
+    "options": [
+      "Come",
+      "to come",
+      "came",
+      "comes"
+    ],
+    "answer": "to come"
+  },
+  {
+    "question": "John: I just started ----------------------.",
+    "options": [
+      "Sometime",
+      "This week",
+      "tomorrow",
+      "Next week"
+    ],
+    "answer": "This week"
+  },
+  {
+    "question": "Two: 'I'm doing alright. How about you?' One: '……... The weather is great, isn't it?'",
+    "options": [
+      "Not bad too",
+      "Bad no too",
+      "Bad at too",
+      "Not too bad"
+    ],
+    "answer": "Not too bad"
+  },
+  {
+    "question": "Get------------ the bus.",
+    "options": [
+      "On",
+      "in",
+      "at",
+      "out"
+    ],
+    "answer": "On"
+  },
+  {
+    "question": "Tom: Do you know David Lewis? Adam: ......................................................................... Tom: He is very tall and he's got quite short, brown hair.",
+    "options": [
+      "I recognize the name but I can't picture him. What does he look like?",
+      "Where is he from?",
+      "How old is he?",
+      "Yes, he is my best friend."
+    ],
+    "answer": "I recognize the name but I can't picture him. What does he look like?"
+  },
+  {
+    "question": "Adam: Do you know Emma Smith? Tom: Emma Smith. Mmm. I recognize the name but I can't picture her. What does she look like? Adam: She is quite tall and she's got long curly hair. Tom:.....................................Does she usually wear a white T-shirt? Adam: Yes, That's her.",
+    "options": [
+      "Where is she from?",
+      "She is friend with Laura.",
+      "I know who you mean",
+      "I haven't seen her before"
+    ],
+    "answer": "I know who you mean"
+  },
+  {
+    "question": "Tom: Do you know Brian Christopher? Adam: I can't picture him................................ Tom: He is quite short and he's got short straight hair. He is cheerful.",
+    "options": [
+      "What does he like?",
+      "What does he look like?",
+      "How is he?",
+      "Where is he from?"
+    ],
+    "answer": "What does he look like?"
+  },
+  {
+    "question": "Tom: Juliet asks a lot of questions in the class. Her teachers are fed up with her questions. Adam:..................................... Tom: Yes, She is very curious.",
+    "options": [
+      "Does she know English?",
+      "Is she helpful?",
+      "Does she like her teachers?",
+      "Is she curious?"
+    ],
+    "answer": "Is she curious?"
+  },
+  {
+    "question": "Tom: Daniel is very ambitious. Adam: How do you know? Tom:...................................................",
+    "options": [
+      "He wants to play football for his country.",
+      "He doesn't like studying.",
+      "He always plays truant.",
+      "He usually gets bed marks."
+    ],
+    "answer": "He wants to play football for his country."
+  },
+  {
+    "question": "Adam: My parents don't give me enough pocket money. Tom: ..................................................... Adam: No, they aren't. But they don't trust me I think.",
+    "options": [
+      "Do they have enough money?",
+      "Are they a bit mean?",
+      "Did they know that your pocket money is not enough for you?",
+      "Do your parents work?"
+    ],
+    "answer": "Are they a bit mean?"
+  },
+  {
+    "question": "Tom: What is your brother like? Adam:....................................................... He can't talk in front of people.",
+    "options": [
+      "He is very generous.",
+      "He is very tall.",
+      "He likes eating hamburger.",
+      "He is incredibly shy."
+    ],
+    "answer": "He is incredibly shy."
+  },
+  {
+    "question": "Tom: Who is that girl over there? Adam:......................................................... Tom: No, the girl with the long hair? Adam: No, the girl with the blue jeans. Adam: She is my cousin, Betty.",
+    "options": [
+      "Which one? The girl with long hair?",
+      "She is wearing the blue jeans.",
+      "Do you know her?",
+      "Are they standing there?"
+    ],
+    "answer": "Which one? The girl with long hair?"
+  },
+  {
+    "question": "Adam: The actor in this film is very good looking. Tom: He is very talented too. Adam:.................................................",
+    "options": [
+      "He is very clever.",
+      "He needs a lot of luck.",
+      "But he's got a very big ego.",
+      "Everybody admires him."
+    ],
+    "answer": "Everybody admires him."
+  },
+  {
+    "question": "Tom: Who is the guy with the long hair sitting near Linda? Adam: That's Alex. Tom:............................................... Adam: How do you know? Tom: He never laughs.",
+    "options": [
+      "He is very confident.",
+      "He must be very serious.",
+      "I think he is very ambitious.",
+      "He is very sensitive, I think."
+    ],
+    "answer": "He must be very serious."
+  },
+  {
+    "question": "Shakespeare \_\_\_\_\_\_\_\_\_\_ a wife. He was single.",
+    "options": [
+      "wasn't have",
+      "didn't have",
+      "had",
+      "didn't had"
+    ],
+    "answer": "didn't have"
+  },
+  {
+    "question": "My brother was so happy because he \_\_\_\_\_\_\_\_ the school team.",
+    "options": [
+      "joined",
+      "joins",
+      "joining",
+      "did join"
+    ],
+    "answer": "joined"
+  },
+  {
+    "question": "A: Who \_\_\_\_\_\_\_\_\_\_\_\_ Mona Lisa? B: Leonarda da Vinci \_\_\_\_\_\_\_\_\_\_ it.",
+    "options": [
+      "paints / paint",
+      "did paint / painted",
+      "did painted / painted",
+      "painted / painted"
+    ],
+    "answer": "painted / painted"
+  },
+  {
+    "question": "Susan \_\_\_\_\_\_\_\_\_ her mother about a film she \_\_\_\_\_\_\_ on TV.",
+    "options": [
+      "tells / looking",
+      "spoke / seen",
+      "told / saw",
+      "speaks / watched"
+    ],
+    "answer": "told / saw"
+  },
+  {
+    "question": "My father \_\_\_\_\_\_\_\_\_\_\_\_ late, so he \_\_\_\_\_\_\_\_ a taxi.",
+    "options": [
+      "wakes up / got",
+      "woke up / got",
+      "is waking up / getting",
+      "has woken up / gets"
+    ],
+    "answer": "woke up / got"
+  },
+  {
+    "question": "Shakespeare \_\_\_\_\_\_\_\_ a printing company.",
+    "options": [
+      "had",
+      "has had",
+      "has",
+      "was having"
+    ],
+    "answer": "didn't have"
+  },
+  {
+    "question": "The students \_\_\_\_\_\_\_\_\_\_ stories for homework yesterday.",
+    "options": [
+      "has written",
+      "have written",
+      "wrote",
+      "were written"
+    ],
+    "answer": "wrote"
+  },
+  {
+    "question": "How \_\_\_\_\_\_\_\_ your friend \_\_\_\_\_\_\_\_\_\_ to the train station last night?",
+    "options": [
+      "did / got",
+      "has / gotten",
+      "has / got",
+      "did / get"
+    ],
+    "answer": "did / get"
+  },
+  {
+    "question": "John \_\_\_\_\_\_\_ the old lady carry her shopping bags yesterday.",
+    "options": [
+      "helped",
+      "helps",
+      "was helped",
+      "help"
+    ],
+    "answer": "helped"
+  },
+  {
+    "question": "Unfortunately, he \_\_\_\_\_\_\_\_\_\_ late last night and \_\_\_\_\_\_\_\_\_ the play.",
+    "options": [
+      "was arriving / missed",
+      "arrived / missed",
+      "arrived / was missing",
+      "has arrived / has missed"
+    ],
+    "answer": "arrived / missed"
+  },
+  {
+    "question": "You want someone to take a photo of you. What do you say?",
+    "options": [
+      "a) May I take your photo?",
+      "b) Can I take a photo of you?",
+      "c) Can you take a photo of me?",
+      "d) Do you want to take a photo of me?"
+    ],
+    "answer": "c) Can you take a photo of me?"
+  },
+  {
+    "question": "At a party. Walfrey: I like this song. What's the name? Eric: \_\_\_\_\_\_\_\_\_\_? I cannot hear you.",
+    "options": [
+      "a) I don't know this song",
+      "b) It is \"Shape of You\"",
+      "c) Sorry, what did you say",
+      "d) I like this song, too"
+    ],
+    "answer": "c) Sorry, what did you say"
+  },
+  {
+    "question": "Joe: My pet dog died yesterday. Liz: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_",
+    "options": [
+      "a) I'm sorry to hear that.",
+      "b) What does your dog like to eat?",
+      "c) I'm happy to hear that",
+      "d) How old is your dog?"
+    ],
+    "answer": "a) I'm sorry to hear that."
+  },
+  {
+    "question": "John and Mary are at a party. John: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. I like this song.",
+    "options": [
+      "a) Please turn up the music",
+      "b) Please turn on the music",
+      "c) Please turn down the music",
+      "d) Please turn off the music"
+    ],
+    "answer": "a) Please turn up the music"
+  },
+  {
+    "question": "Beth: Let's go and watch a movie Jane: \_\_\_\_\_\_\_\_\_\_\_. I like watching movies.",
+    "options": [
+      "a) I don't want to watch.",
+      "b) That's very kind of you.",
+      "c) That's a bad idea.",
+      "d) That's a good idea."
+    ],
+    "answer": "d) That's a good idea."
+  },
+  {
+    "question": "Michele is talking on the phone with John. Michele: Can you ask Mary to call back Michele. John: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, please. Michele: Michele, M-I-C-H-E-L-E. Thank you.",
+    "options": [
+      "a) Speak softly",
+      "b) Say your name again",
+      "c) Where do you live",
+      "d) What is your number"
+    ],
+    "answer": "b) Say your name again"
+  },
+  {
+    "question": "Peter: What is your favorite hobby? Jake: I like collecting stamps. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_? Peter: I like drawing pictures.",
+    "options": [
+      "a) What are you doing",
+      "b) How are you",
+      "c) Why about you",
+      "d) How about you"
+    ],
+    "answer": "d) How about you"
+  },
+  {
+    "question": "Alex and Rose have an appointment to meet at 4 o'clock. Alex: It is 5 o'clock already, you \_\_\_\_\_\_\_\_\_\_. Rose: I am sorry.",
+    "options": [
+      "a) are very early",
+      "b) are on time",
+      "c) are very late",
+      "d) have no time"
+    ],
+    "answer": "c) are very late"
+  },
+  {
+    "question": "Mother: Did you enjoy English Camp today? Tom: Yes, \_\_\_\_\_\_\_\_\_\_\_\_ .",
+    "options": [
+      "a) I was fun",
+      "b) it was fun",
+      "c) it was funny",
+      "d) I was funny"
+    ],
+    "answer": "b) it was fun"
+  },
+  {
+    "question": "Sarah: John, this is my new friend, Mary. John: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, Mary. Mary: Nice to meet you too.",
+    "options": [
+      "a) How are you?",
+      "b) Nice to meet you",
+      "c) Hello",
+      "d) I am happy"
+    ],
+    "answer": "b) Nice to meet you"
+  },
+  {
+    "question": "Man: It doesn't make any sense us to go home for spring vacation now. Woman: Especially Since we will be graduating in May. What does the woman mean?",
+    "options": [
+      "(A)she will not go home for spring vacation.",
+      "(B) She has not taken a vacation for a long time.",
+      "(C) She does not plan to graduate.",
+      "(D)She does not want to go home after graduation in May."
+    ],
+    "answer": "(A)she will not go home for spring vacation."
+  },
+  {
+    "question": "Man: Could you please explain assignment for Monday. Miss Smith? Woman: Certainly. Read the next chapter in your textbook and come to class prepared to discuss What you've read. What does the speaker talking about?",
+    "options": [
+      "(A)the class.",
+      "(B) The weekend.",
+      "(C)homework",
+      "(D)Books."
+    ],
+    "answer": "(C)homework"
+  },
+  {
+    "question": "Woman Are you ready for this? Man: Should be. I've cramming for the past three days. What does the man mean?",
+    "options": [
+      "(A) He Should have prepared more.",
+      "(B) He is very worried.",
+      "(C) He has been studying a lot.",
+      "(D) He needs a few more days."
+    ],
+    "answer": "(C) He has been studying a lot."
+  },
+  {
+    "question": "Man: I need a book for English two-twenty-one. Woman: All of the textbooks are on the shelves in the back of the Store. What will the man probably do?",
+    "options": [
+      "(A)Buy a textbook.",
+      "(B)Come back later.",
+      "(C)Go to the bookstore.",
+      "(D)Drop his English class"
+    ],
+    "answer": "(A)Buy a textbook."
+  },
+  {
+    "question": "Man: You're in my economics class. aren't you? Woman: Yes. I'm not an economics major. though. Man: So. What do you think of professor Collins. Woman: I think he is a great person but the class just turns me Off. What does the woman mean?",
+    "options": [
+      "(A)she does not like the class",
+      "(B)Her classmates are really great.",
+      "(C)The professor is not very nice.",
+      "(D)The class is interesting."
+    ],
+    "answer": "(A)she does not like the class"
+  },
+  {
+    "question": "Man: Have you made an appointment With Peterson's yet? Woman: No, And I really cannot put it off anymore. What will the woman probably do?",
+    "options": [
+      "(A) Make an appointment with Dr. Peterson's T.A.",
+      "(B) Cancel her appointment with the T.A.",
+      "(C) postpone her appointment with Dr. Peterson's T.A.",
+      "(D) see the T.A. more often."
+    ],
+    "answer": "(A) Make an appointment with Dr. Peterson's T.A."
+  },
+  {
+    "question": "Woman: How do you like English food? Man: I'm used to it now. What does the man mean?",
+    "options": [
+      "(A) He would rather have English food.",
+      "(B)He has always liked English food.",
+      "(C) He is accustomed to eating English food.",
+      "(D)He eat English food more in the past."
+    ],
+    "answer": "(C) He is accustomed to eating English food."
+  },
+  {
+    "question": "Woman: Are you still studying? It is two o'clock in the morning. Man: I know. I just cannot seem to get caught up. What does the man mean?",
+    "options": [
+      "(A) He should go to bed",
+      "(B) He did not know the time.",
+      "(C) He is trying to bring his work up to date.",
+      "(D) He is not sleepy yet."
+    ],
+    "answer": "(C) He is trying to bring his work up to date."
+  },
+  {
+    "question": "Man: It's your turn to call the names on the list if you want. Woman: I think I'll pass this time. What is the woman going to do?",
+    "options": [
+      "(A)Spend some time with the man.",
+      "(B) Make a list of the names.",
+      "(C) Pass out the names.",
+      "(D)Let someone else call the names."
+    ],
+    "answer": "(D)Let someone else call the names."
+  },
+  {
+    "question": "Woman: I'm pretty sure that the deadline for applications has passed. Man: Why don't you let me look into it for you? What does the man mean?",
+    "options": [
+      "(A)the woman has missed the deadline.",
+      "(B) he will investigate the situation.",
+      "(C) The deadline has been canceled.",
+      "(D) An exception might be possible."
+    ],
+    "answer": "(B) he will investigate the situation."
+  },
+  {
+    "question": "Man: This is the first time I've had to get a tutor. Woman: What seems to be the problem? Man: Well, I understand the lectures but I get mixed up when I try to read the book. What does the man mean?",
+    "options": [
+      "(A) The book is confusing.",
+      "(B) He is doing well in the class.",
+      "(C) The teacher is not very clear.",
+      "(D) The lectures are from the book."
+    ],
+    "answer": "(A) The book is confusing."
+  },
+  {
+    "question": "Man: The paper isn't due until next week. Woman: Yes, I know, But I wanted to turn it in ahead of time if that's all right. What does the woman mean?",
+    "options": [
+      "(A)She wants to submit her paper early.",
+      "(B) answers on paper are all correct,",
+      "(C) The deadline has passed for the paper.",
+      "(D) The paper is not quite finished"
+    ],
+    "answer": "(A)She wants to submit her paper early."
+  },
+  {
+    "question": "Man: I cannot stand this class! Woman: well, you might as well get used to it. You have to take it in Order to graduate. What does the woman say about the class?",
+    "options": [
+      "(A) She does not like the Class.",
+      "(B) It is not a required class.",
+      "(C) She has already taken the class.",
+      "(D) The man will have to take the class."
+    ],
+    "answer": "(D) The man will have to take the class."
+  },
+  {
+    "question": "Woman: How are you going to get ready for an oral final? Man: The professor said we should study alone, but John said to get into a study group and quiz each other. What did john suggest the student do?",
+    "options": [
+      "(A) Study together,",
+      "(B) prepare for an oral final.",
+      "(C)Review the quizzes",
+      "(D)Take the professor's advice."
+    ],
+    "answer": "(A) Study together,"
+  },
+  {
+    "question": "Man: I need an advisor's signature on my course request form. Could I make an appointment, please? Woman: Oh. well. you don't need to make an appointment. Just wait here. I'll get a pen. What is the woman going to do?",
+    "options": [
+      "(A) Make an appointment",
+      "(B) Give the man a pen.",
+      "(C) Sign the form for the man.",
+      "(D) Wait for the man."
+    ],
+    "answer": "(C) Sign the form for the man."
+  },
+  {
+    "question": "Woman: Thanks for reading my paper. Man: Sure. This copy looks good. Why don't you just hand it in. Woman: No, I'd better make one more draft. What is the woman going to do?",
+    "options": [
+      "(A) Revise her work.",
+      "(B) Close the window.",
+      "(C) Copy from the man.",
+      "(D) Hand in the work."
+    ],
+    "answer": "(A) Revise her work."
+  },
+  {
+    "question": "Woman: Your loan payment is due on the first. Oh, sorry, the computer has you scheduled for the fifth. Man: That's good. That's what I thought. What had the man assumed about the loan payment?",
+    "options": [
+      "(A) The computer made an error.",
+      "(B) The payment is due on the fifth of every month.",
+      "(C) The loan must be paid by the first of the month.",
+      "(D) The loan had already been paid in full."
+    ],
+    "answer": "(B) The payment is due on the fifth of every month."
+  },
+  {
+    "question": "Man: What will I do now? Woman: Proceed with work. What does the Woman tell the man to do?",
+    "options": [
+      "(A) Continue to work.",
+      "(B) Do the work over again.",
+      "(C) Stop working.",
+      "(D) Do the work better."
+    ],
+    "answer": "(A) Continue to work."
+  },
+  {
+    "question": "Woman: The club had a meeting last night. Man: I know. I was present. What did the man say?",
+    "options": [
+      "(A) He was the speaker.",
+      "(B) He attended the meeting.",
+      "(C) He enjoyed the meeting.",
+      "(D) He received a present at the meeting."
+    ],
+    "answer": "(B) He attended the meeting."
+  },
+  {
+    "question": "Woman: Did you plan to take pictures on your trip? Man: Yes. but my camera was not working. What did you learn from the conversation?",
+    "options": [
+      "(A) The man took pictures on the trip.",
+      "(B) The man did not take any pictures.",
+      "(C) The man did not make any plans.",
+      "(D) The man worked instead of going on a trip"
+    ],
+    "answer": "(B) The man did not take any pictures."
+  }, 
     {
       "question": "Why did everyone believe Eric was dead?",
       "options": ["His body was found during the war", "His father told everyone he had been killed in action", "His brothers announced his death publicly", "He disappeared while working at the farm"],
