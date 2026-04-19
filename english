@@ -2736,16 +2736,7 @@
     ],
     "answer": "He must be very serious."
   },
-  {
-    "question": "Shakespeare \_\_\_\_\_\_\_\_\_\_ a wife. He was single.",
-    "options": [
-      "wasn't have",
-      "didn't have",
-      "had",
-      "didn't had"
-    ],
-    "answer": "didn't have"
-  },
+ 
   {
     "question": "My brother was so happy because he \_\_\_\_\_\_\_\_ the school team.",
     "options": [
@@ -4276,7 +4267,11 @@
     {"question": "How many players are in a football team?", "options": ["9", "10", "11", "12"], "answer": "11"},
     {"question": "We ___ go to the beach tomorrow.", "options": ["will", "went", "go", "going"], "answer": "will"},
     {"question": "Antonym of 'Win':", "options": ["Gain", "Lose", "Victory", "Score"], "answer": "Lose"},
-    {"question": "What is the capital of Saudi Arabia?", "options": ["Jeddah", "Riyadh", "Mecca", "Medina"], "answer": "Riyadh"}, 
+        {
+      "question": "What is the capital of Saudi Arabia?",
+      "options": ["Jeddah", "Riyadh", "Mecca", "Medina"],
+      "answer": "Riyadh"
+    },
     {
       "question": "sentence:",
       "options": ["They doesn't like music.", "They don't like music.", "They don't likes music.", "They not like music."],
@@ -4284,3 +4279,4 @@
     }
   ]
 }
+
