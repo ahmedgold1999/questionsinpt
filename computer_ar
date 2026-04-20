@@ -2809,7 +2809,8 @@
             "It pastes data in reverse order"
          ],
          "answer":"It allows you to paste only specific attributes (values, formats, formulas) of copied data"
-      }"و"{
+      },
+{
          "question":"Which of the following storage devices holds the least amount of data?",
          "options":[
             "DVD",
@@ -3308,7 +3309,8 @@
             "CURRENT()"
          ],
          "answer":"NOW()"
-      }"و"{
+      },
+{
          "question":"What is the name of the component that allows the computer to connect to a local network via cable?",
          "options":[
             "Sound Card",
