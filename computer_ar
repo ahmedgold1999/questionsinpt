@@ -2321,6 +2321,994 @@
          "answer":"Portable Document Format"
       },
       {
+         "question":"Which of the following is the correct way to apply bold formatting to text in Microsoft Word using a keyboard shortcut?",
+         "options":[
+            "Ctrl + B",
+            "Ctrl + F",
+            "Ctrl + D",
+            "Ctrl + L"
+         ],
+         "answer":"Ctrl + B"
+      },
+      {
+         "question":"In Microsoft Excel, which function is used to find the largest number in a range of cells?",
+         "options":[
+            "MAX",
+            "LARGE",
+            "TOP",
+            "HIGHEST"
+         ],
+         "answer":"MAX"
+      },
+      {
+         "question":"Which of the following correctly describes the function of a firewall in computer networking?",
+         "options":[
+            "It speeds up internet connection",
+            "It monitors and controls incoming and outgoing network traffic",
+            "It stores website passwords",
+            "It compresses files for email"
+         ],
+         "answer":"It monitors and controls incoming and outgoing network traffic"
+      },
+      {
+         "question":"Which sequence of steps correctly inserts a new slide in Microsoft PowerPoint?",
+         "options":[
+            "Home tab > New Slide",
+            "Insert tab > Slide",
+            "Design tab > Add Slide",
+            "View tab > New Slide"
+         ],
+         "answer":"Home tab > New Slide"
+      },
+      {
+         "question":"Which of the following statements correctly explains the difference between Save and Save As in Microsoft Office?",
+         "options":[
+            "Save creates a new file, Save As updates the existing file",
+            "Save updates the existing file, Save As creates a new file or saves a copy",
+            "Save and Save As do the same thing",
+            "Save is for documents, Save As is for spreadsheets"
+         ],
+         "answer":"Save updates the existing file, Save As creates a new file or saves a copy"
+      },
+      {
+         "question":"What is the correct way to select an entire row in Microsoft Excel using a keyboard shortcut?",
+         "options":[
+            "Ctrl + Spacebar",
+            "Shift + Spacebar",
+            "Ctrl + Shift + Spacebar",
+            "Alt + Spacebar"
+         ],
+         "answer":"Shift + Spacebar"
+      },
+      {
+         "question":"Which of the following best describes the purpose of the IF function in Excel?",
+         "options":[
+            "It checks whether a condition is met and returns one value for TRUE and another for FALSE",
+            "It calculates the average of selected cells",
+            "It counts the number of cells that contain numbers",
+            "It removes duplicate values from a range"
+         ],
+         "answer":"It checks whether a condition is met and returns one value for TRUE and another for FALSE"
+      },
+      {
+         "question":"In Microsoft Word, which tab contains the option to insert a page break?",
+         "options":[
+            "Home",
+            "Insert",
+            "Layout",
+            "References"
+         ],
+         "answer":"Insert"
+      },
+      {
+         "question":"Which of the following correctly describes how to add a footnote in Microsoft Word?",
+         "options":[
+            "Insert tab > Footnote",
+            "References tab > Insert Footnote",
+            "Review tab > Footnote",
+            "View tab > Footnote"
+         ],
+         "answer":"References tab > Insert Footnote"
+      },
+      {
+         "question":"What does the small green triangle in the top-left corner of an Excel cell indicate?",
+         "options":[
+            "The cell is locked",
+            "The cell contains a formula error",
+            "The cell has a comment",
+            "The cell contains a number stored as text"
+         ],
+         "answer":"The cell contains a number stored as text"
+      },
+      {
+         "question":"Which of the following is the correct shortcut to open the Find and Replace dialog box in most Microsoft Office applications?",
+         "options":[
+            "Ctrl + F",
+            "Ctrl + H",
+            "Ctrl + R",
+            "Ctrl + G"
+         ],
+         "answer":"Ctrl + H"
+      },
+      {
+         "question":"Which of the following correctly describes the function of a router in a home network?",
+         "options":[
+            "It connects multiple devices to the internet and directs traffic between them",
+            "It stores files for network sharing",
+            "It prints documents wirelessly",
+            "It scans for viruses"
+         ],
+         "answer":"It connects multiple devices to the internet and directs traffic between them"
+      },
+      {
+         "question":"In Microsoft Excel, which chart type is best suited to show trends over time?",
+         "options":[
+            "Pie chart",
+            "Bar chart",
+            "Line chart",
+            "Doughnut chart"
+         ],
+         "answer":"Line chart"
+      },
+      {
+         "question":"Which of the following steps correctly changes the page orientation to Landscape in Microsoft Word?",
+         "options":[
+            "Layout tab > Orientation > Landscape",
+            "Home tab > Orientation > Landscape",
+            "Insert tab > Orientation > Landscape",
+            "View tab > Orientation > Landscape"
+         ],
+         "answer":"Layout tab > Orientation > Landscape"
+      },
+      {
+         "question":"Which of the following best describes the function of the SUMIF function in Excel?",
+         "options":[
+            "It adds all numbers in a range",
+            "It adds numbers in a range that meet a specified condition",
+            "It counts numbers that meet a condition",
+            "It finds the average of numbers meeting a condition"
+         ],
+         "answer":"It adds numbers in a range that meet a specified condition"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which view allows you to see all slides in thumbnail form and rearrange them easily?",
+         "options":[
+            "Normal view",
+            "Slide Sorter view",
+            "Reading view",
+            "Outline view"
+         ],
+         "answer":"Slide Sorter view"
+      },
+      {
+         "question":"Which of the following correctly describes how to create a hyperlink in Microsoft Outlook email?",
+         "options":[
+            "Select text > Insert tab > Hyperlink",
+            "Select text > Format tab > Link",
+            "Select text > Options tab > Hyperlink",
+            "Select text > Home tab > Link"
+         ],
+         "answer":"Select text > Insert tab > Hyperlink"
+      },
+      {
+         "question":"What does the error message '#N/A' mean in Microsoft Excel?",
+         "options":[
+            "Division by zero",
+            "A value is not available to a function or formula",
+            "Invalid cell reference",
+            "Wrong data type"
+         ],
+         "answer":"A value is not available to a function or formula"
+      },
+      {
+         "question":"Which of the following keyboard shortcuts is used to start a slideshow from the beginning in Microsoft PowerPoint?",
+         "options":[
+            "F5",
+            "F7",
+            "F11",
+            "Ctrl + F5"
+         ],
+         "answer":"F5"
+      },
+      {
+         "question":"Which of the following correctly explains the purpose of the CONCATENATE (or CONCAT) function in Excel?",
+         "options":[
+            "It joins two or more text strings into one",
+            "It compares two text strings",
+            "It finds the length of a text string",
+            "It converts text to uppercase"
+         ],
+         "answer":"It joins two or more text strings into one"
+      },
+      {
+         "question":"In Microsoft Word, which feature is used to create a list of headings with page numbers at the beginning of a document?",
+         "options":[
+            "Index",
+            "Table of Contents",
+            "Bibliography",
+            "Citations"
+         ],
+         "answer":"Table of Contents"
+      },
+      {
+         "question":"Which of the following correctly describes the purpose of DNS (Domain Name System) when browsing the internet?",
+         "options":[
+            "It translates domain names into IP addresses",
+            "It encrypts data sent over the internet",
+            "It blocks malicious websites",
+            "It stores browsing history"
+         ],
+         "answer":"It translates domain names into IP addresses"
+      },
+      {
+         "question":"Which of the following steps correctly applies a filter to a data range in Microsoft Excel?",
+         "options":[
+            "Data tab > Filter",
+            "Home tab > Sort & Filter > Filter",
+            "Insert tab > Filter",
+            "Review tab > Filter"
+         ],
+         "answer":"Data tab > Filter"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which feature allows you to apply the same formatting (font, color, size) to multiple text boxes quickly?",
+         "options":[
+            "Format Painter",
+            "Animation Painter",
+            "Style Copier",
+            "Clone Format"
+         ],
+         "answer":"Format Painter"
+      },
+      {
+         "question":"Which of the following correctly describes how to protect an Excel worksheet with a password?",
+         "options":[
+            "Review tab > Protect Sheet",
+            "Data tab > Protect Sheet",
+            "Home tab > Protect Sheet",
+            "View tab > Protect Sheet"
+         ],
+         "answer":"Review tab > Protect Sheet"
+      },
+      {
+         "question":"Which of the following is the correct shortcut to insert the current date in a cell in Microsoft Excel?",
+         "options":[
+            "Ctrl + ;",
+            "Ctrl + Shift + ;",
+            "Ctrl + D",
+            "Ctrl + T"
+         ],
+         "answer":"Ctrl + ;"
+      },
+      {
+         "question":"In Microsoft Word, what is the function of the 'Track Changes' feature?",
+         "options":[
+            "It records the time spent editing the document",
+            "It shows all edits made to the document and who made them",
+            "It automatically saves versions of the document",
+            "It highlights spelling mistakes"
+         ],
+         "answer":"It shows all edits made to the document and who made them"
+      },
+      {
+         "question":"Which of the following best describes the function of the VLOOKUP function in Excel?",
+         "options":[
+            "It searches for a value in the first column of a table and returns a value in the same row from another column",
+            "It looks up values in a horizontal row",
+            "It finds the highest value in a range",
+            "It counts values based on multiple criteria"
+         ],
+         "answer":"It searches for a value in the first column of a table and returns a value in the same row from another column"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which option is used to add a transition effect between slides?",
+         "options":[
+            "Transitions tab > select transition",
+            "Animations tab > transition",
+            "Design tab > transition",
+            "Slide Show tab > transition"
+         ],
+         "answer":"Transitions tab > select transition"
+      },
+      {
+         "question":"Which of the following correctly explains the difference between CC and BCC in email?",
+         "options":[
+            "CC recipients are visible to all, BCC recipients are hidden from others",
+            "CC is for internal recipients, BCC is for external",
+            "CC sends a copy, BCC sends the original",
+            "There is no difference"
+         ],
+         "answer":"CC recipients are visible to all, BCC recipients are hidden from others"
+      },
+      {
+         "question":"Which of the following steps correctly creates a pivot table in Microsoft Excel?",
+         "options":[
+            "Insert tab > PivotTable",
+            "Data tab > PivotTable",
+            "Home tab > PivotTable",
+            "Formulas tab > PivotTable"
+         ],
+         "answer":"Insert tab > PivotTable"
+      },
+      {
+         "question":"In Microsoft Word, which keyboard shortcut is used to center-align text?",
+         "options":[
+            "Ctrl + E",
+            "Ctrl + C",
+            "Ctrl + L",
+            "Ctrl + R"
+         ],
+         "answer":"Ctrl + E"
+      },
+      {
+         "question":"Which of the following correctly describes how to remove cell borders in Excel?",
+         "options":[
+            "Home tab > Borders dropdown > No Border",
+            "Data tab > Remove Borders",
+            "View tab > Borders > None",
+            "Insert tab > No Border"
+         ],
+         "answer":"Home tab > Borders dropdown > No Border"
+      },
+      {
+         "question":"In Microsoft PowerPoint, what is the purpose of the 'Slide Master' view?",
+         "options":[
+            "To make global changes to all slides, such as fonts, logos, and background",
+            "To check spelling on all slides",
+            "To rehearse timings for a presentation",
+            "To print handouts"
+         ],
+         "answer":"To make global changes to all slides, such as fonts, logos, and background"
+      },
+      {
+         "question":"Which of the following correctly describes the function of an ISP (Internet Service Provider)?",
+         "options":[
+            "A company that provides internet access to customers",
+            "A device that connects to Wi-Fi",
+            "A website that searches the internet",
+            "A security protocol"
+         ],
+         "answer":"A company that provides internet access to customers"
+      },
+      {
+         "question":"Which of the following steps correctly adds a drop-down list to a cell in Excel?",
+         "options":[
+            "Data tab > Data Validation > List",
+            "Home tab > Drop-down List",
+            "Insert tab > Drop-down",
+            "Formulas tab > Validation > List"
+         ],
+         "answer":"Data tab > Data Validation > List"
+      },
+      {
+         "question":"In Microsoft Word, which feature is used to create envelopes and labels from a mailing list?",
+         "options":[
+            "Mail Merge",
+            "Envelope Wizard",
+            "Label Printer",
+            "Address Book"
+         ],
+         "answer":"Mail Merge"
+      },
+      {
+         "question":"Which of the following is the correct shortcut to repeat the last action in Microsoft Office?",
+         "options":[
+            "F4",
+            "Ctrl + Y",
+            "Ctrl + R",
+            "Both A and B"
+         ],
+         "answer":"Both A and B"
+      },
+      {
+         "question":"In Microsoft Excel, what does the 'Wrap Text' feature do?",
+         "options":[
+            "It displays multi-line text inside a single cell",
+            "It merges multiple cells into one",
+            "It rotates text vertically",
+            "It adds a border around text"
+         ],
+         "answer":"It displays multi-line text inside a single cell"
+      },
+      {
+         "question":"Which of the following correctly describes how to add speaker notes in PowerPoint?",
+         "options":[
+            "Click 'Notes' at the bottom of the slide window and type",
+            "Insert tab > Speaker Notes",
+            "View tab > Notes Page",
+            "Slide Show tab > Add Notes"
+         ],
+         "answer":"Click 'Notes' at the bottom of the slide window and type"
+      },
+      {
+         "question":"Which of the following best describes the purpose of the COUNTIF function in Excel?",
+         "options":[
+            "It counts the number of cells that meet a single condition",
+            "It counts all non-empty cells",
+            "It adds cells that meet a condition",
+            "It finds the average of cells meeting a condition"
+         ],
+         "answer":"It counts the number of cells that meet a single condition"
+      },
+      {
+         "question":"In Microsoft Word, which tab contains the option to change the line spacing of a paragraph?",
+         "options":[
+            "Home tab > Line and Paragraph Spacing",
+            "Layout tab > Line Spacing",
+            "Design tab > Spacing",
+            "References tab > Line Spacing"
+         ],
+         "answer":"Home tab > Line and Paragraph Spacing"
+      },
+      {
+         "question":"Which of the following correctly explains how to remove duplicate values from a column in Excel?",
+         "options":[
+            "Data tab > Remove Duplicates",
+            "Home tab > Delete Duplicates",
+            "Insert tab > Unique Values",
+            "Review tab > Remove Duplicates"
+         ],
+         "answer":"Data tab > Remove Duplicates"
+      },
+      {
+         "question":"In Microsoft PowerPoint, what is the function of the 'Animation Pane'?",
+         "options":[
+            "It allows you to view and manage all animations on a slide",
+            "It adds transition effects between slides",
+            "It records narration for the presentation",
+            "It changes the slide background"
+         ],
+         "answer":"It allows you to view and manage all animations on a slide"
+      },
+      {
+         "question":"Which of the following is the correct keyboard shortcut to open the 'Save As' dialog box in most Office applications?",
+         "options":[
+            "F12",
+            "Ctrl + S",
+            "Ctrl + Shift + S",
+            "Alt + F2"
+         ],
+         "answer":"F12"
+      },
+      {
+         "question":"In Microsoft Excel, which of the following correctly creates an absolute cell reference?",
+         "options":[
+            "$A$1",
+            "A$1",
+            "$A1",
+            "A1"
+         ],
+         "answer":"$A$1"
+      },
+      {
+         "question":"Which of the following correctly describes how to insert a header in Microsoft Word?",
+         "options":[
+            "Insert tab > Header",
+            "View tab > Header",
+            "Layout tab > Header",
+            "Home tab > Header"
+         ],
+         "answer":"Insert tab > Header"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which option is used to hide a slide during a presentation without deleting it?",
+         "options":[
+            "Right-click slide > Hide Slide",
+            "Slide Show tab > Hide Slide",
+            "View tab > Hide Slide",
+            "Design tab > Hide Slide"
+         ],
+         "answer":"Right-click slide > Hide Slide"
+      },
+      {
+         "question":"Which of the following correctly describes the purpose of the 'Paste Special' feature in Excel?",
+         "options":[
+            "It allows you to paste only specific attributes (values, formats, formulas) of copied data",
+            "It pastes the same data multiple times",
+            "It pastes data from another program only",
+            "It pastes data in reverse order"
+         ],
+         "answer":"It allows you to paste only specific attributes (values, formats, formulas) of copied data"
+      }"و"{
+         "question":"Which of the following storage devices holds the least amount of data?",
+         "options":[
+            "DVD",
+            "CD-ROM",
+            "Blu-ray Disc",
+            "Floppy Disk"
+         ],
+         "answer":"Floppy Disk"
+      },
+      {
+         "question":"In Microsoft Excel, what does the 'Merge & Center' feature do?",
+         "options":[
+            "Combines multiple cells into one and centers the content",
+            "Centers the text without merging cells",
+            "Merges cells without centering",
+            "Splits a merged cell back into individual cells"
+         ],
+         "answer":"Combines multiple cells into one and centers the content"
+      },
+      {
+         "question":"Which of the following is an example of an output device?",
+         "options":[
+            "Scanner",
+            "Microphone",
+            "Printer",
+            "Webcam"
+         ],
+         "answer":"Printer"
+      },
+      {
+         "question":"In Microsoft Word, which keyboard shortcut is used to increase the font size?",
+         "options":[
+            "Ctrl + ]",
+            "Ctrl + Shift + >",
+            "Ctrl + [",
+            "Both A and B"
+         ],
+         "answer":"Both A and B"
+      },
+      {
+         "question":"Which of the following best describes the function of the 'PivotTable' in Excel?",
+         "options":[
+            "A tool to summarize and analyze large datasets interactively",
+            "A chart type for showing percentages",
+            "A function to sort data alphabetically",
+            "A filter for removing duplicates"
+         ],
+         "answer":"A tool to summarize and analyze large datasets interactively"
+      },
+      {
+         "question":"What does the acronym 'RAM' stand for?",
+         "options":[
+            "Readily Available Memory",
+            "Random Access Memory",
+            "Read Access Memory",
+            "Rapid Application Memory"
+         ],
+         "answer":"Random Access Memory"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which option is used to insert a video from a file on your computer?",
+         "options":[
+            "Insert > Video > This Device",
+            "Insert > Media > Video",
+            "Design > Video",
+            "Slide Show > Insert Video"
+         ],
+         "answer":"Insert > Video > This Device"
+      },
+      {
+         "question":"Which of the following correctly describes the purpose of an operating system?",
+         "options":[
+            "To manage hardware and software resources of a computer",
+            "To create documents and spreadsheets",
+            "To browse the internet",
+            "To play games"
+         ],
+         "answer":"To manage hardware and software resources of a computer"
+      },
+      {
+         "question":"In Microsoft Excel, which error message indicates that a column is not wide enough to display the entire number?",
+         "options":[
+            "#VALUE!",
+            "#REF!",
+            "#####",
+            "#NAME?"
+         ],
+         "answer":"#####"
+      },
+      {
+         "question":"Which of the following is a valid email protocol used to receive messages?",
+         "options":[
+            "SMTP",
+            "HTTP",
+            "POP3",
+            "FTP"
+         ],
+         "answer":"POP3"
+      },
+      {
+         "question":"In Microsoft Word, which tab contains the option to add a watermark?",
+         "options":[
+            "Design",
+            "Insert",
+            "Layout",
+            "View"
+         ],
+         "answer":"Design"
+      },
+      {
+         "question":"Which of the following best describes a 'Trojan horse' in cybersecurity?",
+         "options":[
+            "A virus that replicates itself",
+            "Malware disguised as legitimate software",
+            "A network security device",
+            "A type of encryption"
+         ],
+         "answer":"Malware disguised as legitimate software"
+      },
+      {
+         "question":"In Microsoft Excel, what does the 'Freeze Panes' feature do?",
+         "options":[
+            "Locks specific rows or columns so they remain visible while scrolling",
+            "Protects the worksheet with a password",
+            "Prevents cells from being edited",
+            "Saves the current view as a template"
+         ],
+         "answer":"Locks specific rows or columns so they remain visible while scrolling"
+      },
+      {
+         "question":"Which of the following is the correct shortcut to open the 'Task Manager' in Windows?",
+         "options":[
+            "Ctrl + Alt + Delete then select Task Manager",
+            "Ctrl + Shift + Esc",
+            "Right-click taskbar > Task Manager",
+            "All of the above"
+         ],
+         "answer":"All of the above"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which view is used to rehearse the timing of a presentation?",
+         "options":[
+            "Slide Show view",
+            "Presenter view",
+            "Rehearse Timings (Slide Show tab)",
+            "Slide Sorter view"
+         ],
+         "answer":"Rehearse Timings (Slide Show tab)"
+      },
+      {
+         "question":"Which of the following best describes the function of the 'INDEX' and 'MATCH' combination in Excel?",
+         "options":[
+            "A more flexible alternative to VLOOKUP for looking up values",
+            "A tool for creating charts",
+            "A function for statistical analysis",
+            "A way to merge two columns"
+         ],
+         "answer":"A more flexible alternative to VLOOKUP for looking up values"
+      },
+      {
+         "question":"In Microsoft Word, what is the purpose of the 'Section Break'?",
+         "options":[
+            "To divide the document into parts that can have different formatting (margins, headers, footers)",
+            "To insert a blank page",
+            "To create a table of contents",
+            "To add a footnote"
+         ],
+         "answer":"To divide the document into parts that can have different formatting (margins, headers, footers)"
+      },
+      {
+         "question":"Which of the following is a common example of cloud storage service?",
+         "options":[
+            "Google Drive",
+            "OneDrive",
+            "Dropbox",
+            "All of the above"
+         ],
+         "answer":"All of the above"
+      },
+      {
+         "question":"In Microsoft Excel, which function is used to calculate the internal rate of return for a series of cash flows?",
+         "options":[
+            "NPV",
+            "IRR",
+            "PV",
+            "FV"
+         ],
+         "answer":"IRR"
+      },
+      {
+         "question":"Which of the following best describes the function of a 'switch' in a computer network?",
+         "options":[
+            "Connects multiple devices on a local network and forwards data only to the intended recipient",
+            "Connects a computer to the internet via a phone line",
+            "Blocks unauthorized access to a network",
+            "Converts digital signals to analog"
+         ],
+         "answer":"Connects multiple devices on a local network and forwards data only to the intended recipient"
+      },
+      {
+         "question":"In Microsoft Word, which keyboard shortcut is used to create a hanging indent?",
+         "options":[
+            "Ctrl + T",
+            "Ctrl + M",
+            "Ctrl + Shift + M",
+            "Ctrl + H"
+         ],
+         "answer":"Ctrl + T"
+      },
+      {
+         "question":"Which of the following correctly describes the difference between a 'worm' and a 'virus'?",
+         "options":[
+            "A worm spreads without user action, while a virus requires a host file to spread",
+            "A virus spreads without user action, a worm requires a host file",
+            "There is no difference",
+            "A worm is a type of antivirus"
+         ],
+         "answer":"A worm spreads without user action, while a virus requires a host file to spread"
+      },
+      {
+         "question":"In Microsoft Excel, which feature allows you to see how changing certain values affects the result of a formula?",
+         "options":[
+            "What-If Analysis (Data Table, Goal Seek, Scenario Manager)",
+            "PivotTable",
+            "Conditional Formatting",
+            "Data Validation"
+         ],
+         "answer":"What-If Analysis (Data Table, Goal Seek, Scenario Manager)"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which key is used to end a slide show early?",
+         "options":[
+            "Esc",
+            "Enter",
+            "Spacebar",
+            "Delete"
+         ],
+         "answer":"Esc"
+      },
+      {
+         "question":"Which of the following best describes the purpose of the 'TRIM' function in Excel?",
+         "options":[
+            "Removes extra spaces from text except single spaces between words",
+            "Cuts off part of a text string",
+            "Removes duplicate characters",
+            "Converts text to lowercase"
+         ],
+         "answer":"Removes extra spaces from text except single spaces between words"
+      },
+      {
+         "question":"What is the default file extension for a macro-enabled Excel workbook?",
+         "options":[
+            ".xlsx",
+            ".xlsm",
+            ".xlsb",
+            ".xltx"
+         ],
+         "answer":".xlsm"
+      },
+      {
+         "question":"In Microsoft Word, which feature is used to create a list of figures or tables?",
+         "options":[
+            "References > Insert Table of Figures",
+            "Insert > Table of Contents",
+            "References > Insert Index",
+            "Layout > Captions"
+         ],
+         "answer":"References > Insert Table of Figures"
+      },
+      {
+         "question":"Which of the following is a type of biometric authentication?",
+         "options":[
+            "Password",
+            "PIN code",
+            "Fingerprint scan",
+            "Security question"
+         ],
+         "answer":"Fingerprint scan"
+      },
+      {
+         "question":"In Microsoft Excel, which function is used to find the rank of a number in a list?",
+         "options":[
+            "RANK",
+            "POSITION",
+            "ORDER",
+            "SORT"
+         ],
+         "answer":"RANK"
+      },
+      {
+         "question":"Which of the following correctly describes the purpose of a 'proxy server'?",
+         "options":[
+            "Acts as an intermediary between a user's device and the internet to provide anonymity or caching",
+            "Stores backups of files",
+            "Prints documents remotely",
+            "Scans for viruses"
+         ],
+         "answer":"Acts as an intermediary between a user's device and the internet to provide anonymity or caching"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which option allows you to compress pictures to reduce file size?",
+         "options":[
+            "Picture Format > Compress Pictures",
+            "File > Reduce File Size",
+            "Design > Compress Images",
+            "View > Optimize Media"
+         ],
+         "answer":"Picture Format > Compress Pictures"
+      },
+      {
+         "question":"In Microsoft Word, what is the function of the 'Read Aloud' feature?",
+         "options":[
+            "It reads the text of the document aloud",
+            "It records your voice",
+            "It translates text to another language",
+            "It adds audio comments"
+         ],
+         "answer":"It reads the text of the document aloud"
+      },
+      {
+         "question":"Which of the following best describes 'phishing'?",
+         "options":[
+            "A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity in electronic communication",
+            "A type of computer virus",
+            "A network security protocol",
+            "A hardware failure"
+         ],
+         "answer":"A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity in electronic communication"
+      },
+      {
+         "question":"In Microsoft Excel, which function extracts a substring from a text string starting at a specified position?",
+         "options":[
+            "MID",
+            "LEFT",
+            "RIGHT",
+            "SUBSTRING"
+         ],
+         "answer":"MID"
+      },
+      {
+         "question":"Which of the following is the correct shortcut to lock your Windows computer?",
+         "options":[
+            "Windows key + L",
+            "Ctrl + Alt + L",
+            "Alt + L",
+            "Windows key + X then L"
+         ],
+         "answer":"Windows key + L"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which feature allows you to create a custom path for an object to move along during a slide show?",
+         "options":[
+            "Motion Paths (under Animations)",
+            "Transition Effects",
+            "Slide Master",
+            "Action Buttons"
+         ],
+         "answer":"Motion Paths (under Animations)"
+      },
+      {
+         "question":"Which of the following best describes the purpose of the 'UPPER' function in Excel?",
+         "options":[
+            "Converts all letters in a text string to uppercase",
+            "Converts text to title case",
+            "Converts text to lowercase",
+            "Capitalizes the first letter of each word"
+         ],
+         "answer":"Converts all letters in a text string to uppercase"
+      },
+      {
+         "question":"In Microsoft Word, what is the purpose of the 'Navigation Pane'?",
+         "options":[
+            "To quickly navigate through headings, pages, or search results",
+            "To insert hyperlinks",
+            "To check spelling",
+            "To change page margins"
+         ],
+         "answer":"To quickly navigate through headings, pages, or search results"
+      },
+      {
+         "question":"Which of the following is a common example of a relational database management system (RDBMS)?",
+         "options":[
+            "Microsoft Access",
+            "MySQL",
+            "Oracle Database",
+            "All of the above"
+         ],
+         "answer":"All of the above"
+      },
+      {
+         "question":"In Microsoft Excel, what does the 'Subtotal' feature do?",
+         "options":[
+            "Calculates subtotals for grouped data in a list",
+            "Adds a total row at the bottom of a table",
+            "Finds the sum of a single column",
+            "Creates a pivot table automatically"
+         ],
+         "answer":"Calculates subtotals for grouped data in a list"
+      },
+      {
+         "question":"Which of the following best describes 'two-factor authentication (2FA)'?",
+         "options":[
+            "Using two different passwords to log in",
+            "Using a password and a second verification method (e.g., SMS code, authenticator app)",
+            "Having two separate user accounts",
+            "Logging in from two different devices"
+         ],
+         "answer":"Using a password and a second verification method (e.g., SMS code, authenticator app)"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which view is used to print handouts with multiple slides per page?",
+         "options":[
+            "File > Print > Handouts (select number of slides per page)",
+            "View > Handout Master",
+            "Slide Sorter > Print",
+            "Design > Print Layout"
+         ],
+         "answer":"File > Print > Handouts (select number of slides per page)"
+      },
+      {
+         "question":"In Microsoft Word, which keyboard shortcut is used to delete an entire word to the left of the cursor?",
+         "options":[
+            "Ctrl + Backspace",
+            "Ctrl + Delete",
+            "Shift + Backspace",
+            "Alt + Backspace"
+         ],
+         "answer":"Ctrl + Backspace"
+      },
+      {
+         "question":"Which of the following best describes the purpose of the 'LEN' function in Excel?",
+         "options":[
+            "Returns the number of characters in a text string",
+            "Returns the length of a cell in pixels",
+            "Counts the number of words",
+            "Returns the length of a number"
+         ],
+         "answer":"Returns the number of characters in a text string"
+      },
+      {
+         "question":"What is the maximum number of columns in a single Excel worksheet (as of modern versions)?",
+         "options":[
+            "256",
+            "1024",
+            "16384",
+            "65536"
+         ],
+         "answer":"16384"
+      },
+      {
+         "question":"In Microsoft PowerPoint, which option is used to record a narration for the entire slide show?",
+         "options":[
+            "Slide Show > Record Slide Show",
+            "Insert > Audio > Record Narration",
+            "View > Narration",
+            "Transitions > Record Sound"
+         ],
+         "answer":"Slide Show > Record Slide Show"
+      },
+      {
+         "question":"Which of the following correctly describes the function of the 'ROUND' function in Excel?",
+         "options":[
+            "Rounds a number to a specified number of digits",
+            "Returns the integer part of a number",
+            "Rounds a number up to the nearest integer",
+            "Rounds a number down to the nearest integer"
+         ],
+         "answer":"Rounds a number to a specified number of digits"
+      },
+      {
+         "question":"In Microsoft Word, which feature allows you to compare two documents and show the differences?",
+         "options":[
+            "Review > Compare",
+            "View > Side by Side",
+            "File > Info > Compare",
+            "References > Compare"
+         ],
+         "answer":"Review > Compare"
+      },
+      {
+         "question":"Which of the following best describes the purpose of a 'DMZ' (Demilitarized Zone) in network security?",
+         "options":[
+            "A subnetwork that exposes external services to an untrusted network (like the internet) while keeping the internal network secure",
+            "A type of firewall",
+            "A backup server",
+            "A VPN protocol"
+         ],
+         "answer":"A subnetwork that exposes external services to an untrusted network (like the internet) while keeping the internal network secure"
+      },
+      {
+         "question":"In Microsoft Excel, which function returns the current date and time?",
+         "options":[
+            "NOW()",
+            "TODAY()",
+            "DATE()",
+            "CURRENT()"
+         ],
+         "answer":"NOW()"
+      }"و"{
          "question":"What is the name of the component that allows the computer to connect to a local network via cable?",
          "options":[
             "Sound Card",
