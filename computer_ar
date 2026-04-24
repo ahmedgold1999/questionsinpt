@@ -851,6 +851,1186 @@
          "answer":"Cell"
       },
       {
+         "question":"What is the default Left Margin width for a standard document in Microsoft Word?",
+         "options":[
+            "A. 1.25\"",
+            "B. 1.5\"",
+            "C. 1\"",
+            "D. 2\""
+         ],
+         "answer":"A. 1.25\""
+      },
+      {
+         "question":"What is meant by VPN?",
+         "options":[
+            "A. Virtual Private Network",
+            "B. Very Public Network",
+            "C. Virtual Public Network",
+            "D. Visual Private Network"
+         ],
+         "answer":"A. Virtual Private Network"
+      },
+      {
+         "question":"What is meant by URL",
+         "options":[
+            "A. Uniform Resource Locator",
+            "B. Universal Resource Link",
+            "C. Unified Resource Locator",
+            "D. Uniform Reference Link"
+         ],
+         "answer":"A. Uniform Resource Locator"
+      },
+      {
+         "question":"What is meant by RAM?",
+         "options":[
+            "A. Read Access Memory",
+            "B. Random Access Memory",
+            "C. Run Access Memory",
+            "D. Real Access Memory"
+         ],
+         "answer":"B. Random Access Memory"
+      },
+      {
+         "question":"What is meant by USB?",
+         "options":[
+            "A. Universal Serial Bus",
+            "B. United Serial Bus",
+            "C. Universal System Bus",
+            "D. Unified Serial Board"
+         ],
+         "answer":"A. Universal Serial Bus"
+      },
+      {
+         "question":"You have got a bunch of digital holiday photo you want to put into a slide show. What the quickest method?",
+         "options":[
+            "A. Apply a multiple-picture layout to several slides, and use the clipart icon on the slides to import your picture",
+            "B. On the insert menu, point to the picture, click from file, and select your picture in a group for each slide",
+            "C. On the insert menu, point the picture and click new photo album",
+            "D. All of the above"
+         ],
+         "answer":"C. On the insert menu, point the picture and click new photo album"
+      },
+      {
+         "question":"How would you create the following diagram in PowerPoint",
+         "options":[
+            "A. Use auto shapes and the drawing toolbar to create the diagram and design it",
+            "B. Open the diagram gallery from the drawing toolbar and choose this diagram type",
+            "C. Use the chart command on the insert menu to import the diagram",
+            "D. All of above"
+         ],
+         "answer":"B. Open the diagram gallery from the drawing toolbar and choose this diagram type"
+      },
+      {
+         "question":"Which command brings you to the first slide in your presentation?",
+         "options":[
+            "A. Next slide button",
+            "B. Page up",
+            "C. Ctrl + home",
+            "D. Ctrl + end"
+         ],
+         "answer":"C. Ctrl + home"
+      },
+      {
+         "question":"Which of the following provides a means of printing out features notes with a miniature slide on a printed page?",
+         "options":[
+            "A. Slides with animation",
+            "B. Outline view",
+            "C. Notes page",
+            "D. Audience handout"
+         ],
+         "answer":"D. Audience handout"
+      },
+      {
+         "question":"Good design determines",
+         "options":[
+            "A. Credibility",
+            "B. Readability",
+            "C. First impression",
+            "D. All of above"
+         ],
+         "answer":"D. All of above"
+      },
+      {
+         "question":"1) What is the address of a web page called?",
+         "options":[
+            "A. Domain",
+            "B. URL",
+            "C. Link",
+            "D. IP"
+         ],
+         "answer":"B. URL"
+      },
+      {
+         "question":"2) What does HTTP stand for?",
+         "options":[
+            "A. Hyper Text Transfer Protocol",
+            "B. High Text Transfer Program",
+            "C. Hyper Transfer Text Process",
+            "D. Home Tool Transfer Protocol"
+         ],
+         "answer":"A. Hyper Text Transfer Protocol"
+      },
+      {
+         "question":"3) HTTPS is used for:",
+         "options":[
+            "A. Fast browsing",
+            "B. Secure communication",
+            "C. Printing pages",
+            "D. Editing files"
+         ],
+         "answer":"B. Secure communication"
+      },
+      {
+         "question":"4) FTP is used for",
+         "options":[
+            "A. Sending emails",
+            "B. File transfer",
+            "C. Browsing websites",
+            "D. Printing"
+         ],
+         "answer":"B. File transfer"
+      },
+      {
+         "question":"5) What is a web browser?",
+         "options":[
+            "A. Software to browse internet",
+            "B. Hardware device",
+            "C. Storage unit",
+            "D. Input device"
+         ],
+         "answer":"A. Software to browse internet"
+      },
+      {
+         "question":"6) Which of the following is a web browser?",
+         "options":[
+            "A. Google Chrome",
+            "B. Excel",
+            "C. Word",
+            "D. PowerPoint"
+         ],
+         "answer":"A. Google Chrome"
+      },
+      {
+         "question":"7) What is a search engine?",
+         "options":[
+            "A. Software to edit files",
+            "B. Tool to search information",
+            "C. Program to print",
+            "D. Device"
+         ],
+         "answer":"B. Tool to search information"
+      },
+      {
+         "question":"8) Which of the following is a search engine?",
+         "options":[
+            "A. Google",
+            "B. Windows",
+            "C. Excel",
+            "D. Word"
+         ],
+         "answer":"A. Google"
+      },
+      {
+         "question":"9) What is email used for?",
+         "options":[
+            "A. Editing files",
+            "B. Sending messages",
+            "C. Printing",
+            "D. Designing"
+         ],
+         "answer":"B. Sending messages"
+      },
+      {
+         "question":"10) The symbol used in email is:",
+         "options":[
+            "A. #",
+            "B. @",
+            "C. $",
+            "D. %"
+         ],
+         "answer":"B. @"
+      },
+      {
+         "question":"11) What is download?",
+         "options":[
+            "A. Sending file",
+            "B. Receiving file",
+            "C. Deleting file",
+            "D. Copying file"
+         ],
+         "answer":"B. Receiving file"
+      },
+      {
+         "question":"12) What is upload?",
+         "options":[
+            "A. Receiving file",
+            "B. Sending file",
+            "C. Deleting file",
+            "D. Opening file"
+         ],
+         "answer":"B. Sending file"
+      },
+      {
+         "question":"13) What is LAN?",
+         "options":[
+            "A. Local Area Network",
+            "B. Large Area Network",
+            "C. Long Area Network",
+            "D. Logical Area Network"
+         ],
+         "answer":"A. Local Area Network"
+      },
+      {
+         "question":"14) What is WAN?",
+         "options":[
+            "A. Wide Area Network",
+            "B. Wireless Area Network",
+            "C. Web Area Network",
+            "D. World Access Network"
+         ],
+         "answer":"A. Wide Area Network"
+      },
+      {
+         "question":"15) What is a router?",
+         "options":[
+            "A. Input device",
+            "B. Connects networks",
+            "C. Output device",
+            "D. Storage device"
+         ],
+         "answer":"B. Connects networks"
+      },
+      {
+         "question":"16) What is a switch?",
+         "options":[
+            "A. Connects devices",
+            "B. Prints files",
+            "C. Stores data",
+            "D. Edits files"
+         ],
+         "answer":"A. Connects devices"
+      },
+      {
+         "question":"17) What is a modem",
+         "options":[
+            "A. Storage device",
+            "B. Connects to internet",
+            "C. Input device",
+            "D. Output device"
+         ],
+         "answer":"B. Connects to internet"
+      },
+      {
+         "question":"18) What is an IP address?",
+         "options":[
+            "A. File name",
+            "B. Device identifier",
+            "C. Program",
+            "D. Password"
+         ],
+         "answer":"B. Device identifier"
+      },
+      {
+         "question":"19) What is firewall used for?",
+         "options":[
+            "A. Speed",
+            "B. Security",
+            "C. Storage",
+            "D. Printing"
+         ],
+         "answer":"B. Security"
+      },
+      {
+         "question":"20) Virus spreads through:",
+         "options":[
+            "A. Email",
+            "B. USB",
+            "C. Network",
+            "D. All of the above"
+         ],
+         "answer":"D. All of the above"
+      },
+      {
+         "question":"Which of the following steps correctly describes how to freeze the top row in Microsoft Excel 2016 so that it remains visible while scrolling",
+         "options":[
+            "A. Go to Home tab and choose Freeze Top Row from Cells group",
+            "B. Go to Data tab and select Freeze Panes option",
+            "C. Go to View tab, click Freeze Panes, then choose Freeze Top Row",
+            "D. Right click on the first row and choose Freeze"
+         ],
+         "answer":"C. Go to View tab, click Freeze Panes, then choose Freeze Top Row"
+      },
+      {
+         "question":"Which of the following options correctly explains how to remove duplicate values from a selected data range in Microsoft Excel?",
+         "options":[
+            "A. Use Home tab then choose Delete from Editing group",
+            "B. Use Insert tab then choose Remove Duplicates",
+            "C. Use Data tab then click Remove Duplicates after selecting the data range",
+            "D. Use Review tab then choose Delete"
+         ],
+         "answer":"C. Use Data tab then click Remove Duplicates after selecting the data range"
+      },
+      {
+         "question":"Which of the following correctly describes the purpose of an IP address when connecting to the internet?",
+         "options":[
+            "A. It is used to store files on the computer",
+            "B. It is used to send emails between users",
+            "C. It is used to uniquely identify a device on a network or the internet",
+            "D. It is used to design websites"
+         ],
+         "answer":"C. It is used to uniquely identify a device on a network or the internet"
+      },
+      {
+         "question":"Which of the following options correctly describes how to insert a hyperlink in Microsoft Office applications such as Word or Excel?",
+         "options":[
+            "A. Go to Review tab and choose Hyperlink option",
+            "B. Go to Insert tab and choose Hyperlink from Links group",
+            "C. Go to View tab and choose Hyperlink",
+            "D. Go to Design tab and choose Link"
+         ],
+         "answer":"B. Go to Insert tab and choose Hyperlink from Links group"
+      },
+      {
+         "question":"Which of the following statements correctly describes the difference between saving a file and printing a file using keyboard shortcuts?",
+         "options":[
+            "A. Ctrl + P is used to save and Ctrl + S is used to print",
+            "B. Ctrl + S is used to save and Ctrl + P is used to print",
+            "C. Ctrl + O is used to save and Ctrl + N is used to print",
+            "D. Ctrl + H is used to save and Ctrl + F is used to print"
+         ],
+         "answer":"B. Ctrl + S is used to save and Ctrl + P is used to print"
+      },
+      {
+         "question":"Which of the following options correctly explains how to automatically adjust the width of a column in Microsoft Excel so that the content fits perfectly inside the cells?",
+         "options":[
+            "A. Double-click anywhere inside the selected cell to make the column wider",
+            "B. Double-click the left border of the column header to fit the content automatically",
+            "C. Double-click the right border of the column header to adjust the width automatically",
+            "D. Use the Review tab and choose AutoFit Column"
+         ],
+         "answer":"C. Double-click the right border of the column header to adjust the width automatically"
+      },
+      {
+         "question":"Which of the following statements correctly describes the function of the small black square that appears in the bottom-right corner of an active cell in Microsoft Excel?",
+         "options":[
+            "A. It is used to delete the contents of the selected cell",
+            "B. It is used to move the selected cell to another place",
+            "C. It is used as a Fill Handle to copy or continue a series of data",
+            "D. It is used to open the Format Cells dialog box"
+         ],
+         "answer":"C. It is used as a Fill Handle to copy or continue a series of data"
+      },
+      {
+         "question":"Which of the following options correctly describes the purpose of the HTTPS protocol when browsing websites on the internet?",
+         "options":[
+            "A. It is used only for transferring files between computers",
+            "B. It is a secure version of HTTP that encrypts data during transmission",
+            "C. It is used to identify devices by their network address",
+            "D. It is used to send and receive emails only"
+         ],
+         "answer":"B. It is a secure version of HTTP that encrypts data during transmission"
+      },
+      {
+         "question":"Which of the following options correctly explains how to insert a chart in Microsoft Excel after selecting a range of data?",
+         "options":[
+            "A. Go to Data tab and choose Chart from the Sort group",
+            "B. Go to Review tab and choose Insert Chart from the Comments group",
+            "C. Go to Insert tab and select the required chart type from the Charts group",
+            "D. Go to View tab and choose Chart Preview"
+         ],
+         "answer":"C. Go to Insert tab and select the required chart type from the Charts group"
+      },
+      {
+         "question":"Which of the following statements correctly describes when it is acceptable to let long text overflow into adjacent cells in a Microsoft Excel worksheet?",
+         "options":[
+            "A. When data will be entered later into the adjacent cells",
+            "B. When no data will be entered into the adjacent adjacent cells and the overflow will not cause confusion",
+            "C. When the worksheet is protected from editing",
+            "D. When the column width cannot be changed at all"
+         ],
+         "answer":"B. When no data will be entered into the adjacent adjacent cells and the overflow will not cause confusion"
+      },
+      {
+         "question":"Which of the following will not cut information?",
+         "options":[
+            "A. Pressing Ctrl + C",
+            "B. Selecting Edit > Cut from the menu",
+            "C. Clicking the Cut button on the standard",
+            "D. Pressing Ctrl+X"
+         ],
+         "answer":"A. Pressing Ctrl + C"
+      },
+      {
+         "question":"Which of the following is not a way to complete a cell entry?",
+         "options":[
+            "A. Pressing enter",
+            "B. Pressing any arrow key on the keyboard",
+            "C. Clicking the Enter button on the Formula bar",
+            "D. Pressing spacebar"
+         ],
+         "answer":"D. Pressing spacebar"
+      },
+      {
+         "question":"You can activate a cell by",
+         "options":[
+            "A. Pressing the Tab key",
+            "B. Clicking the cell",
+            "C. Pressing an arrow key",
+            "D. All of the above"
+         ],
+         "answer":"D. All of the above"
+      },
+      {
+         "question":"Text formulas:",
+         "options":[
+            "A. Replace cell references",
+            "B. Return ASCII values of characters",
+            "C. Concatenate and manipulate text",
+            "D. Show formula error value"
+         ],
+         "answer":"C. Concatenate and manipulate text"
+      },
+      {
+         "question":"How do you insert a row?",
+         "options":[
+            "A. Right-click the row heading where you want to insert the new row and select Insert from the shortcut menu",
+            "B. Select the row heading where you want to insert the new row and select Edit >Row from the menu",
+            "C. Select the row heading where you want to insert the new row and click the Insert Row button on the standard toolbar",
+            "D. All of the above"
+         ],
+         "answer":"A. Right-click the row heading where you want to insert the new row and select Insert from the shortcut menu"
+      },
+      {
+         "question":"Which of the following is not a basic step in creating a worksheet?",
+         "options":[
+            "A. Save workbook",
+            "B. Modify the worksheet",
+            "C. Enter text and data",
+            "D. Copy the worksheet"
+         ],
+         "answer":"D. Copy the worksheet"
+      },
+      {
+         "question":"How do you select an entire column?",
+         "options":[
+            "A. Select Edit > Select > Column from the menu",
+            "B. Click the column heading letter",
+            "C. Hold down the shift key as you click anywhere in the column",
+            "D. Hold down the Ctrl key as you click anywhere in the column"
+         ],
+         "answer":"B. Click the column heading letter"
+      },
+      {
+         "question":"How can you print three copies of a workbook?",
+         "options":[
+            "A. Select File > Properties form the menu and type 3 in the Copies to print text box",
+            "B. Select File > Print from the menu and type 3 in the Number of copies text box",
+            "C. Click the Print button on the standard toolbar to print the document then take it to Kinko’s and have 2 more copies made",
+            "D. Press Ctrl+P+3"
+         ],
+         "answer":"B. Select File > Print from the menu and type 3 in the Number of copies text box"
+      },
+      {
+         "question":"To create a formula, you first",
+         "options":[
+            "A. Select the cell you want to place the formula into",
+            "B. Type the equals sign (=) to tell Excel that you’re about to enter a formula",
+            "C. Enter the formula using any input values and the appropriate mathematical operators that make up your formula",
+            "D. Choose the new command from the file menu"
+         ],
+         "answer":"A. Select the cell you want to place the formula into"
+      },
+      {
+         "question":"To center worksheet titles across a range of cells, you must",
+         "options":[
+            "A. Select the cells containing the title text plus the range over which the title text is to be centered",
+            "B. Widen the columns",
+            "C. Select the cells containing the title text plus the range over which the title text is to be enfettered",
+            "D. Format the cells with the comma style"
+         ],
+         "answer":"A. Select the cells containing the title text plus the range over which the title text is to be centered"
+      },
+      {
+         "question":"DCL is used for?",
+         "options":[
+            "A. Change structure",
+            "B. Modify data",
+            "C. Control access",
+            "D. None"
+         ],
+         "answer":"C. Control access"
+      },
+      {
+         "question":"Find command location?",
+         "options":[
+            "A. Cells group",
+            "B. Editing group",
+            "C. Menu group",
+            "D. None"
+         ],
+         "answer":"B. Editing group"
+      },
+      {
+         "question":"Which tool merges and centers content?",
+         "options":[
+            "A. Format Cells",
+            "B. Alignment center",
+            "C. Merge & Center dialog",
+            "D. Merge & Center tool"
+         ],
+         "answer":"D. Merge & Center tool"
+      },
+      {
+         "question":"What is Outline View?",
+         "options":[
+            "A. Full screen",
+            "B. Structured headings view",
+            "C. Margins view",
+            "D. Normal view"
+         ],
+         "answer":"B. Structured headings view"
+      },
+      {
+         "question":"AutoFit Row Height is used for?",
+         "options":[
+            "A. Adjust row height automatically",
+            "B. Change width",
+            "C. Merge",
+            "D. Format"
+         ],
+         "answer":"A. Adjust row height automatically"
+      },
+      {
+         "question":"Clear content steps?",
+         "options":[
+            "A. Formulas",
+            "B. Home → Clear",
+            "C. Data",
+            "D. Status"
+         ],
+         "answer":"B. Home → Clear"
+      },
+      {
+         "question":"What is HTML?",
+         "options":[
+            "A. Machine language",
+            "B. Hyper text markup language",
+            "C. Data language",
+            "D. Network language"
+         ],
+         "answer":"B. Hyper text markup language"
+      },
+      {
+         "question":"Replace shortcut?",
+         "options":[
+            "A. Ctrl + R",
+            "B. Ctrl + F",
+            "C. Ctrl + H",
+            "D. Ctrl + Shift + R"
+         ],
+         "answer":"C. Ctrl + H"
+      },
+      {
+         "question":"Workbook contains?",
+         "options":[
+            "A. Numbers only",
+            "B. Text only",
+            "C. Formulas only",
+            "D. Numbers, text, formulas"
+         ],
+         "answer":"D. Numbers, text, formulas"
+      },
+      {
+         "question":"Auto column width?",
+         "options":[
+            "A. Double click header",
+            "B. Double click cell",
+            "C. Double click right border",
+            "D. None"
+         ],
+         "answer":"C. Double click right border"
+      },
+      {
+         "question":"Lock icon in browser means?",
+         "options":[
+            "A. Block access",
+            "B. Secure connection",
+            "C. No access",
+            "D. Restricted"
+         ],
+         "answer":"B. Secure connection"
+      },
+      {
+         "question":"Search engine is?",
+         "options":[
+            "A. Virus tool",
+            "B. Update tool",
+            "C. Search internet",
+            "D. Network tool"
+         ],
+         "answer":"C. Search internet"
+      },
+      {
+         "question":"Device sharing resources?",
+         "options":[
+            "A. PC",
+            "B. Laptop",
+            "C. Server",
+            "D. Printer"
+         ],
+         "answer":"C. Server"
+      },
+      {
+         "question":"Hyperlink means?",
+         "options":[
+            "A. Web page",
+            "B. Link between pages",
+            "C. Language",
+            "D. Program"
+         ],
+         "answer":"B. Link between pages"
+      },
+      {
+         "question":"Which of the following options makes the command \"Edit > Fill Across Worksheet\" active in Excel?",
+         "options":[
+            "A. When one sheet is selected",
+            "B. When multiple sheets are selected",
+            "C. When no sheet is selected",
+            "D. None of the above"
+         ],
+         "answer":"B. When multiple sheets are selected"
+      },
+      {
+         "question":"Where can you set the shading color for a range of cells in Excel?",
+         "options":[
+            "A. From Patterns tab in Format Cells",
+            "B. From Fill Color tool in Formatting toolbar",
+            "C. From Drawing toolbar",
+            "D. All of the above"
+         ],
+         "answer":"D. All of the above"
+      },
+      {
+         "question":"Which of the following is NOT a correct way to edit the content of a cell?",
+         "options":[
+            "A. Press Alt key",
+            "B. Press F2",
+            "C. Click Formula Bar",
+            "D. Double click cell"
+         ],
+         "answer":"A. Press Alt key"
+      },
+      {
+         "question":"Which of the following is used to fill months automatically in Excel?",
+         "options":[
+            "A. Custom list",
+            "B. AutoFill",
+            "C. Fill Series",
+            "D. Fill worksheet"
+         ],
+         "answer":"B. AutoFill"
+      },
+      {
+         "question":"What types of data can be entered in Excel?",
+         "options":[
+            "A. Numbers only",
+            "B. Text only",
+            "C. Numbers and text",
+            "D. Numbers, text, formulas, functions"
+         ],
+         "answer":"D. Numbers, text, formulas, functions"
+      },
+      {
+         "question":"Which function is used to find the median value?",
+         "options":[
+            "A. SUM",
+            "B. MAX",
+            "C. AVERAGE",
+            "D. MEDIAN"
+         ],
+         "answer":"D. MEDIAN"
+      },
+      {
+         "question":"Which option is used to unmerge cells?",
+         "options":[
+            "A. Conditional formatting",
+            "B. Merge & Center",
+            "C. Cell styles",
+            "D. None"
+         ],
+         "answer":"B. Merge & Center"
+      },
+      {
+         "question":"Where can you find all commands in Excel?",
+         "options":[
+            "A. Drawing toolbar",
+            "B. Formatting toolbar",
+            "C. Standard toolbar",
+            "D. Menu bar"
+         ],
+         "answer":"D. Menu bar"
+      },
+      {
+         "question":"From which tab can you insert hyperlink?",
+         "options":[
+            "A. Insert → Links",
+            "B. Review",
+            "C. Layout",
+            "D. View"
+         ],
+         "answer":"A. Insert → Links"
+      },
+      {
+         "question":"Which feature allows scheduling emails?",
+         "options":[
+            "A. Reply all",
+            "B. Snooze",
+            "C. Draft",
+            "D. Scheduled send"
+         ],
+         "answer":"D. Scheduled send"
+      },
+      {
+         "question":"To hide gridlines you choose?",
+         "options":[
+            "A. View → Page options",
+            "B. Print → Sheet options",
+            "C. View → Sheet options",
+            "D. None of above"
+         ],
+         "answer":"C. View → Sheet options"
+      },
+      {
+         "question":"Clip art library allows you to?",
+         "options":[
+            "A. Add artistic text",
+            "B. Spell check",
+            "C. Insert clip art images",
+            "D. Add slides"
+         ],
+         "answer":"C. Insert clip art images"
+      },
+      {
+         "question":"Shortcut for spelling check?",
+         "options":[
+            "A. F7",
+            "B. Shift+F7",
+            "C. F4",
+            "D. Alt+F8"
+         ],
+         "answer":"A. F7"
+      },
+      {
+         "question":"Which option is used to move a chart to a new sheet?",
+         "options":[
+            "A. Copy",
+            "B. Move Chart",
+            "C. Insert Chart",
+            "D. Cut"
+         ],
+         "answer":"B. Move Chart"
+      },
+      {
+         "question":"What does the Name Box display?",
+         "options":[
+            "A. File name",
+            "B. Sheet name",
+            "C. Active cell address",
+            "D. Formula"
+         ],
+         "answer":"C. Active cell address"
+      },
+      {
+         "question":"Ctrl + D is used in MS Word for:",
+         "options":[
+            "A. Duplicate",
+            "B. Delete",
+            "C. Font dialog box",
+            "D. Save"
+         ],
+         "answer":"C. Font dialog box"
+      },
+      {
+         "question":"Ctrl + D is used in PowerPoint to:",
+         "options":[
+            "A. Delete slide",
+            "B. Duplicate slide",
+            "C. Design",
+            "D. Display"
+         ],
+         "answer":"B. Duplicate slide"
+      },
+      {
+         "question":"Which function in Excel returns square root?",
+         "options":[
+            "A. POWER",
+            "B. SQRT",
+            "C. ROOT",
+            "D. DIV"
+         ],
+         "answer":"B. SQRT"
+      },
+      {
+         "question":"Maximum number of rows in Excel?",
+         "options":[
+            "A. 6545362",
+            "B. 1048576",
+            "C. 1638433",
+            "D. 10000000"
+         ],
+         "answer":"B. 1048576"
+      },
+      {
+         "question":"Maximum number of columns in Excel?",
+         "options":[
+            "A. 34256",
+            "B. 10243",
+            "C. 16384",
+            "D. 64096"
+         ],
+         "answer":"C. 16384"
+      },
+      {
+         "question":"Which protocol is used for file transfer on the Internet?",
+         "options":[
+            "A. HTTP",
+            "B. FTP",
+            "C. SMTP",
+            "D. IP"
+         ],
+         "answer":"B. FTP"
+      },
+      {
+         "question":"Which command in database is used to define structure?",
+         "options":[
+            "A. DML",
+            "B. DCL",
+            "C. DDL",
+            "D. SQL"
+         ],
+         "answer":"C. DDL"
+      },
+      {
+         "question":"Header and Footer are found in which tab in MS Word?",
+         "options":[
+            "A. Home",
+            "B. Insert",
+            "C. Layout",
+            "D. View"
+         ],
+         "answer":"B. Insert"
+      },
+      {
+         "question":"Which option is used to freeze the top row in Excel?",
+         "options":[
+            "A. Home → Freeze",
+            "B. Data → Freeze",
+            "C. View → Freeze Panes → Freeze Top Row",
+            "D. Insert → Freeze"
+         ],
+         "answer":"C. View → Freeze Panes → Freeze Top Row"
+      },
+      {
+         "question":"Which menu option splits the window into two parts?",
+         "options":[
+            "A. View → Window → Split",
+            "B. Window → Split",
+            "C. View → Split",
+            "D. Review → Window"
+         ],
+         "answer":"A. View → Window → Split"
+      },
+      {
+         "question":"Which tab contains sorting tools in Excel?",
+         "options":[
+            "A. Review",
+            "B. Insert",
+            "C. Data",
+            "D. Home"
+         ],
+         "answer":"C. Data"
+      },
+      {
+         "question":"Which option is used to filter data?",
+         "options":[
+            "A. Insert → Filter",
+            "B. Data → Filter",
+            "C. Home → Filter",
+            "D. Review → Filter"
+         ],
+         "answer":"B. Data → Filter"
+      },
+      {
+         "question":"Which function finds the highest value?",
+         "options":[
+            "A. max",
+            "B. min",
+            "C. sum",
+            "D. all"
+         ],
+         "answer":"A. max"
+      },
+      {
+         "question":"Which function finds the lowest value?",
+         "options":[
+            "A. min",
+            "B. max",
+            "C. sum",
+            "D. zxa"
+         ],
+         "answer":"A. min"
+      },
+      {
+         "question":"Which function counts numeric cells?",
+         "options":[
+            "A. max",
+            "B. min",
+            "C. COUNT",
+            "D. qewr"
+         ],
+         "answer":"C. COUNT"
+      },
+      {
+         "question":"Which option is used to insert a chart?",
+         "options":[
+            "A. Data",
+            "B. Insert → Chart",
+            "C. Review",
+            "D. View"
+         ],
+         "answer":"B. Insert → Chart"
+      },
+      {
+         "question":"Which option is used to insert hyperlink?",
+         "options":[
+            "A. Insert → Hyperlink",
+            "B. Data",
+            "C. Review",
+            "D. View"
+         ],
+         "answer":"A. Insert → Hyperlink"
+      },
+      {
+         "question":"Which option is used to merge cells?",
+         "options":[
+            "A. Wrap Text",
+            "B. Merge & Center",
+            "C. Align",
+            "D. Format"
+         ],
+         "answer":"B. Merge & Center"
+      },
+      {
+         "question":"Which option is used to wrap text?",
+         "options":[
+            "A. Merge",
+            "B. Wrap Text",
+            "C. Align",
+            "D. Border"
+         ],
+         "answer":"B. Wrap Text"
+      },
+      {
+         "question":"Which option is used to delete a row?",
+         "options":[
+            "A. Home → Delete → Delete Sheet Rows",
+            "B. Insert",
+            "C. Data",
+            "D. Review"
+         ],
+         "answer":"A. Home → Delete → Delete Sheet Rows"
+      },
+      {
+         "question":"Which option is used to insert a column?",
+         "options":[
+            "A. Home → Insert → Insert Sheet Columns",
+            "B. Data",
+            "C. Review",
+            "D. View"
+         ],
+         "answer":"A. Home → Insert → Insert Sheet Columns"
+      },
+      {
+         "question":"Which shortcut opens Font dialog box?",
+         "options":[
+            "A. Ctrl + F",
+            "B. Ctrl + D",
+            "C. Ctrl + H",
+            "D. Ctrl + T"
+         ],
+         "answer":"B. Ctrl + D"
+      },
+      {
+         "question":"Which shortcut is used to save?",
+         "options":[
+            "A. Ctrl + S",
+            "B. Ctrl + P",
+            "C. Ctrl + O",
+            "D. Ctrl + N"
+         ],
+         "answer":"A. Ctrl + S"
+      },
+      {
+         "question":"Which shortcut is used to print?",
+         "options":[
+            "A. Ctrl + S",
+            "B. Ctrl + P",
+            "C. Ctrl + O",
+            "D. Ctrl + N"
+         ],
+         "answer":"B. Ctrl + P"
+      },
+      {
+         "question":"Which shortcut is used to find?",
+         "options":[
+            "A. Ctrl + H",
+            "B. Ctrl + F",
+            "C. Ctrl + D",
+            "D. Ctrl + A"
+         ],
+         "answer":"B. Ctrl + F"
+      },
+      {
+         "question":"Which shortcut is used to replace?",
+         "options":[
+            "A. Ctrl + H",
+            "B. Ctrl + F",
+            "C. Ctrl + D",
+            "D. Ctrl + S"
+         ],
+         "answer":"A. Ctrl + H"
+      },
+      {
+         "question":"Which tab is used for spelling check in Word?",
+         "options":[
+            "A. Home",
+            "B. Review",
+            "C. View",
+            "D. Insert"
+         ],
+         "answer":"B. Review"
+      },
+      {
+         "question":"Which option is used to show gridlines?",
+         "options":[
+            "A. View → Gridlines",
+            "B. Insert",
+            "C. Data",
+            "D. Review"
+         ],
+         "answer":"A. View → Gridlines"
+      },
+      {
+         "question":"Which option is used to hide worksheet?",
+         "options":[
+            "A. Right click → Hide",
+            "B. Insert",
+            "C. Data",
+            "D. Review"
+         ],
+         "answer":"A. Right click → Hide"
+      },
+      {
+         "question":"1. Which tab is not available on left panel when you open a presentation?",
+         "options":[
+            "A. Outline",
+            "B. Slides",
+            "C. Notes",
+            "d. all"
+         ],
+         "answer":"C. Notes"
+      },
+      {
+         "question":"2. Which of the following statements is not true?",
+         "options":[
+            "A. You can type text directly into a PowerPoint slide but typing in text box is more convenient.",
+            "B. From Insert menu choose Picture and then File to insert your images into slides.",
+            "C. You can view a PowerPoint presentation in Normal, Slide Sorter or Slide Show view.",
+            "D. You can show or hide task pane from View >> Toolbars."
+         ],
+         "answer":"A. You can type text directly into a PowerPoint slide but typing in text box is more convenient."
+      },
+      {
+         "question":"3. To start Microsoft PowerPoint application",
+         "options":[
+            "A. Click on Start > Programs > All Programs > Microsoft PowerPoint",
+            "B. Hit Ctrl + R then type ppoint.exe and Enter",
+            "C. Click Start > Run then type powerpnt then press Enter",
+            "D. All of above"
+         ],
+         "answer":"D. All of above"
+      },
+      {
+         "question":"4. Which of the following section does not exist in a slide layout?",
+         "options":[
+            "A. Titles",
+            "B. Lists",
+            "C. Charts",
+            "D. Animations"
+         ],
+         "answer":"D. Animations"
+      },
+      {
+         "question":"5. PowerPoint presentations are widely used as",
+         "options":[
+            "A. Note outlines for teachers",
+            "B. Project presentations by students",
+            "C. Communication of planning",
+            "D. All of above"
+         ],
+         "answer":"D. All of above"
+      },
+      {
+         "question":"6. controls all the main slide control tasks for your presentation",
+         "options":[
+            "A. Task Pane",
+            "B. Task Bar",
+            "C. Control Panel",
+            "D. None of above"
+         ],
+         "answer":"A. Task Pane"
+      },
+      {
+         "question":"7. Which of the following cannot be toggled from View > Toolbars?",
+         "options":[
+            "A. Control Toolbox",
+            "B. Slides",
+            "C. Revisions",
+            "D. Reviewing"
+         ],
+         "answer":"B. Slides"
+      },
+      {
+         "question":"8. Which of the following pane is not available in Task Pane?",
+         "options":[
+            "A. Getting Started",
+            "B. Clip Art",
+            "C. Word Art",
+            "D. Search Results"
+         ],
+         "answer":"C. Word Art"
+      },
+      {
+         "question":"9. Which of the following pane is NOT available in Task Pane",
+         "options":[
+            "A. Slide Design",
+            "B. Master Slide",
+            "C. Slide Layout",
+            "D. Slide Transition"
+         ],
+         "answer":"B. Master Slide"
+      },
+      {
+         "question":"10. A new presentation can be created from",
+         "options":[
+            "A. Blank Presentation",
+            "B. From Existing Presentation",
+            "C. From Design Template",
+            "D. All of above"
+         ],
+         "answer":"D. All of above"
+      },
+      {
          "question":"Which of these shortcuts is used to save a document in Office programs?",
          "options":[
             "Ctrl+C",
