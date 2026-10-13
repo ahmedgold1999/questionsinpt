@@ -12,6 +12,435 @@
       "explanation": "وحدة المعالجة المركزية (CPU) تُعرف بدماغ الحاسوب لأنها المسؤولة عن معالجة كافة التعليمات والبيانات."
     },
     {
+      "question": "Which of the following provides a printed copy of your presentation?",
+      "options": [
+        "A. Outline",
+        "B. Speaker Notes",
+        "C. Audience Handouts",
+        "D. All of the above"
+      ],
+      "answer": "D. All of the above",
+      "explanation": "يمكن طباعة المخطط التفصيلي وملاحظات المتحدث والنشرات المخصصة للجمهور من PowerPoint."
+    },
+    {
+      "question": "What is a digital signature?",
+      "options": [
+        "A. Audio file",
+        "B. Video stream",
+        "C. Verification of message authenticity",
+        "D. Text editor"
+      ],
+      "answer": "C. Verification of message authenticity",
+      "explanation": "التوقيع الرقمي وسيلة تشفيرية للتحقق من أصالة الرسالة وسلامة محتواها، وقد يثبت هوية الموقّع."
+    },
+    {
+      "question": "How can you insert a symbol in Word?",
+      "options": [
+        "A. From Insert tab, choose Symbols",
+        "B. Right-click the document then choose Symbols",
+        "C. From Design tab choose Symbols",
+        "D. From Layout tab choose Symbols"
+      ],
+      "answer": "A. From Insert tab, choose Symbols",
+      "explanation": "لإدراج رمز في Word، نفتح تبويب Insert ثم نختار Symbol."
+    },
+    {
+      "question": "Which function returns the largest value in a range?",
+      "options": [
+        "A. MIN",
+        "B. MAX",
+        "C. COUNT",
+        "D. SUM"
+      ],
+      "answer": "B. MAX",
+      "explanation": "تُرجع الدالة MAX أكبر قيمة رقمية ضمن نطاق الخلايا المحدد."
+    },
+    {
+      "question": "To sort column A in ascending order, press the button:",
+      "options": [
+        "A. Sort and filter from group",
+        "B. All answers given are incorrect",
+        "C. Sort and label from font collection",
+        "D. Sort and label from edit"
+      ],
+      "answer": "A. Sort and filter from group",
+      "explanation": "في Excel، نستخدم Sort & Filter من مجموعة Editing لترتيب البيانات تصاعديًا. وقد تختلف تسمية الأمر أو موضعه حسب الإصدار."
+    },
+    {
+      "question": "What term is used to refer to blank space in Microsoft Word?",
+      "options": [
+        "A. Margins",
+        "B. Breaks",
+        "C. Spacing",
+        "D. Alignment"
+      ],
+      "answer": "C. Spacing",
+      "explanation": "يشير Spacing إلى المسافات الفارغة بين النصوص أو الأسطر أو الفقرات، بينما تشير Margins إلى الهوامش حول الصفحة."
+    },
+    {
+      "question": "From which tab can WordArt be inserted in Microsoft Word?",
+      "options": [
+        "A. Layout",
+        "B. View",
+        "C. Insert",
+        "D. All"
+      ],
+      "answer": "C. Insert",
+      "explanation": "يمكن إدراج WordArt من تبويب Insert في Microsoft Word."
+    },
+    {
+      "question": "How do you change the Line Spacing of text in MS Word?",
+      "options": [
+        "A. Right-click selected text → Font → Change Spacing settings",
+        "B. Right-click selected text → Select Paragraph → Adjust the Line Spacing",
+        "C. From Font Size select Line Spacing",
+        "D. None of the above"
+      ],
+      "answer": "B. Right-click selected text → Select Paragraph → Adjust the Line Spacing",
+      "explanation": "يمكن فتح إعدادات Paragraph بالنقر بزر الفأرة الأيمن على النص، ثم تغيير Line Spacing. ويمكن أيضًا ضبطه من Home ثم Line and Paragraph Spacing."
+    },
+    {
+      "question": "What is the function of the shortcut Ctrl + B?",
+      "options": [
+        "A. Copy and paste",
+        "B. Cut and paste",
+        "C. Make the text bold",
+        "D. Make the text italic"
+      ],
+      "answer": "C. Make the text bold",
+      "explanation": "يُستخدم الاختصار Ctrl + B لتفعيل الخط العريض Bold أو إيقافه."
+    },
+    {
+      "question": "What shortcut key starts the slide show from the beginning?",
+      "options": [
+        "A. F1",
+        "B. F5",
+        "C. Shift + F5",
+        "D. F7"
+      ],
+      "answer": "B. F5",
+      "explanation": "يبدأ F5 عرض الشرائح من الشريحة الأولى، بينما يبدأ Shift + F5 من الشريحة الحالية."
+    },
+    {
+      "question": "To close the current workbook, click on the option....... in the....... menu.",
+      "options": [
+        "A. Close, View",
+        "B. Close, Home Page",
+        "C. Close, Office",
+        "D. Close, Title Bar"
+      ],
+      "answer": "C. Close, Office",
+      "explanation": "وفق واجهة Office القديمة، يوجد أمر Close ضمن قائمة Office. أما في Excel 2019، فيمكن الوصول إلى File ثم Close."
+    },
+    {
+      "question": "How do you open a new tab in most web browsers?",
+      "options": [
+        "A. Press Ctrl + N",
+        "B. Click the left mouse button on the desktop",
+        "C. Close the current tab",
+        "D. Press Ctrl + T (Windows) or Command + T (Mac)"
+      ],
+      "answer": "D. Press Ctrl + T (Windows) or Command + T (Mac)",
+      "explanation": "يفتح Ctrl + T تبويبًا جديدًا في معظم المتصفحات على Windows، ويؤدي Command + T الوظيفة نفسها على Mac."
+    },
+    {
+      "question": "What is Phishing?",
+      "options": [
+        "A. A type of cyberattack aimed at stealing personal data",
+        "B. A type of antivirus program",
+        "C. A secure encrypted e-mail service",
+        "D. A process of sending bulk e-mails to many people"
+      ],
+      "answer": "A. A type of cyberattack aimed at stealing personal data",
+      "explanation": "التصيد الاحتيالي هجوم إلكتروني يحاول خداع المستخدم للحصول على بياناته الشخصية أو بيانات تسجيل الدخول."
+    },
+    {
+      "question": "It is a network that can connect two or more devices to share resources in different places over a wide geographic area. What is it?",
+      "options": [
+        "A. Internet",
+        "B. Intranet",
+        "C. Wide Area Network (WAN)",
+        "D. Local Area Network (LAN)"
+      ],
+      "answer": "C. Wide Area Network (WAN)",
+      "explanation": "تربط شبكة WAN الأجهزة أو الشبكات عبر مناطق جغرافية واسعة، بخلاف LAN التي تغطي عادة مساحة محلية محدودة."
+    },
+    {
+      "question": "It is a device that controls the transmission of data to its destination on a computer network.",
+      "options": [
+        "A. Switch",
+        "B. Router",
+        "C. Hub",
+        "D. Protocol"
+      ],
+      "answer": "B. Router",
+      "explanation": "يوجّه Router حزم البيانات بين الشبكات نحو وجهتها المناسبة اعتمادًا على معلومات التوجيه."
+    },
+    {
+      "question": "What is the function of a Firewall?",
+      "options": [
+        "A. Speeding up internet",
+        "B. Protecting devices from attacks",
+        "C. Data storage",
+        "D. Improving video quality"
+      ],
+      "answer": "B. Protecting devices from attacks",
+      "explanation": "يراقب جدار الحماية حركة مرور الشبكة ويسمح بها أو يحظرها وفق قواعد أمنية محددة."
+    },
+    {
+      "question": "What does WWW stand for?",
+      "options": [
+        "A. World Wide Web",
+        "B. World Whole Web",
+        "C. Wide World Web",
+        "D. Web World Wide"
+      ],
+      "answer": "A. World Wide Web",
+      "explanation": "WWW اختصار World Wide Web، وهي منظومة صفحات وموارد مترابطة يمكن الوصول إليها عبر الإنترنت."
+    },
+    {
+      "question": "Which storage device uses magnetic technology?",
+      "options": [
+        "A. SSD",
+        "B. RAM",
+        "C. Hard Disk Drive",
+        "D. ROM"
+      ],
+      "answer": "C. Hard Disk Drive",
+      "explanation": "يخزّن القرص الصلب HDD البيانات باستخدام التسجيل المغناطيسي على أقراص دوارة."
+    },
+    {
+      "question": "Which of the following is an output device?",
+      "options": [
+        "A. Scanner",
+        "B. Microphone",
+        "C. Plotter",
+        "D. Keyboard"
+      ],
+      "answer": "C. Plotter",
+      "explanation": "جهاز Plotter من أجهزة الإخراج، إذ ينتج رسومات ومخططات مطبوعة. أما الماسح والميكروفون ولوحة المفاتيح فهي أجهزة إدخال."
+    },
+    {
+      "question": "One Gigabyte (GB) equals:",
+      "options": [
+        "A. 1000 MB",
+        "B. 1024 MB",
+        "C. 2048 MB",
+        "D. 1024 KB"
+      ],
+      "answer": "B. 1024 MB",
+      "explanation": "وفق الاصطلاح الثنائي الشائع في المناهج، يساوي 1 GB مقدار 1024 MB. أما بالنظام العشري المستخدم في بعض مواصفات التخزين، فيساوي 1000 MB."
+    },
+    {
+      "question": "Two Gigabytes (GB) equals:",
+      "options": [
+        "A. 1000 MB",
+        "B. 1024 MB",
+        "C. 2048 MB",
+        "D. 1024 KB"
+      ],
+      "answer": "C. 2048 MB",
+      "explanation": "وفق الاصطلاح الثنائي الشائع في المناهج، يساوي 2 GB مقدار 2048 MB."
+    },
+    {
+      "question": "Inserting numbers from 1 to 10 is considered a process of:",
+      "options": [
+        "A. Processing",
+        "B. Output",
+        "C. Input",
+        "D. Analysis"
+      ],
+      "answer": "C. Input",
+      "explanation": "إدخال الأرقام إلى الحاسوب يُعد عملية إدخال بيانات Input."
+    },
+    {
+      "question": "What does scheduling an email mean?",
+      "options": [
+        "A. Sending an email at a later time or date using the schedule feature",
+        "B. Marking the email as junk/spam",
+        "C. Sending the email to yourself",
+        "D. Moving the email to the drafts folder"
+      ],
+      "answer": "A. Sending an email at a later time or date using the schedule feature",
+      "explanation": "تعني جدولة البريد تحديد وقت أو تاريخ مستقبلي لإرسال الرسالة تلقائيًا."
+    },
+    {
+      "question": "Which email messages can you schedule to send later?",
+      "options": [
+        "A. Snooze",
+        "B. Scheduled",
+        "C. Attached",
+        "D. None of the above"
+      ],
+      "answer": "B. Scheduled",
+      "explanation": "تُعرض الرسائل المجدولة للإرسال عادةً في مجلد Scheduled. أما Snooze فتؤجل ظهور الرسالة أو تذكيرها."
+    },
+    {
+      "question": "How can you access Themes in Microsoft Office?",
+      "options": [
+        "A. From View",
+        "B. From File",
+        "C. From Design",
+        "D. All"
+      ],
+      "answer": "C. From Design",
+      "explanation": "في تطبيقات Office التي توفر تبويب Design، يمكن الوصول إلى السمات Themes من هذا التبويب."
+    },
+    {
+      "question": "What is the keyboard shortcut for File Explorer?",
+      "options": [
+        "A. Windows + E",
+        "B. Ctrl + E",
+        "C. Windows + F",
+        "D. Shift + E"
+      ],
+      "answer": "A. Windows + E",
+      "explanation": "يفتح الاختصار Windows + E نافذة مستكشف الملفات File Explorer في Windows."
+    },
+    {
+      "question": "What does Draft View allow you to do in Microsoft Word?",
+      "options": [
+        "A. Allows editability without headers and footers",
+        "B. Allows editability with headers and footers",
+        "C. It provides a printed sample",
+        "D. All"
+      ],
+      "answer": "A. Allows editability without headers and footers",
+      "explanation": "يوفر Draft View عرضًا مبسطًا لتحرير النص، ولا يعرض الرؤوس والتذييلات بالطريقة المعتادة في Print Layout."
+    },
+    {
+      "question": "What software serves as an interface between user applications and hardware?",
+      "options": [
+        "A. Software",
+        "B. Utility system",
+        "C. Output/Input devices",
+        "D. None"
+      ],
+      "answer": "D. None",
+      "explanation": "الإجابة العلمية الدقيقة هي Operating System، أي نظام التشغيل، وهو غير موجود ضمن الخيارات."
+    },
+    {
+      "question": "The legend in Excel:",
+      "options": [
+        "A. Exist hidden",
+        "B. Exist not hidden",
+        "C. Not exist",
+        "D. They exist"
+      ],
+      "answer": "D. They exist",
+      "explanation": "يحتوي المخطط في Excel على عنصر Legend اختياري يوضح معنى ألوان أو رموز سلاسل البيانات، ويمكن إظهاره أو إخفاؤه."
+    },
+    {
+      "question": "What happens when you delete an email?",
+      "options": [
+        "A. You can find it in Trash or Recently Deleted",
+        "B. It is gone forever",
+        "C. It is moved to the Drafts folder",
+        "D. It is automatically sent to another person"
+      ],
+      "answer": "A. You can find it in Trash or Recently Deleted",
+      "explanation": "تُنقل الرسالة المحذوفة عادةً إلى Trash أو Deleted Items، وقد تُحذف نهائيًا بعد مدة أو عند إفراغ المجلد."
+    },
+    {
+      "question": "What should governments do to help people with disabilities?",
+      "options": [
+        "A. To offer free access",
+        "B. To decrease the number of hyperlinks",
+        "C. To offer output and input devices facilities",
+        "D. All"
+      ],
+      "answer": "C. To offer output and input devices facilities",
+      "explanation": "تساعد الأجهزة والتسهيلات المخصصة للإدخال والإخراج الأشخاص ذوي الإعاقة على استخدام التكنولوجيا. لكن السؤال لا يحدد المقصود بالتسهيلات بدقة، لذلك قد يتوقف الاختيار على سياق المنهج."
+    },
+    {
+      "question": "Which of the following has the least storage capacity?",
+      "options": [
+        "A. Cache",
+        "B. RAM",
+        "C. Hardware",
+        "D. Registers"
+      ],
+      "answer": "D. Registers",
+      "explanation": "تكون سجلات المعالج Registers صغيرة السعة جدًا، إذ تخزن كميات محدودة من البيانات اللازمة للعمليات الفورية."
+    },
+    {
+      "question": "Which device converts analog signals to digital signals and vice versa?",
+      "options": [
+        "A. Modem",
+        "B. Router",
+        "C. Switch",
+        "D. Hub"
+      ],
+      "answer": "A. Modem",
+      "explanation": "يحوّل المودم الإشارات وفق تقنية الاتصال المستخدمة، بما يسمح بإرسال البيانات واستقبالها عبر وسيط الاتصال."
+    },
+    {
+      "question": "How can you access some wanted email messages easily?",
+      "options": [
+        "A. Move it to Inbox",
+        "B. Starred",
+        "C. Move it to Personal",
+        "D. All"
+      ],
+      "answer": "B. Starred",
+      "explanation": "يساعد تمييز الرسائل بنجمة Starred على الوصول إليها بسرعة لاحقًا في خدمات البريد التي تدعم هذه الميزة."
+    },
+    {
+      "question": "What is a responsive website?",
+      "options": [
+        "A. It sends automatic emails",
+        "B. It automatically changes its size and layout to look good on any screen",
+        "C. Fast loading website times",
+        "D. All"
+      ],
+      "answer": "B. It automatically changes its size and layout to look good on any screen",
+      "explanation": "يتكيف الموقع المتجاوب مع أحجام الشاشات المختلفة لتسهيل الاستخدام على الهواتف والأجهزة اللوحية والحواسيب."
+    },
+    {
+      "question": "What can a column name in Excel contain?",
+      "options": [
+        "A. English letters",
+        "B. Arabic letters",
+        "C. English and Arabic letters together",
+        "D. Numbers only"
+      ],
+      "answer": "A. English letters",
+      "explanation": "تُعرّف أعمدة ورقة عمل Excel القياسية بحروف مثل A وB وC وAA، وليس بأسماء عربية أو أرقام."
+    },
+    {
+      "question": "When a row of data is to be converted into columns:",
+      "options": [
+        "A. Copy the cells in row, select the same number of cells in row and paste",
+        "B. Copy the cells in column then choose Paste Special, then click Transpose and OK",
+        "C. Copy the cells then go to Cells then on Alignment tab click Transpose check box and click OK",
+        "D. Select the cells then place the cell pointer on new cell and choose Paste Special, mark Transpose check box and click OK"
+      ],
+      "answer": "D. Select the cells then place the cell pointer on new cell and choose Paste Special, mark Transpose check box and click OK",
+      "explanation": "يحوّل الأمر Transpose الصفوف إلى أعمدة أو الأعمدة إلى صفوف عند استخدام Paste Special في Excel."
+    },
+    {
+      "question": "________ writes the name of the current cell in use in Excel.",
+      "options": [
+        "A. Formula bar",
+        "B. Name box",
+        "C. Address bar",
+        "D. Toolbar"
+      ],
+      "answer": "B. Name box",
+      "explanation": "يعرض Name Box مرجع الخلية النشطة، مثل A1، ويمكن استخدامه أيضًا للانتقال إلى خلية محددة."
+    },
+    {
+      "question": "How can I insert a new column between column A and B in a worksheet in Microsoft Excel 2019?",
+      "options": [
+        "A. We select column (A), then from the main page menu we choose the Insert command, then click on the Insert Sheet Columns command.",
+        "B. We select column (B), then from the main page menu we choose the Insert command, then click on the Insert Sheet Columns command.",
+        "C. We select column (A), then from the View menu, we choose the Insert command.",
+        "D. We select column (B), then from the View menu, we choose the Insert command."
+      ],
+      "answer": "B. We select column (B), then from the main page menu we choose the Insert command, then click on the Insert Sheet Columns command.",
+      "explanation": "عند تحديد العمود B وإدراج عمود جديد، يُضاف العمود قبل B، فيصبح بين A وB."
+    },
+    {
       "question": "Which of the following steps correctly describes how to freeze the top row in Microsoft Excel 2016 so that it remains visible while scrolling?",
       "options": [
         "Go to Home tab and choose Freeze Top Row from Cells group",
