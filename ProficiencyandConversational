@@ -1,1566 +1,1267 @@
 {
   "questions": [
     {
-      "question": "What is the shortcut key combination to copy selected text or items in Windows?",
+      "question": "Hassan: I'm going to stay up to watch the football finals. Bilal: I advise you not to. You won't be able to wake up in time for school.",
       "options": [
-        "Ctrl + C",
-        "Ctrl + V",
-        "Ctrl + X",
-        "Ctrl + A"
+        "To discourage",
+        "To inform",
+        "To threaten",
+        "To deny"
       ],
-      "answer": "Ctrl + C",
-      "explanation": "اختصار Ctrl + C يُستخدم لنسخ النصوص أو العناصر المحددة إلى الحافظة."
+      "answer": "To discourage",
+      "explanation": "بيلال ينصح حسن بعدم السهر لأنه لن يستطيع الاستيقاظ للمدرسة، وهذا تثبيط (discourage)."
     },
     {
-      "question": "Which shortcut is used to paste copied or cut items in Windows and Office?",
+      "question": "Employee: \"I am terribly sorry for being late.\" Manager: \"It's ok.\"",
       "options": [
-        "Ctrl + V",
-        "Ctrl + C",
-        "Ctrl + P",
-        "Ctrl + S"
+        "A complaint",
+        "A request",
+        "An apology",
+        "A suggestion"
       ],
-      "answer": "Ctrl + V",
-      "explanation": "اختصار Ctrl + V يُستخدم لصق العناصر الموجودة في الحافظة في المكان المحدد."
+      "answer": "An apology",
+      "explanation": "الموظف يعتذر عن تأخره بعبارة 'I am terribly sorry'، فهذا اعتذار (apology)."
     },
     {
-      "question": "What does pressing Ctrl + X do in Windows and Office applications?",
+      "question": "I'm sorry, but the service was extremely slow.",
       "options": [
-        "Cut selected text or item",
-        "Copy selected item",
-        "Close current window",
-        "Create a new file"
+        "Expressing gratitude",
+        "Making promises",
+        "Making complaints",
+        "Denying"
       ],
-      "answer": "Cut selected text or item",
-      "explanation": "اختصار Ctrl + X يقوم بقص النص أو العنصر المحدد وإزالته مؤقتاً لنقله."
+      "answer": "Making complaints",
+      "explanation": "المتحدث يشتكي من بطء الخدمة، فهذا تقديم شكوى (complaints)."
     },
     {
-      "question": "How do you select all text or items in a document or folder using a keyboard shortcut?",
+      "question": "What is a polite way to ask someone to repeat something?",
       "options": [
-        "Ctrl + A",
-        "Ctrl + S",
-        "Ctrl + Z",
-        "Ctrl + F"
+        "Say it again",
+        "Can you repeat that, please?",
+        "I didn't hear you",
+        "None of the above"
       ],
-      "answer": "Ctrl + A",
-      "explanation": "اختصار Ctrl + A يُستخدم لتحديد الكل (Select All) في المستندات أو النوافذ."
+      "answer": "Can you repeat that, please?",
+      "explanation": "عبارة 'Can you repeat that, please?' هي الأكثر تهذيباً لطلب الإعادة."
     },
     {
-      "question": "What is the function of the Ctrl + Z shortcut in most applications?",
+      "question": "Driver: \"I am sorry, I took the wrong turn.\" Passenger: \"It's ok, no problem.\"",
       "options": [
-        "Undo the last action",
-        "Redo the last action",
-        "Zoom in the view",
-        "Save the current file"
+        "To condemn",
+        "To apologize",
+        "To describe",
+        "To blame"
       ],
-      "answer": "Undo the last action",
-      "explanation": "اختصار Ctrl + Z يتراجع (Undo) عن آخر إجراء أو خطوة قمت بها."
+      "answer": "To apologize",
+      "explanation": "السائق يعتذر بعبارة 'I am sorry'، فهذا اعتذار (apologize)."
     },
     {
-      "question": "Which shortcut is used to redo an action that was undone?",
+      "question": "What function is served by the statement: \"I'm thrilled to hear you got the promotion!\"",
       "options": [
-        "Ctrl + Y",
-        "Ctrl + Z",
-        "Ctrl + R",
-        "Ctrl + D"
+        "Complaint",
+        "Suggestion",
+        "Warning",
+        "Congratulations"
       ],
-      "answer": "Ctrl + Y",
-      "explanation": "اختصار Ctrl + Y يُستخدم لإعادة (Redo) الإجراء الذي تم التراجع عنه."
+      "answer": "Congratulations",
+      "explanation": "المتحدث يعبر عن سعادته بخبر الترقية، فهذا تقديم تهنئة (congratulations)."
     },
     {
-      "question": "What is the shortcut key to save a document or file?",
+      "question": "Student: \"Please professor forgive me for being rude.\" Professor: \"You're forgiven.\"",
       "options": [
-        "Ctrl + S",
-        "Ctrl + O",
-        "Ctrl + N",
-        "Ctrl + P"
+        "To disagree",
+        "To protest",
+        "To encourage",
+        "To forgive"
       ],
-      "answer": "Ctrl + S",
-      "explanation": "اختصار Ctrl + S يُستخدم لحفظ التغييرات في الملف الحالي بسرعة."
+      "answer": "To forgive",
+      "explanation": "الأستاذ يقول 'You're forgiven' أي 'أنت مغفور لك'، فهذا مسامحة (forgive)."
     },
     {
-      "question": "Which shortcut opens the Find dialog box to search for text in a document or webpage?",
+      "question": "Jones: \"The film was very interesting, wasn't it?\" Thomas: \"I find it terrible.\"",
       "options": [
-        "Ctrl + F",
-        "Ctrl + H",
-        "Ctrl + G",
-        "Ctrl + P"
+        "To express intention",
+        "To express like",
+        "To express dislike",
+        "To express gratitude"
       ],
-      "answer": "Ctrl + F",
-      "explanation": "اختصار Ctrl + F يفتح نافذة البحث (Find) للعثور على كلمات داخل الصفحة."
+      "answer": "To express dislike",
+      "explanation": "توماس يصف الفيلم بـ'terrible'، فهذا تعبير عن عدم الإعجاب (dislike)."
     },
     {
-      "question": "What does pressing Ctrl + P do in most software programs?",
+      "question": "Speaker A: \"We are leaving today.\" Speaker B (Mother): \"Yes, don't forget to lock the doors.\"",
       "options": [
-        "Open the print dialog box",
-        "Paste an item",
-        "Preview the document",
-        "Open properties"
+        "To blame",
+        "To announce",
+        "To suggest",
+        "To remind"
       ],
-      "answer": "Open the print dialog box",
-      "explanation": "اختصار Ctrl + P يُستخدم لفتح نافذة إعدادات وطباعة المستند الحالي."
+      "answer": "To remind",
+      "explanation": "الأم تذكر ابنها بقفل الأبواب، فهذا تذكير (remind)."
     },
     {
-      "question": "Which shortcut is used to open a new file or window?",
+      "question": "Please be quiet.",
       "options": [
-        "Ctrl + N",
-        "Ctrl + O",
-        "Ctrl + W",
-        "Ctrl + T"
+        "Request",
+        "Apologize",
+        "Greeting",
+        "Thanking"
       ],
-      "answer": "Ctrl + N",
-      "explanation": "اختصار Ctrl + N يفتح مستنداً أو نافذة جديدة فارغة."
+      "answer": "Request",
+      "explanation": "عبارة 'Please be quiet' طلب مؤدب بالهدوء، فهذا طلب (request)."
     },
     {
-      "question": "What is the function of Ctrl + O in computer applications?",
+      "question": "You have helped me a lot. I'm really grateful to you.",
       "options": [
-        "Open an existing file",
-        "Close the application",
-        "Create a new folder",
-        "Options menu"
+        "Expressing gratitude",
+        "Compliment",
+        "Offering",
+        "Suggestion"
       ],
-      "answer": "Open an existing file",
-      "explanation": "اختصار Ctrl + O يُستخدم لفتح ملف محفوظ مسبقاً على الجهاز."
+      "answer": "Expressing gratitude",
+      "explanation": "'I'm really grateful' تعبير صريح عن الامتنان (gratitude)."
     },
     {
-      "question": "How can you quickly open the Replace dialog box in Microsoft Word?",
+      "question": "His apology wasn't enough ____ him.",
       "options": [
-        "Ctrl + H",
-        "Ctrl + R",
-        "Ctrl + F",
-        "Ctrl + G"
+        "So I forgive",
+        "For me to forgive",
+        "That I forgave",
+        "For me forgiving"
       ],
-      "answer": "Ctrl + H",
-      "explanation": "اختصار Ctrl + H يفتح نافذة الاستبدال (Replace) للبحث عن كلمة واستبدالها بأخرى."
+      "answer": "For me to forgive",
+      "explanation": "التركيب الصحيح: enough for me to forgive him (for + pronoun + to + infinitive)."
     },
     {
-      "question": "What does Ctrl + B do to selected text in text editors and Word?",
+      "question": "Clean the room, please.",
       "options": [
-        "Make text bold",
-        "Make text italic",
-        "Underline text",
-        "Create a border"
+        "To command",
+        "To assure",
+        "To regret",
+        "To deny"
       ],
-      "answer": "Make text bold",
-      "explanation": "اختصار Ctrl + B يجعل الخط المحدد عريضاً (Bold)."
+      "answer": "To command",
+      "explanation": "'Clean the room' أمر مباشر (command) وإن جاء بـplease للتلطيف."
     },
     {
-      "question": "Which shortcut applies italic formatting to selected text?",
+      "question": "I'd be glad if you could attend the party.",
       "options": [
-        "Ctrl + I",
-        "Ctrl + T",
-        "Ctrl + K",
-        "Ctrl + U"
+        "Ordering",
+        "Thanking",
+        "Inviting",
+        "Stating"
       ],
-      "answer": "Ctrl + I",
-      "explanation": "اختصار Ctrl + I يحول الخط المحدد إلى النمط المائل (Italic)."
+      "answer": "Inviting",
+      "explanation": "المتحدث يعبر عن سعادته بحضور الطرف الآخر، فهذا دعوة (inviting)."
     },
     {
-      "question": "What is the shortcut key combination to underline selected text?",
+      "question": "Jassim: \"I did not pass the comprehensive exam.\" Rafid: \"You should have taken the exam more seriously.\"",
       "options": [
-        "Ctrl + U",
-        "Ctrl + L",
-        "Ctrl + N",
-        "Ctrl + D"
+        "To refuse",
+        "To blame",
+        "To invite",
+        "To welcome"
       ],
-      "answer": "Ctrl + U",
-      "explanation": "اختصار Ctrl + U يضع خطاً تحت النص المحدد (Underline)."
+      "answer": "To blame",
+      "explanation": "رفيد يلوم جاسم على عدم أخذه الامتحان بجدية، فهذا لوم (blame)."
     },
     {
-      "question": "Which shortcut aligns a paragraph or text to the center in Microsoft Word?",
+      "question": "Do you think I could use your phone? Yes, of course.",
       "options": [
-        "Ctrl + E",
-        "Ctrl + C",
-        "Ctrl + L",
-        "Ctrl + R"
+        "To invite",
+        "To oblige",
+        "To regret",
+        "To request"
       ],
-      "answer": "Ctrl + E",
-      "explanation": "اختصار Ctrl + E يقوم بمحاذاة النص نحو المنتصف (Center)."
+      "answer": "To request",
+      "explanation": "السؤال طلب مؤدب لاستخدام الهاتف، فهذا طلب (request)."
     },
     {
-      "question": "What does Ctrl + L do in word processing software?",
+      "question": "I wish I had learnt the highway code.",
       "options": [
-        "Align text to the left",
-        "Lock the screen",
-        "Create a link",
-        "List items"
+        "Express satisfaction",
+        "Regret",
+        "Apology",
+        "None of the options"
       ],
-      "answer": "Align text to the left",
-      "explanation": "اختصار Ctrl + L يضبط محاذاة النص لجهة اليسار (Left Alignment)."
+      "answer": "Regret",
+      "explanation": "تركيب 'I wish I had + p.p.' يعبر عن التحسر على ما لم يحدث، فهذا ندم (regret)."
     },
     {
-      "question": "Which shortcut aligns text to the right margin in Word?",
+      "question": "She walked across the bridge.",
       "options": [
-        "Ctrl + R",
-        "Ctrl + T",
-        "Ctrl + Shift + R",
-        "Ctrl + E"
+        "Showing agreement",
+        "Showing direction",
+        "Describing manner",
+        "Indicating time"
       ],
-      "answer": "Ctrl + R",
-      "explanation": "اختصار Ctrl + R يضبط محاذاة النص لجهة اليمين (Right Alignment)."
+      "answer": "Showing direction",
+      "explanation": "'across' تحدد اتجاه الحركة عبر الجسر، فهذا اتجاه (direction)."
     },
     {
-      "question": "What is the function of Ctrl + J in Microsoft Word?",
+      "question": "What does \"excuse me\" mean in a crowded place?",
       "options": [
-        "Justify text alignment",
-        "Jump to a page",
-        "Join paragraphs",
-        "Insert a graphic"
+        "I'm sorry",
+        "Hello",
+        "Move out of my way, please",
+        "Congratulations"
       ],
-      "answer": "Justify text alignment",
-      "explanation": "اختصار Ctrl + J يضبط محاذاة النص ليصبح مضبوط الهوامش (Justify)."
+      "answer": "Move out of my way, please",
+      "explanation": "في الزحام تُستخدم 'excuse me' لطلب إفساح الطريق بلطف."
     },
     {
-      "question": "How do you insert a hyperlink in a Word document or email using a shortcut?",
+      "question": "She should speak English.",
       "options": [
-        "Ctrl + K",
-        "Ctrl + H",
-        "Ctrl + L",
-        "Ctrl + N"
+        "Suggestion",
+        "Ability",
+        "Emphasis",
+        "Request"
       ],
-      "answer": "Ctrl + K",
-      "explanation": "اختصار Ctrl + K يُستخدم لإدراج ارتباط تشعبي (Hyperlink)."
+      "answer": "Suggestion",
+      "explanation": "'should' هنا تعبر عن اقتراح/نصيحة (suggestion)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + F do in Microsoft Word?",
+      "question": "Mother: \"My cat has been missing!\" Kids: \"We will search every inch of the neighborhood.\"",
       "options": [
-        "Open font settings window",
-        "Find and replace text",
-        "Format painter",
-        "Freeze panes"
+        "To take leave",
+        "To fear",
+        "To encourage",
+        "To volunteer"
       ],
-      "answer": "Open font settings window",
-      "explanation": "اختصار Ctrl + Shift + F يفتح نافذة خصائص الخط لتغيير نوعه وحجمه."
+      "answer": "To volunteer",
+      "explanation": "الأطفال يتطوعون بالبحث عن القطة، فهذا تطوع (volunteer)."
     },
     {
-      "question": "Which shortcut increases the font size of selected text in Word?",
+      "question": "Let's agree or disagree.",
       "options": [
-        "Ctrl + ]",
-        "Ctrl + [",
-        "Ctrl + Shift + >",
-        "Ctrl + Shift + <"
+        "Welcome",
+        "Accepting different opinions",
+        "Refusing other's views",
+        "Ordering"
       ],
-      "answer": "Ctrl + ]",
-      "explanation": "اختصار Ctrl + ] يزيد حجم الخط المحدد تدريجياً."
+      "answer": "Accepting different opinions",
+      "explanation": "العبارة تعني تقبل الاختلاف في الآراء (accepting different opinions)."
     },
     {
-      "question": "What is the shortcut to decrease the font size of selected text in Word?",
+      "question": "Shall I carry this bag for you?",
       "options": [
-        "Ctrl + [",
-        "Ctrl + ]",
-        "Ctrl + Shift + +",
-        "Ctrl + -"
+        "Asking information",
+        "Offering help",
+        "Giving information",
+        "Proposing"
       ],
-      "answer": "Ctrl + [",
-      "explanation": "اختصار Ctrl + [ يصغر حجم الخط المحدد تدريجياً."
+      "answer": "Offering help",
+      "explanation": "'Shall I...?' تستخدم لعرض المساعدة (offering help)."
     },
     {
-      "question": "Which shortcut applies single line spacing to a paragraph in Word?",
+      "question": "A: I have a headache. B: You look pale. You should see a doctor soon.",
       "options": [
-        "Ctrl + 1",
-        "Ctrl + 2",
-        "Ctrl + 5",
-        "Ctrl + S"
+        "To oblige",
+        "To blame",
+        "To introduce",
+        "To advise"
       ],
-      "answer": "Ctrl + 1",
-      "explanation": "اختصار Ctrl + 1 يعين تباعد الأسطر بمقدار مسافة واحدة مفردة."
+      "answer": "To advise",
+      "explanation": "المتحدث ينصح بزيارة الطبيب باستخدام 'should'، فهذا نصيحة (advise)."
     },
     {
-      "question": "What does pressing Ctrl + 2 do in a paragraph in Microsoft Word?",
+      "question": "Room partner: \"Do I have to clean the room twice a day?\" Man: \"It has never been my mess!\"",
       "options": [
-        "Apply double line spacing",
-        "Apply 1.5 line spacing",
-        "Create two columns",
-        "Zoom to 200%"
+        "To protest",
+        "To agree",
+        "To mitigate",
+        "To celebrate"
       ],
-      "answer": "Apply double line spacing",
-      "explanation": "اختصار Ctrl + 2 يطبق تباعد أسطر مزدوج (Double line spacing)."
+      "answer": "To protest",
+      "explanation": "الرجل يعترض لأن الفوضى ليست من صنعه، فهذا احتجاج (protest)."
     },
     {
-      "question": "Which shortcut applies 1.5 line spacing in Microsoft Word?",
+      "question": "Police officer: \"Car registration papers, please!\" Driver: \"All right, sir.\"",
       "options": [
-        "Ctrl + 5",
-        "Ctrl + 1.5",
-        "Ctrl + 3",
-        "Ctrl + Shift + 5"
+        "To disagree",
+        "To order",
+        "To inform",
+        "To take leave"
       ],
-      "answer": "Ctrl + 5",
-      "explanation": "اختصار Ctrl + 5 يعين تباعد الأسطر بمقدار 1.5 سطر."
+      "answer": "To order",
+      "explanation": "الشرطي يصدر أمراً مباشراً بتقديم الأوراق، فهذا أمر (order)."
     },
     {
-      "question": "What does Ctrl + Shift + C do in Microsoft Word?",
+      "question": "Player A: \"You had the worst performance today.\" Player B: \"Yeah, it wasn't actually me.\"",
       "options": [
-        "Copy formatting",
-        "Copy text contents",
-        "Center alignment",
-        "Count words"
+        "To blame",
+        "To order",
+        "To celebrate",
+        "To thank"
       ],
-      "answer": "Copy formatting",
-      "explanation": "اختصار Ctrl + Shift + C ينسخ تنسيق النص المحدد (Format Painter)."
+      "answer": "To blame",
+      "explanation": "اللاعب الأول يلوم الثاني على أسوأ أداء، فهذا لوم (blame)."
     },
     {
-      "question": "Which shortcut pastes copied formatting onto selected text in Word?",
+      "question": "Mother: \"I haven't seen my pet since last weekend!\" Kids: \"We will search for it.\"",
       "options": [
-        "Ctrl + Shift + V",
-        "Ctrl + V",
-        "Ctrl + Alt + V",
-        "Ctrl + Shift + P"
+        "To celebrate",
+        "To volunteer",
+        "To intimidate",
+        "To apologize"
       ],
-      "answer": "Ctrl + Shift + V",
-      "explanation": "اختصار Ctrl + Shift + V يطبق التنسيق المنسوخ على النص الجديد."
+      "answer": "To volunteer",
+      "explanation": "الأطفال يتطوعون بالبحث عن الحيوان المفقود، فهذا تطوع (volunteer)."
     },
     {
-      "question": "What is the shortcut to insert a page break in Word?",
+      "question": "Coach: \"I expect a better performance.\" Player: \"I'm doing my best.\"",
       "options": [
-        "Ctrl + Enter",
-        "Ctrl + Shift + Enter",
-        "Alt + Enter",
-        "Shift + Enter"
+        "To excuse",
+        "To mourn",
+        "To encourage",
+        "To inform"
       ],
-      "answer": "Ctrl + Enter",
-      "explanation": "اختصار Ctrl + Enter يقوم بإدراج فاصل صفحات (Page Break) فوري."
+      "answer": "To encourage",
+      "explanation": "المدرب يشجع اللاعب على أداء أفضل، فهذا تشجيع (encourage)."
     },
     {
-      "question": "How do you check spelling and grammar in Microsoft Word using a function shortcut?",
+      "question": "Speaker: \"I need to hurry up to my aunt now, it was a nice session.\"",
       "options": [
-        "F7 (or Ctrl + F7 sometimes)",
-        "Ctrl + S",
-        "Ctrl + C",
-        "Ctrl + K"
+        "To celebrate",
+        "To blame",
+        "To agree",
+        "To take leave"
       ],
-      "answer": "F7 (or Ctrl + F7 sometimes)",
-      "explanation": "مفتاح F7 يُستخدم لتدقيق الإمساك والقواعد، بينما توجد اختصارات مرتبطة بالبحث والتدقيق."
+      "answer": "To take leave",
+      "explanation": "المتحدث يستأذن بالمغادرة للذهاب إلى خالته، فهذا استئذان (take leave)."
     },
     {
-      "question": "Which shortcut opens the Navigation pane (Browse headings) in Word?",
+      "question": "Speaker: \"Listen to me all please, my new baby's name will be Marry.\"",
       "options": [
-        "Ctrl + F",
-        "Ctrl + N",
-        "Ctrl + Shift + N",
-        "Ctrl + G"
+        "To announce",
+        "To condemn",
+        "To claim",
+        "To protest"
       ],
-      "answer": "Ctrl + F",
-      "explanation": "في الإصدارات الحديثة، Ctrl + F يفتح جزء التنقل الجانبي للبحث والعناوين."
+      "answer": "To announce",
+      "explanation": "المتحدث يعلن اسم طفله الجديد، فهذا إعلان (announce)."
     },
     {
-      "question": "What does pressing Ctrl + G do in Word and Excel?",
+      "question": "Ali: \"Ahmed, I want you to meet Sameer. Sameer, this is Ahmed.\" Sameer: \"Nice to meet you.\" Ahmed: \"Nice to meet you too.\"",
       "options": [
-        "Open the Go To dialog box",
-        "Group selected shapes",
-        "Generate a report",
-        "Gridlines toggle"
+        "To volunteer",
+        "To express anger",
+        "To take leave",
+        "To introduce"
       ],
-      "answer": "Open the Go To dialog box",
-      "explanation": "اختصار Ctrl + G يفتح نافذة الانتقال السريع (Go To) لصفحة أو خلية معينة."
+      "answer": "To introduce",
+      "explanation": "علي يعرّف أحمد وسمير ببعضهما، فهذا تعريف (introduce)."
     },
     {
-      "question": "How do you insert the current date in Microsoft Word or Excel?",
+      "question": "Hello, Ali! Nice to see you.",
       "options": [
-        "Alt + Shift + D",
-        "Ctrl + D",
-        "Ctrl + Shift + D",
-        "Ctrl + T"
+        "To introduce",
+        "To inform",
+        "To compliment",
+        "To greet"
       ],
-      "answer": "Alt + Shift + D",
-      "explanation": "إدراج التاريخ الحالي يتم عبر اختصار Alt + Shift + D."
+      "answer": "To greet",
+      "explanation": "'Hello' و'Nice to see you' للتحية عند اللقاء (greet)."
     },
     {
-      "question": "How do you insert the current time in Microsoft Word or Excel?",
+      "question": "Man: \"Wow! You're looking good.\"",
       "options": [
-        "Alt + Shift + T",
-        "Ctrl + T",
-        "Ctrl + Shift + T",
-        "Alt + T"
+        "To compliment",
+        "To congratulate",
+        "To explain",
+        "To inform"
       ],
-      "answer": "Alt + Shift + T",
-      "explanation": "إدراج الوقت الحالي يتم عبر اختصار Alt + Shift + T."
+      "answer": "To compliment",
+      "explanation": "'You're looking good' إطراء على المظهر، فهذا إطراء (compliment)."
     },
     {
-      "question": "What is the shortcut in Excel to create a new workbook?",
+      "question": "Speaker 1: \"I suggest we go to London.\" Speaker 2: \"I don't think I can.\"",
       "options": [
-        "Ctrl + N",
-        "Ctrl + W",
-        "Ctrl + B",
-        "Ctrl + Shift + N"
+        "To condemn",
+        "To agree",
+        "To refuse",
+        "To argue"
       ],
-      "answer": "Ctrl + N",
-      "explanation": "اختصار Ctrl + N يفتح مصنف عمل جديد في برنامج إكسل."
+      "answer": "To refuse",
+      "explanation": "المتحدث الثاني يرفض الاقتراح، فهذا رفض (refuse)."
     },
     {
-      "question": "Which shortcut closes the active workbook window in Excel?",
+      "question": "Speaker A: \"It feels like spring today!\" Speaker B: \"Really? It feels humid.\"",
       "options": [
-        "Ctrl + W",
-        "Ctrl + C",
-        "Ctrl + F4",
-        "Ctrl + Q"
+        "To disagree",
+        "To confirm",
+        "To mitigate",
+        "To excuse"
       ],
-      "answer": "Ctrl + W",
-      "explanation": "اختصار Ctrl + W يغلق المصنف النشط حالياً دون إغلاق البرنامج كاملاً."
+      "answer": "To disagree",
+      "explanation": "المتحدث الثاني يعارض رأي الأول عن الطقس، فهذا اختلاف (disagree)."
     },
     {
-      "question": "What does pressing Ctrl + Arrow Key (Up/Down/Left/Right) do in Excel?",
+      "question": "Speaker A: \"Prepare your ID cards and fasten seat belts.\" Speaker B: \"All right.\"",
       "options": [
-        "Move to the edge of the data region",
-        "Select multiple cells",
-        "Scroll the sheet",
-        "Resize column width"
+        "To claim",
+        "To disagree",
+        "To intimidate",
+        "To inform"
       ],
-      "answer": "Move to the edge of the data region",
-      "explanation": "اختصار Ctrl مع مفاتيح الأسهم ينقل المؤشر بسرعة لنهاية البيانات في هذا الاتجاه."
+      "answer": "To inform",
+      "explanation": "المتحدث الأول يخبر الركاب بالتعليمات، فهذا إخبار (inform)."
     },
     {
-      "question": "How do you select all cells in an Excel worksheet?",
+      "question": "Speaker 1: \"We are winning the sixth war, long live the king!\" Speaker 2: \"Long live the king!\"",
       "options": [
-        "Ctrl + A (twice or once depending on data)",
-        "Ctrl + Shift + Space",
-        "Both A and B",
-        "Ctrl + S"
+        "To agree",
+        "To celebrate",
+        "To excuse",
+        "To take leave"
       ],
-      "answer": "Both A and B",
-      "explanation": "اختصار Ctrl + A أو Ctrl + Shift + Space يحدد كافة خلايا ورقة العمل."
+      "answer": "To agree",
+      "explanation": "المتحدث الثاني يردد نفس العبارة موافقاً، فهذا موافقة (agree)."
     },
     {
-      "question": "What is the shortcut to format selected cells as Currency with a dollar sign in Excel?",
+      "question": "Speaker A: \"I don't want to see you now, get off.\"",
       "options": [
-        "Ctrl + Shift + $",
-        "Ctrl + $",
-        "Ctrl + C",
-        "Ctrl + Alt + C"
+        "To agree",
+        "To refuse",
+        "To dismiss",
+        "To claim"
       ],
-      "answer": "Ctrl + Shift + $",
-      "explanation": "اختصار Ctrl + Shift + $ يطبق تنسيق العملة على الخلايا المحددة."
+      "answer": "To dismiss",
+      "explanation": "'get off' هنا تعني الطرد والإبعاد، فهذا طرد (dismiss)."
     },
     {
-      "question": "Which shortcut formats selected cells with a percentage in Excel?",
+      "question": "Player A: \"It is so hot today.\" Player B: \"I believe that too.\"",
       "options": [
-        "Ctrl + Shift + %",
-        "Ctrl + %",
-        "Ctrl + P",
-        "Ctrl + Alt + P"
+        "To agree",
+        "To threaten",
+        "To refuse",
+        "To remind"
       ],
-      "answer": "Ctrl + Shift + %",
-      "explanation": "اختصار Ctrl + Shift + % يحول الأرقام في الخلايا إلى نسبة مئوية."
+      "answer": "To agree",
+      "explanation": "'I believe that too' تعني 'أعتقد ذلك أيضاً'، فهذا موافقة (agree)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + # do in Excel?",
+      "question": "Speaker A: \"Hi dear, how are you?\" Speaker B: \"I am fine, thank you.\"",
       "options": [
-        "Format cell as Date (Day, Month, Year)",
-        "Format cell as Number",
-        "Insert a hash symbol",
-        "Create a table"
+        "To threaten",
+        "To refuse",
+        "To assure",
+        "To welcome"
       ],
-      "answer": "Format cell as Date (Day, Month, Year)",
-      "explanation": "اختصار Ctrl + Shift + # يغير تنسيق الخلية ليصبح تاريخاً بصيغة معينة."
+      "answer": "To assure",
+      "explanation": "'I am fine' تطمئن السائل على حاله، فهذا طمأنة (assure)."
     },
     {
-      "question": "Which shortcut formats selected numbers as time in Excel?",
+      "question": "Teacher: \"You are all present today, right?\" Students: \"Yes sir.\"",
       "options": [
-        "Ctrl + Shift + @",
-        "Ctrl + T",
-        "Ctrl + Time",
-        "Ctrl + Shift + T"
+        "To confirm",
+        "To express anger",
+        "To take leave",
+        "To volunteer"
       ],
-      "answer": "Ctrl + Shift + @",
-      "explanation": "اختصار Ctrl + Shift + @ يطبق تنسيق الوقت على الخلايا."
+      "answer": "To confirm",
+      "explanation": "الطلاب يؤكدون حضورهم بـ'Yes sir'، فهذا تأكيد (confirm)."
     },
     {
-      "question": "What is the shortcut to insert the current date in an Excel cell?",
+      "question": "Speaker A: \"I am from Iraq.\" Speaker B: \"Me too, I am very glad to hear that.\"",
       "options": [
-        "Ctrl + ;",
-        "Ctrl + Shift + :",
-        "Ctrl + D",
-        "Ctrl + Alt + D"
+        "To fear",
+        "To refuse",
+        "To threaten",
+        "To show solidarity"
       ],
-      "answer": "Ctrl + ;",
-      "explanation": "اختصار Ctrl + فاصولة منقوطة (;) يدخل التاريخ الحالي ثابتًا في الخلية."
+      "answer": "To show solidarity",
+      "explanation": "المتحدث الثاني يشارك الأول أصله ويعبر عن سعادته، فهذا تضامن (solidarity)."
     },
     {
-      "question": "Which shortcut inserts the current time in an Excel cell?",
+      "question": "Speaker A: \"My father has just died.\" Speaker B: \"I am sorry to hear that.\"",
       "options": [
-        "Ctrl + Shift + :",
-        "Ctrl + T",
-        "Ctrl + ;",
-        "Alt + T"
+        "To express joys",
+        "To express fear",
+        "To express condolences",
+        "To agree"
       ],
-      "answer": "Ctrl + Shift + :",
-      "explanation": "اختصار Ctrl + Shift + نقطتان فوق بعضهما (:) يدخل الوقت الحالي في الخلية."
+      "answer": "To express condolences",
+      "explanation": "'I am sorry to hear that' في سياق الوفاة تعبير عن التعازي (condolences)."
     },
     {
-      "question": "What does pressing Ctrl + T do in Microsoft Excel?",
+      "question": "Speaker A: \"If you touch my kids I will call the police.\" Speaker B: \"Come on, I am joking.\"",
       "options": [
-        "Create a table",
-        "Translate text",
-        "Apply total row",
-        "Toggle gridlines"
+        "To threaten",
+        "To refuse",
+        "To assure",
+        "To claim"
       ],
-      "answer": "Create a table",
-      "explanation": "اختصار Ctrl + T يفتح نافذة إنشاء جدول بيانات (Create Table) سريع."
+      "answer": "To threaten",
+      "explanation": "المتحدث الأول يهدد بالاتصال بالشرطة، فهذا تهديد (threaten)."
     },
     {
-      "question": "How do you open the Format Cells dialog box quickly in Excel?",
+      "question": "Employee: \"I am quitting this job.\" Director: \"Request denied.\"",
       "options": [
-        "Ctrl + 1",
-        "Ctrl + F1",
-        "Ctrl + Shift + F",
-        "Ctrl + 2"
+        "To express anger",
+        "To take leave",
+        "To deny",
+        "To volunteer"
       ],
-      "answer": "Ctrl + 1",
-      "explanation": "اختصار Ctrl + 1 يفتح نافذة تنسيق الخلايا الشاملة (Format Cells)."
+      "answer": "To deny",
+      "explanation": "المدير يرفض الطلب بـ'Request denied'، فهذا رفض/إنكار (deny)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + L do in Excel?",
+      "question": "Speaker A: \"What are you doing here?\" Speaker B: \"None of your business!\"",
       "options": [
-        "Toggle AutoFilter on or off",
-        "Align text to left",
-        "Lock cells",
-        "List formulas"
+        "To inform",
+        "To express offense",
+        "To protest",
+        "To wish"
       ],
-      "answer": "Toggle AutoFilter on or off",
-      "explanation": "اختصار Ctrl + Shift + L يفعل أو يلغي أزرار التصفية (Filter) في الأعمدة."
+      "answer": "To express offense",
+      "explanation": "'None of your business' تعبر عن الانزعاج من التدخل، فهذا إساءة (offense)."
     },
     {
-      "question": "Which shortcut opens the Insert Dialog box to add cells, rows, or columns in Excel?",
+      "question": "Speaker A: \"He is late for school.\" Speaker B: \"Let's give him a ride.\"",
       "options": [
-        "Ctrl + Shift + + (Plus sign)",
-        "Ctrl + I",
-        "Ctrl + Alt + I",
-        "Ctrl + Add"
+        "To suggest",
+        "To blame",
+        "To assure",
+        "To confirm"
       ],
-      "answer": "Ctrl + Shift + + (Plus sign)",
-      "explanation": "اختصار Ctrl + Shift + + يفتح نافذة إدراج خلايا جديدة أو صفوف وأعمدة."
+      "answer": "To suggest",
+      "explanation": "'Let's give him a ride' اقتراح لتوصيله، فهذا اقتراح (suggest)."
     },
     {
-      "question": "What is the shortcut to delete selected cells, rows, or columns in Excel?",
+      "question": "Speaker A: \"I am very sick.\" Speaker B: \"I wish you soon feel better.\"",
       "options": [
-        "Ctrl + - (Minus sign)",
-        "Ctrl + Delete",
-        "Ctrl + Backspace",
-        "Alt + D"
+        "To announce",
+        "To condemn",
+        "To protest",
+        "To wish"
       ],
-      "answer": "Ctrl + - (Minus sign)",
-      "explanation": "اختصار Ctrl + - يفتح نافذة حذف الخلايا أو الصفوف أو الأعمدة المحددة."
+      "answer": "To wish",
+      "explanation": "'I wish you soon feel better' دعاء بالشفاء، فهذا تمنٍّ (wish)."
     },
     {
-      "question": "Which shortcut toggles between displaying cell values and displaying formulas in Excel?",
+      "question": "Speaker A: \"I feel so bored.\" Speaker B: \"Let's go to the movies.\"",
       "options": [
-        "Ctrl + ` (Grave accent / Tilde key)",
-        "Ctrl + F",
-        "Ctrl + Shift + F",
-        "Ctrl + ~"
+        "To urge",
+        "To blame",
+        "To suggest",
+        "To condemn"
       ],
-      "answer": "Ctrl + ` (Grave accent / Tilde key)",
-      "explanation": "اختصار Ctrl + ` يُبدل طريقة العرض لإظهار الصيغ بدلاً من النواتج."
+      "answer": "To suggest",
+      "explanation": "'Let's go to the movies' اقتراح للترفيه، فهذا اقتراح (suggest)."
     },
     {
-      "question": "What does pressing Ctrl + D do in Microsoft Excel when a cell is selected above?",
+      "question": "Speaker: \"Do not lose the ball to the opponent.\" Speaker B: \"I am doing my best.\"",
       "options": [
-        "Fill down (copy content from the cell above)",
-        "Delete the selected cell",
-        "Duplicate sheet",
-        "Display details"
+        "To question",
+        "To claim",
+        "To inform",
+        "To argue"
       ],
-      "answer": "Fill down (copy content from the cell above)",
-      "explanation": "اختصار Ctrl + D ينسخ المحتوى من الخلية العلوية ويلصقه للأسفل (Fill Down)."
+      "answer": "To inform",
+      "explanation": "المتحدث يخبر اللاعب بعدم فقدان الكرة، فهذا إخبار/توجيه (inform)."
     },
     {
-      "question": "Which shortcut copies the content of the cell to the right into the selected cell in Excel?",
+      "question": "Speaker A: \"Go fast, you will be late.\" Speaker B: \"I will.\"",
       "options": [
-        "Ctrl + R",
-        "Ctrl + Right",
-        "Ctrl + Shift + R",
-        "Alt + R"
+        "To advise",
+        "To punish",
+        "To express fear",
+        "To volunteer"
       ],
-      "answer": "Ctrl + R",
-      "explanation": "اختصار Ctrl + R ينسخ المحتوى من الخلية المجاورة لليمين أو اليسار حسب الاتجاه (Fill Right)."
+      "answer": "To advise",
+      "explanation": "'Go fast, you will be late' نصيحة بالإسراع، فهذا نصيحة (advise)."
     },
     {
-      "question": "What is the shortcut to hide selected columns in Excel?",
+      "question": "Speaker A: \"Your shoes are full of mud.\" Speaker B: \"It is muddy outside.\"",
       "options": [
-        "Ctrl + 0",
-        "Ctrl + 9",
-        "Ctrl + H",
-        "Ctrl + Shift + 0"
+        "To welcome",
+        "To agree",
+        "To inform",
+        "To condemn"
       ],
-      "answer": "Ctrl + 0",
-      "explanation": "اختصار Ctrl + 0 يخفي الأعمدة المحددة في ورقة العمل."
+      "answer": "To inform",
+      "explanation": "المتحدث الثاني يخبر بسبب اتساخ الحذاء، فهذا إخبار (inform)."
     },
     {
-      "question": "Which shortcut hides selected rows in Excel?",
+      "question": "Speaker A: \"What time is it?\" Speaker B: \"10 pm.\"",
       "options": [
-        "Ctrl + 9",
-        "Ctrl + 0",
-        "Ctrl + H",
-        "Ctrl + R"
+        "To agree",
+        "To condemn",
+        "To confirm",
+        "To ask"
       ],
-      "answer": "Ctrl + 9",
-      "explanation": "اختصار Ctrl + 9 يخفي الصفوف المحددة في ورقة العمل."
+      "answer": "To ask",
+      "explanation": "'What time is it?' سؤال عن الوقت، فهذا سؤال (ask)."
     },
     {
-      "question": "How do you unhide hidden columns in Excel using a shortcut?",
+      "question": "Speaker A: \"Long time no see dad.\" Speaker B: \"Welcome back my dear son.\"",
       "options": [
-        "Ctrl + Shift + 0",
-        "Ctrl + Unhide",
-        "Alt + 0",
-        "Ctrl + Shift + Unhide"
+        "To welcome",
+        "To inform",
+        "To agree",
+        "To refuse"
       ],
-      "answer": "Ctrl + Shift + 0",
-      "explanation": "اختصار Ctrl + Shift + 0 يُظهر الأعمدة المخفية مجدداً."
+      "answer": "To welcome",
+      "explanation": "الأب يرحب بعودة ابنه بـ'Welcome back'، فهذا ترحيب (welcome)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + 9 do in Excel?",
+      "question": "Girl: \"I think I'll enter the beauty contest.\" Sister: \"Are you sure? You're rather young.\"",
       "options": [
-        "Unhide hidden rows",
-        "Delete rows",
-        "Show formulas",
-        "Group rows"
+        "To discourage",
+        "To advise",
+        "To suggest",
+        "To ask"
       ],
-      "answer": "Unhide hidden rows",
-      "explanation": "اختصار Ctrl + Shift + 9 يُظهر الصفوف المخفية."
+      "answer": "To discourage",
+      "explanation": "الأخت تشكك في القرار بسبب صغر السن، فهذا تثبيط (discourage)."
     },
     {
-      "question": "Which shortcut groups selected rows or columns in Excel?",
+      "question": "Student: \"Good evening, Miss Tala. I'm so glad you could come. But you look worried. Is anything the matter?\"",
       "options": [
-        "Ctrl + Shift + + (or Alt + Shift + Right)",
-        "Ctrl + G",
-        "Ctrl + Shift + G",
-        "Ctrl + Alt + G"
+        "To welcome",
+        "To greet",
+        "To compliment",
+        "To invite"
       ],
-      "answer": "Ctrl + Shift + + (or Alt + Shift + Right)",
-      "explanation": "اختصار التجميع (Group) يتم عبر أزرار التجميع المخصصة أو Alt + Shift + Right."
+      "answer": "To welcome",
+      "explanation": "'I'm so glad you could come' تعبير عن الترحيب بالحضور (welcome)."
     },
     {
-      "question": "What is the shortcut to start a new presentation in PowerPoint?",
+      "question": "Mrs. Tang: \"More rice, Dear?\" Mr. Tang: \"Thanks. I'm full.\"",
       "options": [
-        "Ctrl + N",
-        "Ctrl + M",
-        "Ctrl + P",
-        "Ctrl + S"
+        "To explain",
+        "To deny",
+        "To inform",
+        "To decline"
       ],
-      "answer": "Ctrl + N",
-      "explanation": "اختصار Ctrl + N يفتح عرض تقديمي جديد في بوربوينت."
+      "answer": "To decline",
+      "explanation": "السيد تانغ يرفض المزيد بلطف بـ'Thanks. I'm full'، فهذا رفض مؤدب (decline)."
     },
     {
-      "question": "Which shortcut inserts a new slide in Microsoft PowerPoint?",
+      "question": "Right! I'll see you then.",
       "options": [
-        "Ctrl + M",
-        "Ctrl + N",
-        "Ctrl + Shift + N",
-        "Ctrl + S"
+        "To instruct",
+        "To confirm",
+        "To accept",
+        "To inform"
       ],
-      "answer": "Ctrl + M",
-      "explanation": "اختصار Ctrl + M يُستخدم لإدراج شريحة جديدة في العرض التقديمي."
+      "answer": "To confirm",
+      "explanation": "'I'll see you then' تؤكد الاتفاق على اللقاء، فهذا تأكيد (confirm)."
     },
     {
-      "question": "What does pressing Ctrl + D do in Microsoft PowerPoint?",
+      "question": "Steven: \"Rothman! Rothman!\" Rothman: \"Oh! It's you. Do come in.\"",
       "options": [
-        "Duplicate the selected slide or object",
-        "Delete the slide",
-        "Download template",
-        "Design ideas"
+        "To greet",
+        "To interrupt",
+        "To invite",
+        "To instruct"
       ],
-      "answer": "Duplicate the selected slide or object",
-      "explanation": "اختصار Ctrl + D يقوم بعمل نسخة مطابقة (Duplicate) للشريحة أو العنصر المحدد."
+      "answer": "To invite",
+      "explanation": "'Do come in' دعوة للدخول، فهذا دعوة (invite)."
     },
     {
-      "question": "How do you start a slideshow presentation from the first slide in PowerPoint?",
+      "question": "Andrew: \"He is the most popular boy in school.\" Heather: \"He is? I can't stand him at all!\"",
       "options": [
-        "F5",
-        "Ctrl + F5",
-        "Shift + F5",
-        "Ctrl + P"
+        "To express disgust",
+        "To express envy",
+        "To performance",
+        "To express anger"
       ],
-      "answer": "F5",
-      "explanation": "مفتاح F5 يبدأ تشغيل عرض الشرائح من البداية."
+      "answer": "To express disgust",
+      "explanation": "'I can't stand him at all' تعبر عن الاشمئزاز الشديد، فهذا اشمئزاز (disgust)."
     },
     {
-      "question": "Which shortcut starts the slideshow from the current active slide in PowerPoint?",
+      "question": "Alan: \"Why do you look so gloomy?\" Gary: \"I am so sad. I feel like crying.\"",
       "options": [
-        "Shift + F5",
-        "F5",
-        "Ctrl + F5",
-        "Alt + F5"
+        "To express shock",
+        "To express anger",
+        "To express performance",
+        "To express unhappiness"
       ],
-      "answer": "Shift + F5",
-      "explanation": "اختصار Shift + F5 يبدأ العرض التقديمي من الشريحة الحالية مباشرة."
+      "answer": "To express unhappiness",
+      "explanation": "غاري يعبر عن حزنه ورغبته في البكاء، فهذا عدم سعادة (unhappiness)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + > do to text size in PowerPoint and Word?",
+      "question": "Sarah: \"I hope we will make it to the finals this year.\" Jasmine: \"We'll all try our best.\"",
       "options": [
-        "Increase font size",
-        "Decrease font size",
-        "Align right",
-        "Change case"
+        "To promise",
+        "To hope",
+        "To console",
+        "To compromise"
       ],
-      "answer": "Increase font size",
-      "explanation": "اختصار Ctrl + Shift + > يكبر حجم النص المحدد."
+      "answer": "To promise",
+      "explanation": "'We'll all try our best' وعد ببذل الجهد، فهذا وعد (promise)."
     },
     {
-      "question": "Which shortcut decreases the font size using angle brackets in Office apps?",
+      "question": "Darren: \"Are you coming for the concert?\" Andrew: \"Which concert? I don't know anything about it.\"",
       "options": [
-        "Ctrl + Shift + <",
-        "Ctrl + Shift + >",
-        "Ctrl + [",
-        "Ctrl + -"
+        "To express indifference",
+        "To express disgust",
+        "To express ignorance",
+        "To express fear"
       ],
-      "answer": "Ctrl + Shift + <",
-      "explanation": "اختصار Ctrl + Shift + < يصغر حجم النص المحدد."
+      "answer": "To express ignorance",
+      "explanation": "'I don't know anything about it' تعبر عن عدم المعرفة، فهذا جهل بالموضوع (ignorance)."
     },
     {
-      "question": "What is the shortcut to group selected objects or shapes in PowerPoint?",
+      "question": "Abdullah: \"Can you finish your assignment by Monday?\" Tammy: \"I'm sure I can finish my assignment on time.\"",
       "options": [
-        "Ctrl + G",
-        "Ctrl + Shift + G",
-        "Ctrl + Alt + G",
-        "Ctrl + Group"
+        "To compromise",
+        "To assure",
+        "To hope",
+        "To admire"
       ],
-      "answer": "Ctrl + G",
-      "explanation": "اختصار Ctrl + G يقوم بتجميع (Group) الأشكال أو العناصر المحددة معاً."
+      "answer": "To assure",
+      "explanation": "'I'm sure I can' تؤكد القدرة على الإنجاز، فهذا طمأنة (assure)."
     },
     {
-      "question": "Which shortcut ungroups previously grouped objects in PowerPoint?",
+      "question": "Suspect: \"I was at home all night reading.\" Detective: \"Was anyone with you?\" Suspect: \"No, I was alone.\"",
       "options": [
-        "Ctrl + Shift + G",
-        "Ctrl + U",
-        "Ctrl + Alt + U",
-        "Ctrl + Ungroup"
+        "To confirm",
+        "To appeal",
+        "To consent",
+        "To claim"
       ],
-      "answer": "Ctrl + Shift + G",
-      "explanation": "اختصار Ctrl + Shift + G يفك تجميع الأشكال (Ungroup)."
+      "answer": "To confirm",
+      "explanation": "المشتبه يؤكد أنه كان وحيداً، فهذا تأكيد (confirm)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + J do to selected objects in PowerPoint?",
+      "question": "Son: \"I got a Grade 1, Mum.\" Mother: \"Oh, well done! I always expected you to do well.\"",
       "options": [
-        "Distribute objects or align properties",
-        "Justify text",
-        "Join shapes",
-        "Jump to slide"
+        "To express appreciation",
+        "To express admiration",
+        "To express approval",
+        "To express surprise"
       ],
-      "answer": "Distribute objects or align properties",
-      "explanation": "اختصارات التحكم المتقدمة في الكائنات وتنسيقها في برامج الأوفيس."
+      "answer": "To express approval",
+      "explanation": "'Well done' تعبر عن الموافقة والاستحسان، فهذا موافقة (approval)."
     },
     {
-      "question": "How do you select all slides in the thumbnail pane in PowerPoint?",
+      "question": "Teenager: \"May I go, Mum? Please, Mum.\" Mother: \"Well, alright. But be back by five.\"",
       "options": [
-        "Ctrl + A (after clicking inside the thumbnail pane)",
-        "Ctrl + Shift + A",
-        "Alt + A",
-        "Ctrl + S"
+        "To threaten",
+        "To accept",
+        "To consent",
+        "None of the options"
       ],
-      "answer": "Ctrl + A (after clicking inside the thumbnail pane)",
-      "explanation": "اختصار Ctrl + A يحدد جميع الشرائح عند التواجد داخل لوحة المصغرات."
+      "answer": "To consent",
+      "explanation": "'Well, alright' موافقة على الذهاب، فهذا إذن/موافقة (consent)."
     },
     {
-      "question": "What is the shortcut to open the Task Manager directly in Windows?",
+      "question": "Mother: \"Don't you touch my cakes! They're for the party tonight.\"",
       "options": [
-        "Ctrl + Shift + Esc",
-        "Ctrl + Alt + Delete",
-        "Ctrl + Esc",
-        "Ctrl + Alt + T"
+        "To request",
+        "To appeal",
+        "To order",
+        "To invite"
       ],
-      "answer": "Ctrl + Shift + Esc",
-      "explanation": "اختصار Ctrl + Shift + Esc يفتح مدير المهام (Task Manager) بشكل مباشر."
+      "answer": "To order",
+      "explanation": "'Don't you touch' أمر حازم بعدم اللمس، فهذا أمر (order)."
     },
     {
-      "question": "Which shortcut combination brings up the security options menu including Task Manager and Lock in Windows?",
+      "question": "Joe: \"That remark was uncalled for.\" Raymond: \"I'm sorry. I shouldn't have said it.\"",
       "options": [
-        "Ctrl + Alt + Delete",
-        "Ctrl + Shift + Esc",
-        "Win + L",
-        "Ctrl + Alt + L"
+        "To forgive",
+        "To wish",
+        "To advise",
+        "To apologize"
       ],
-      "answer": "Ctrl + Alt + Delete",
-      "explanation": "اختصار Ctrl + Alt + Delete يعرض شاشة خيارات الأمان وإدارة الجلسة."
+      "answer": "To apologize",
+      "explanation": "رايموند يعتذر عن كلامه، فهذا اعتذار (apologize)."
     },
     {
-      "question": "What does pressing Ctrl + Esc do in Windows operating system?",
+      "question": "Rooney: \"Are we going now?\" Mother: \"Yes, don't forget to lock your room.\"",
       "options": [
-        "Open the Start Menu",
-        "Open Task Manager",
-        "Close current window",
-        "Open Run dialog"
+        "To instruct",
+        "To remind",
+        "To announce",
+        "To appeal"
       ],
-      "answer": "Open the Start Menu",
-      "explanation": "اختصار Ctrl + Esc يفتح قائمة ابدأ (Start Menu) كبديل لزر الويندوز."
+      "answer": "To remind",
+      "explanation": "الأم تذكر ابنها بقفل غرفته، فهذا تذكير (remind)."
     },
     {
-      "question": "How do you switch between open applications or windows using a keyboard shortcut?",
+      "question": "Charlie: \"Gray, let's join Dark Glove's gang.\" Gary: \"No, I will never join them.\"",
       "options": [
-        "Alt + Tab (or Ctrl + Tab between tabs)",
-        "Ctrl + Shift + Tab",
-        "Win + Tab",
-        "All of the above"
+        "To apologize",
+        "To suggest",
+        "To regret",
+        "To refuse"
       ],
-      "answer": "All of the above",
-      "explanation": "اختصارات مثل Alt + Tab أو Ctrl + Tab تتيح التنقل بين النوافذ والعلامات المفتوحة."
+      "answer": "To refuse",
+      "explanation": "غاري يرفض الانضمام بـ'No, I will never join them'، فهذا رفض (refuse)."
     },
     {
-      "question": "What is the shortcut to close the active browser tab or program window?",
+      "question": "Owen: \"Please forgive me for being rude.\" Teacher: \"You're forgiven.\"",
       "options": [
-        "Ctrl + W (or Alt + F4)",
-        "Ctrl + C",
-        "Ctrl + Q",
-        "Ctrl + Esc"
+        "To regret",
+        "To protest",
+        "To forgive",
+        "None of the options"
       ],
-      "answer": "Ctrl + W (or Alt + F4)",
-      "explanation": "اختصار Ctrl + W يغلق علامة التبويب النشطة، بينما Alt + F4 يغلق النافذة بالكامل."
+      "answer": "To forgive",
+      "explanation": "'You're forgiven' أي 'أنت مغفور لك'، فهذا مسامحة (forgive)."
     },
     {
-      "question": "Which shortcut reopens the last closed browser tab?",
+      "question": "Mother: \"I wonder why Sharon has not written for a long time.\" Barry: \"Don't worry. I'm sure she is fine.\"",
       "options": [
-        "Ctrl + Shift + T",
-        "Ctrl + T",
-        "Ctrl + R",
-        "Ctrl + Shift + R"
+        "To confirm",
+        "To remind",
+        "To compliment",
+        "To inform"
       ],
-      "answer": "Ctrl + Shift + T",
-      "explanation": "اختصار Ctrl + Shift + T يعيد فتح آخر تبويب تم إغلاقه بالخطأ في المتصفح."
+      "answer": "To confirm",
+      "explanation": "'I'm sure she is fine' تؤكد أن شارون بخير، فهذا تأكيد (confirm)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + N do in Google Chrome and many browsers?",
+      "question": "John: \"Would you like to give money to the poor?\" Sam: \"I had plans about that but not anymore.\" What does Sam mean?",
       "options": [
-        "Open a new Incognito (private) window",
-        "Open a normal new window",
-        "Create a new bookmark",
-        "Clear browsing data"
+        "He will give money to the poor",
+        "He changed his mind",
+        "John cannot give money to the poor",
+        "Sam will meet John at cafe"
       ],
-      "answer": "Open a new Incognito (private) window",
-      "explanation": "اختصار Ctrl + Shift + N يفتح نافذة تصفح مخفي جديدة (Incognito Window)."
+      "answer": "He changed his mind",
+      "explanation": "سام يقول إنه كانت لديه خطط لكن ليس بعد الآن، أي أنه غيّر رأيه (changed his mind)."
     },
     {
-      "question": "How do you open the downloads page in web browsers using a shortcut?",
+      "question": "We went to Berlin last weekend ____________.",
       "options": [
-        "Ctrl + J",
-        "Ctrl + D",
-        "Ctrl + L",
-        "Ctrl + Shift + D"
+        "How did you get there?",
+        "Yes, last weekend was rather rainy",
+        "And what about you?",
+        "My father says he is always tired after work"
       ],
-      "answer": "Ctrl + J",
-      "explanation": "اختصار Ctrl + J يفتح صفحة التنزيلات (Downloads) في المتصفحات الشائعة."
+      "answer": "How did you get there?",
+      "explanation": "السؤال المنطقي بعد الإخبار بالذهاب إلى برلين هو السؤال عن وسيلة الوصول (How did you get there?)."
     },
     {
-      "question": "What is the shortcut to bookmark the current web page in browsers?",
+      "question": "A: What is the best way to get to Broadway? B: By underground, I think. A: Is it the shortest way? B: _________.",
       "options": [
-        "Ctrl + D",
-        "Ctrl + B",
-        "Ctrl + Shift + B",
-        "Ctrl + K"
+        "You can go as slowly as you like",
+        "Take the double-decked buses",
+        "The fastest one",
+        "The shortest way is traveling by train"
       ],
-      "answer": "Ctrl + D",
-      "explanation": "اختصار Ctrl + D يضيف الصفحة الحالية إلى المفضلة (Bookmarks)."
+      "answer": "The fastest one",
+      "explanation": "الرد المنطقي على سؤال 'هل هو أقصر طريق؟' هو 'إنه الأسرع' (The fastest one) لأن المترو أسرع وسيلة."
     },
     {
-      "question": "Which shortcut opens the history page in web browsers?",
+      "question": "I see you are talking again. What do the women always talk about? - _______.",
       "options": [
-        "Ctrl + H",
-        "Ctrl + Shift + H",
-        "Ctrl + Alt + H",
-        "Ctrl + F"
+        "They usually discuss their family problems",
+        "They are talking about their problems",
+        "A woman always had something to tell",
+        "She always talks much"
       ],
-      "answer": "Ctrl + H",
-      "explanation": "اختصار Ctrl + H يفتح سجل التصفح (History) في المتصفح."
+      "answer": "They usually discuss their family problems",
+      "explanation": "السؤال عن موضوع حديث النساء دائماً، والرد المناسب هو 'يناقشن عادة مشاكل أسرهن' (They usually discuss their family problems)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + Delete do in web browsers?",
+      "question": "Why, Ann! Are you reading without light? Turn on the lamp, please. - _______.",
       "options": [
-        "Open Clear Browsing Data menu",
-        "Delete all tabs",
-        "Clear cache only",
-        "Reset browser settings"
+        "Oh. Yes, it's far from here",
+        "Oh, yes, it's too light",
+        "Oh, no, I'm too hungry",
+        "Oh, yes, it's getting dark"
       ],
-      "answer": "Open Clear Browsing Data menu",
-      "explanation": "اختصار Ctrl + Shift + Delete يفتح نافذة مسح بيانات التصفح والكاش."
+      "answer": "Oh, yes, it's getting dark",
+      "explanation": "الرد المنطقي على طلب إضاءة المصباح هو الإقرار بأن الجو يظلم (it's getting dark)."
     },
     {
-      "question": "How do you zoom in on a webpage or document using a keyboard shortcut?",
+      "question": "Your dress is so nice. - _________.",
       "options": [
-        "Ctrl + + (Plus sign)",
-        "Ctrl + -",
-        "Ctrl + 0",
-        "Ctrl + Scroll Up"
+        "I'll buy another one",
+        "She is so beautiful",
+        "I have made it myself",
+        "I like them too"
       ],
-      "answer": "Ctrl + + (Plus sign)",
-      "explanation": "اختصار Ctrl + علامة الزائد يكبر العرض (Zoom In)."
+      "answer": "I have made it myself",
+      "explanation": "الرد المناسب على الإطراء بالثوب هو 'لقد صنعته بنفسي' (I have made it myself)."
     },
     {
-      "question": "Which shortcut zooms out on a webpage or document?",
+      "question": "Look, Gill, the rain has stopped. - _________. - Let's play tennis. - _______.",
       "options": [
-        "Ctrl + - (Minus sign)",
-        "Ctrl + +",
-        "Ctrl + 0",
-        "Ctrl + Alt + -"
+        "It's a pity/soon",
+        "It's fun/Long ago",
+        "Nice of you/OK",
+        "What for/A great idea"
       ],
-      "answer": "Ctrl + - (Minus sign)",
-      "explanation": "اختصار Ctrl + علامة الناقص يصغر العرض (Zoom Out)."
+      "answer": "What for/A great idea",
+      "explanation": "الرد الأول 'What for?' استفسار عن سبب الملاحظة، ثم الرد الثاني 'A great idea' موافقة على لعب التنس."
     },
     {
-      "question": "What does pressing Ctrl + 0 do in browsers and software regarding zoom?",
+      "question": "Why did the team not win the game? - ________.",
       "options": [
-        "Reset zoom level to default (100%)",
-        "Zoom to maximum",
-        "Close window",
-        "Open tab 10"
+        "I suppose it began late",
+        "He was very late",
+        "At the time they were very far from the",
+        "I think Nick didn't take part in it"
       ],
-      "answer": "Reset zoom level to default (100%)",
-      "explanation": "اختصار Ctrl + 0 يعيد حجم العرض إلى وضعه الافتراضي 100%."
+      "answer": "I think Nick didn't take part in it",
+      "explanation": "السبب المنطقي لعدم فوز الفريق هو عدم مشاركة لاعب مهم (I think Nick didn't take part in it)."
     },
     {
-      "question": "Which shortcut opens a new tab in web browsers?",
+      "question": "A: I couldn't watch TV yesterday. B: Why couldn't you? A: _______.",
       "options": [
-        "Ctrl + T",
-        "Ctrl + N",
-        "Ctrl + Shift + T",
-        "Ctrl + W"
+        "I don't like to watch TV",
+        "I must do my lesson",
+        "I'll stay at home and learn English",
+        "We both, my sister and I, were punished by my father"
       ],
-      "answer": "Ctrl + T",
-      "explanation": "اختصار Ctrl + T يفتح علامة تبويب جديدة (New Tab) في المتصفح."
+      "answer": "We both, my sister and I, were punished by my father",
+      "explanation": "السبب المنطقي لعدم مشاهدة التلفاز هو العقاب (were punished by my father)."
     },
     {
-      "question": "What is the shortcut to refresh the current webpage?",
+      "question": "Jane: Help yourselves to the cake. What sort of it would you like? Nick: Strawberry, please. Jane: Would you like some more cake? Mike: _______.",
       "options": [
-        "Ctrl + R (or F5)",
-        "Ctrl + F5",
-        "Ctrl + Shift + R",
-        "All of the above"
+        "Yes, ice cream please",
+        "No, I've already caught it",
+        "Thank you for a nice party",
+        "Thanks, I haven't eaten my first piece yet."
       ],
-      "answer": "All of the above",
-      "explanation": "اختصارات Ctrl + R أو F5 تقوم بتحديث الصفحة (Refresh)."
+      "answer": "Thanks, I haven't eaten my first piece yet.",
+      "explanation": "الرد المنطقي على عرض المزيد من الكيك هو 'شكراً، لم آكل قطعة الأولى بعد' (Thanks, I haven't eaten my first piece yet)."
     },
     {
-      "question": "Which shortcut performs a hard refresh of a webpage bypassing cached files?",
+      "question": "John: Let's play cops and robbers. Kate: I've never played cops and robbers. How do you play it? Robert: Everybody plays this game. Kate: _______.",
       "options": [
-        "Ctrl + F5 (or Ctrl + Shift + R)",
-        "F5",
-        "Ctrl + R",
-        "Alt + F5"
+        "You'll be at the police station",
+        "Work in a group of four",
+        "Continue the game until someone catches you",
+        "Well, will you show me what to do?"
       ],
-      "answer": "Ctrl + F5 (or Ctrl + Shift + R)",
-      "explanation": "اختصار Ctrl + F5 أو Ctrl + Shift + R يقوم بتحديث الصفحة متجاوزاً الملفات المحفوظة مؤقتاً."
+      "answer": "Well, will you show me what to do?",
+      "explanation": "كيت لا تعرف اللعبة، فالرد المنطقي هو طلب التوضيح (will you show me what to do?)."
     },
     {
-      "question": "What does pressing Ctrl + L do in web browsers?",
+      "question": "I was told an interesting story yesterday. - _______.",
       "options": [
-        "Highlight the address bar (URL)",
-        "Lock browser",
-        "Align left",
-        "Open links list"
+        "Neither was he",
+        "Didn't you?",
+        "Were they?",
+        "Either did I",
+        "So were we"
       ],
-      "answer": "Highlight the address bar (URL)",
-      "explanation": "اختصار Ctrl + L يحدد شريط العنوان (Address Bar) لكتابة رابط جديد بسرعة."
+      "answer": "Didn't you?",
+      "explanation": "الرد المنطقي على الإخبار بقصة هو التعجب/الاستفسار 'ألم تُخبر؟' (Didn't you?)."
     },
     {
-      "question": "How do you select text word by word using keyboard shortcuts?",
+      "question": "How many times have you been in South Africa? - _______.",
       "options": [
-        "Ctrl + Shift + Arrow Keys",
-        "Ctrl + Arrow Keys",
-        "Shift + Arrow Keys",
-        "Alt + Shift + Arrows"
+        "I went last year",
+        "Once",
+        "2 years ago",
+        "Yes, I've",
+        "Next summer"
       ],
-      "answer": "Ctrl + Shift + Arrow Keys",
-      "explanation": "اختصار Ctrl + Shift مع مفاتيح الأسهم يحدد الكلمات كلمة تلو الأخرى."
+      "answer": "Once",
+      "explanation": "السؤال عن عدد المرات (How many times) يحتاج إجابة عددية، والمناسب هو 'مرة واحدة' (Once)."
     },
     {
-      "question": "What does pressing Ctrl + Backspace do in text editors?",
+      "question": "Will you cook macaroni this year? - _______.",
       "options": [
-        "Delete the entire word to the left",
-        "Delete a single character",
-        "Undo action",
-        "Go back to previous page"
+        "Just a moment",
+        "Sorry, I couldn't",
+        "Yes, he will",
+        "Yes, of course",
+        "Yes, I'll cook turkey"
       ],
-      "answer": "Delete the entire word to the left",
-      "explanation": "اختصار Ctrl + Backspace يحذف الكلمة بأكملها الواقعة إلى يسار المؤشر."
+      "answer": "Yes, of course",
+      "explanation": "السؤال بـ'Will you...' يحتاج إجابة بالموافقة، والمناسب 'نعم بالطبع' (Yes, of course)."
     },
     {
-      "question": "Which shortcut deletes the entire word to the right of the cursor?",
+      "question": "Who is the best reader in your class? - _______.",
       "options": [
-        "Ctrl + Delete",
-        "Ctrl + Backspace",
-        "Shift + Delete",
-        "Alt + Delete"
+        "Pete is, but I read better than he does",
+        "We take books from the school library",
+        "Oh, it is very difficult to get a good book these"
       ],
-      "answer": "Ctrl + Delete",
-      "explanation": "اختصار Ctrl + Delete يحذف الكلمة بأكملها الواقعة إلى يمين المؤشر."
+      "answer": "Pete is, but I read better than he does",
+      "explanation": "السؤال عن أفضل قارئ يحتاج إجابة باسم، والمناسب 'بيت هو، لكنني أقرأ أفضل منه' (Pete is, but I read better than he does)."
     },
     {
-      "question": "What is the shortcut to move the cursor to the beginning of a document in Word?",
+      "question": "A: May I watch TV now? B: No, you can't. A: Why? B: _______.",
       "options": [
-        "Ctrl + Home",
-        "Ctrl + End",
-        "Home",
-        "Ctrl + Up"
+        "We'll go for a walk tomorrow",
+        "You were ill",
+        "I must stay in bed",
+        "You'll disturb the kids"
       ],
-      "answer": "Ctrl + Home",
-      "explanation": "اختصار Ctrl + Home ينقل المؤشر إلى بداية المستند بالكامل."
+      "answer": "You'll disturb the kids",
+      "explanation": "السبب المنطقي لمنع مشاهدة التلفاز هو إزعاج الأطفال (You'll disturb the kids)."
     },
     {
-      "question": "Which shortcut moves the cursor to the very end of a document in Word?",
+      "question": "A: Why are you so tired? B: _______. A: Who helped you? B: ________.",
       "options": [
-        "Ctrl + End",
-        "Ctrl + Home",
-        "End",
-        "Ctrl + Down"
+        "I've just worked hard/nobody did",
+        "I worked much/you'll help me",
+        "So I am tired/many friends did",
+        "I prefer walking/my mother did"
       ],
-      "answer": "Ctrl + End",
-      "explanation": "اختصار Ctrl + End ينقل المؤشر إلى نهاية المستند بالكامل."
+      "answer": "I've just worked hard/nobody did",
+      "explanation": "السبب المنطقي للتعب هو العمل الشاق (I've just worked hard)، والرد على 'من ساعدك؟' هو 'لا أحد' (nobody did)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + Home do in a document?",
+      "question": "A: Mary is out now. B: ________. A: Not far away.",
       "options": [
-        "Select all text from the cursor to the beginning of the document",
-        "Go to the beginning",
-        "Select line",
-        "Delete to beginning"
+        "What did she study?",
+        "Where has she gone?",
+        "Where does she come?",
+        "Where are the girls?"
       ],
-      "answer": "Select all text from the cursor to the beginning of the document",
-      "explanation": "اختصار Ctrl + Shift + Home يحدد النص من مكان المؤشر حتى بداية المستند."
+      "answer": "Where has she gone?",
+      "explanation": "السؤال المنطقي بعد 'ماري بالخارج' هو 'إلى أين ذهبت؟' (Where has she gone?)، والرد 'ليس بعيداً' يتماشى معه."
     },
     {
-      "question": "Which shortcut selects all text from the cursor to the end of the document?",
+      "question": "A: What do you usually do at your school yard? B: ________. A: What kinds of them do you prefer? B: _______.",
       "options": [
-        "Ctrl + Shift + End",
-        "Ctrl + End",
-        "Shift + End",
-        "Ctrl + Shift + Down"
+        "We buy vegetables/potatoes and carrot",
+        "We sell vegetables/apples and cherries",
+        "We grow fruit/wheat and cotton",
+        "We plant flowers/roses and tulips"
       ],
-      "answer": "Ctrl + Shift + End",
-      "explanation": "اختصار Ctrl + Shift + End يحدد النص من مكان المؤشر حتى نهاية المستند."
+      "answer": "We plant flowers/roses and tulips",
+      "explanation": "الأنشطة المنطقية في ساحة المدرسة هي زراعة الزهور (We plant flowers)، والأنواع المفضلة هي الورود والتوليب (roses and tulips)."
     },
     {
-      "question": "What is the shortcut to convert selected text to uppercase, lowercase, or capitalized words in Word?",
+      "question": "A: The new film is splendid. B: _______.",
       "options": [
-        "Shift + F3 (or Ctrl + Shift + A in some contexts)",
-        "Ctrl + U",
-        "Ctrl + Shift + U",
-        "Alt + F3"
+        "He is wonderful, of course",
+        "He is well",
+        "Not exactly so",
+        "Of course she is"
       ],
-      "answer": "Shift + F3 (or Ctrl + Shift + A in some contexts)",
-      "explanation": "مفتاح Shift + F3 يُستخدم لتبديل حالة أحرف النص (حروف كبيرة وصغيرة)."
+      "answer": "Not exactly so",
+      "explanation": "الرد المنطقي على الإطراء بالفيلم هو الاختلاف في الرأي 'ليس بالضبط' (Not exactly so)."
     },
     {
-      "question": "Which shortcut opens the Navigation / Find pane in Word and Excel?",
+      "question": "A: Let's go for a walk. B: ______. A: Where can we go? B: ______.",
       "options": [
-        "Ctrl + F",
-        "Ctrl + H",
-        "Ctrl + G",
-        "Ctrl + N"
+        "I can't/To the park",
+        "Thank you/At 5 o'clock",
+        "Certainly/Tomorrow",
+        "Agreed/As far as the bridge"
       ],
-      "answer": "Ctrl + F",
-      "explanation": "اختصار Ctrl + F يفتح لوحة البحث السريع في معظم برامج أوفيس."
+      "answer": "Agreed/As far as the bridge",
+      "explanation": "الرد الأول 'Agreed' موافقة على المشي، والرد الثاني 'As far as the bridge' يحدد المكان (حتى الجسر)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + F12 do in Microsoft Word?",
+      "question": "Where did you see the New Year in? - _______. - Really?",
       "options": [
-        "Print document (similar to Ctrl + P)",
-        "Save as file",
-        "Open spell check",
-        "Close word"
+        "Fishing in the river next week",
+        "I prefer to go there by train",
+        "As usual in the open air",
+        "It's hard to say"
       ],
-      "answer": "Print document (similar to Ctrl + P)",
-      "explanation": "اختصار Ctrl + Shift + F12 أو Ctrl + P يستخدمان لأمر الطباعة."
+      "answer": "As usual in the open air",
+      "explanation": "الرد المنطقي على 'أين احتفلت بالعام الجديد؟' هو 'كالمعتاد في الهواء الطلق' (As usual in the open air)."
     },
     {
-      "question": "How do you open the 'Save As' dialog box directly in Word?",
+      "question": "A: My brother thinks that English isn't easy. B: Why does he think so? A: ______.",
       "options": [
-        "F12 (or Alt + F, A)",
-        "Ctrl + S",
-        "Ctrl + Shift + S",
-        "Ctrl + Alt + S"
+        "He learnt either English or French",
+        "Because it was too difficult for them",
+        "He has no time",
+        "Because he has to work very hard"
       ],
-      "answer": "F12 (or Alt + F, A)",
-      "explanation": "مفتاح F12 يفتح نافذة حفظ باسم (Save As) مباشرة."
+      "answer": "Because he has to work very hard",
+      "explanation": "السبب المنطقي لاعتقاد صعوبة الإنجليزية هو الحاجة للعمل الجاد (Because he has to work very hard)."
     },
     {
-      "question": "What is the shortcut to open an existing document in Word?",
+      "question": "How did you _____ your stay in Nigeria? Oh, very much.",
       "options": [
-        "Ctrl + O",
-        "Ctrl + N",
-        "Ctrl + S",
-        "Ctrl + P"
+        "Prefer",
+        "Join",
+        "Observe",
+        "Offer",
+        "Enjoy"
       ],
-      "answer": "Ctrl + O",
-      "explanation": "اختصار Ctrl + O يتيح فتح مستند محفوظ سابقاً."
+      "answer": "Enjoy",
+      "explanation": "الفعل المناسب مع 'stay' في سياق السؤال عن الرأي هو 'enjoy' (استمتعت)."
     },
     {
-      "question": "Which shortcut removes paragraph formatting in Word?",
+      "question": "Oh, it's raining heavily. - _____. Let's hide somewhere.",
       "options": [
-        "Ctrl + Q",
-        "Ctrl + Space",
-        "Ctrl + Shift + N",
-        "Ctrl + Delete"
+        "I think it's 20 degrees above zero",
+        "Cold weather has set in",
+        "Oh, yes, it's raining cats and dogs"
       ],
-      "answer": "Ctrl + Q",
-      "explanation": "اختصار Ctrl + Q يُزيل تنسيق الفقرة المخصص ويعيدها للوضع الافتراضي."
+      "answer": "Oh, yes, it's raining cats and dogs",
+      "explanation": "التعبير الاصطلاحي 'raining cats and dogs' يعني المطر الغزير، وهو المناسب هنا."
     },
     {
-      "question": "What does pressing Ctrl + Spacebar do in Microsoft Word?",
+      "question": "A: _______. B: Yes, I went to the National Film Theatre last week and saw a Japanese film. A: ________. B: Yes, I like it but of course I didn't understand a word.",
       "options": [
-        "Remove character formatting",
-        "Insert non-breaking space",
-        "Add line space",
-        "Select column"
+        "Did you go anywhere last week?/Did you like",
+        "What did you do last week?/Have you already seen any of them",
+        "Have you seen any good films lately?/Did you like?"
       ],
-      "answer": "Remove character formatting",
-      "explanation": "اختصار Ctrl + Spacebar يُزيل التنسيقات المطبقة على الحروف (مثل الخط العريض أو المائل)."
+      "answer": "Have you seen any good films lately?/Did you like?",
+      "explanation": "السؤال الأول عن أفلام جيدة مؤخراً، والثاني عن الإعجاب بالفيلم الياباني (Did you like?)."
     },
     {
-      "question": "How do you insert a non-breaking space in Word?",
+      "question": "A: _______. Are you going by bus? B: _______. A: I'd love to.",
       "options": [
-        "Ctrl + Shift + Spacebar",
-        "Ctrl + Spacebar",
-        "Alt + Spacebar",
-        "Shift + Spacebar"
+        "Have you ever been to Bath?/Yes let's go",
+        "We are going to Bath on Monday with Tom/No, we are going in Tom's car. Would you like to come?",
+        "We have visited Bath lately/yes, we are"
       ],
-      "answer": "Ctrl + Shift + Spacebar",
-      "explanation": "اختصار Ctrl + Shift + Spacebar يدرج مسافة غير قابلة للقطع لمنع انفصال الكلمات عند نهاية السطر."
+      "answer": "We are going to Bath on Monday with Tom/No, we are going in Tom's car. Would you like to come?",
+      "explanation": "السياق يدور حول رحلة إلى باث والدعوة للمشاركة، والخيار الثاني هو الأنسب تسلسلاً."
     },
     {
-      "question": "What is the shortcut to switch the keyboard input language or layout in Windows?",
+      "question": "Doctor: How long have you been having the pain? Patient: I'd say it started three or four months ago. It's been getting worse recently. How long has the patient been having this problem?",
       "options": [
-        "Windows + Space (or Alt + Shift)",
-        "Ctrl + Shift",
-        "Ctrl + Alt",
-        "Caps Lock"
+        "Three or four years",
+        "Three or four months",
+        "Three or four weeks",
+        "Three or four days"
       ],
-      "answer": "Windows + Space (or Alt + Shift)",
-      "explanation": "اختصار Win + Space أو Alt + Shift يبدل بين لغات لوحة المفاتيح المثبتة."
+      "answer": "Three or four months",
+      "explanation": "المريض ذكر صراحة أن الألم بدأ منذ ثلاثة أو أربعة أشهر (three or four months)."
     },
     {
-      "question": "Which shortcut locks your Windows computer screen quickly?",
+      "question": "Speaker A: It is so cold today! Speaker B: ______",
       "options": [
-        "Windows + L",
-        "Ctrl + L",
-        "Ctrl + Alt + L",
-        "Alt + L"
+        "Would you mind moving your car?",
+        "So lovely!",
+        "Would you like a hot drink?",
+        "Would you mind if I leave"
       ],
-      "answer": "Windows + L",
-      "explanation": "اختصار مفتاح الويندوز مع الحرف L (Win + L) يقفل جهاز الكمبيوتر فوراً."
+      "answer": "Would you like a hot drink?",
+      "explanation": "الرد المنطقي على البرد هو عرض مشروب ساخن (Would you like a hot drink?)."
     },
     {
-      "question": "What does pressing Windows + D do in Windows?",
+      "question": "You are studying, ask your brother to be quiet.",
       "options": [
-        "Show or hide the desktop",
-        "Open downloads",
-        "Delete file",
-        "Open documents"
+        "More noise please",
+        "Please don't make noise",
+        "It's a quiet room",
+        "Study with me"
       ],
-      "answer": "Show or hide the desktop",
-      "explanation": "اختصار Win + D يُظهر سطح المكتب أو يخفيه بسرعة."
+      "answer": "Please don't make noise",
+      "explanation": "طلب الهدوء من الأخ المناسب هو 'Please don't make noise'."
     },
     {
-      "question": "Which shortcut opens the File Explorer in Windows?",
+      "question": "It's ________. Yes, it's spring.",
       "options": [
-        "Windows + E",
-        "Ctrl + E",
-        "Ctrl + F",
-        "Windows + F"
+        "It's so gloomy",
+        "It's too hot",
+        "It's lovely flower",
+        "It's freezing"
       ],
-      "answer": "Windows + E",
-      "explanation": "اختصار Win + E يفتح مستكشف الملفات (File Explorer)."
+      "answer": "It's lovely flower",
+      "explanation": "الرد 'Yes, it's spring' يشير إلى وصف إيجابي للربيع، والأنسب 'It's lovely' (جميل)."
     },
     {
-      "question": "What is the shortcut to open the Run dialog box in Windows?",
+      "question": "Man: Did you get the bread, eggs and milk? Woman: Yes, I am at the cashier now. Q: Where does the conversation occur?",
       "options": [
-        "Windows + R",
-        "Ctrl + R",
-        "Alt + R",
-        "Ctrl + Shift + R"
+        "In the restaurant",
+        "At the bakery",
+        "In the market",
+        "On a farm"
       ],
-      "answer": "Windows + R",
-      "explanation": "اختصار Win + R يفتح نافذة التشغيل (Run) لتنفيذ الأوامر."
+      "answer": "In the market",
+      "explanation": "شراء الخبز والبيض والحليب والدفع عند الكاشير يدل على السوق (In the market)."
     },
     {
-      "question": "How do you take a screenshot of a specific area or full screen using the modern Windows shortcut?",
+      "question": "Sarah: Can you help me with my project this afternoon? Mary: Sure, I am free at 3:00. Q: What does Mary mean?",
       "options": [
-        "Windows + Shift + S",
-        "Print Screen",
-        "Ctrl + Print Screen",
-        "Alt + Print Screen"
+        "She can help Sarah after 3:00",
+        "She is not available to help Sarah",
+        "She is busy in the afternoon",
+        "Sarah should work on her project alone"
       ],
-      "answer": "Windows + Shift + S",
-      "explanation": "اختصار Win + Shift + S يفتح أداة أخذ لقطة شاشة مرنة (Snipping Tool)."
+      "answer": "She can help Sarah after 3:00",
+      "explanation": "ماري تقول إنها متفرغة الساعة 3:00، أي يمكنها المساعدة بعد الثالثة (after 3:00)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + Esc open directly?",
+      "question": "Derek: Would you like to see my new home? Karen: I'd love to but I am a bit busy now. Q: What does Karen mean?",
       "options": [
-        "Task Manager",
-        "Settings",
-        "Control Panel",
-        "Action Center"
+        "Derek is not interested in the offer",
+        "Karen can go and see Derek's house",
+        "Ken likes to go but maybe later",
+        "Karen already went"
       ],
-      "answer": "Task Manager",
-      "explanation": "اختصار Ctrl + Shift + Esc يفتح إدارة المهام لمراقبة البرامج والعمليات."
+      "answer": "Ken likes to go but maybe later",
+      "explanation": "كارين تقول 'I'd love to but I am busy now' أي ترغب بالذهاب لكن لاحقاً (maybe later)."
     },
     {
-      "question": "Which Excel shortcut selects the entire column containing the active cell?",
+      "question": "Man: It's flight 211 from London. Woman: Hey, flight 211 was canceled. What does the woman mean?",
       "options": [
-        "Ctrl + Spacebar",
-        "Shift + Spacebar",
-        "Ctrl + A",
-        "Ctrl + Shift + Down"
+        "Two hundred eleven passengers called about the flight",
+        "Flight 211 was called off",
+        "Flight 211 was announced",
+        "The flight was delayed"
       ],
-      "answer": "Ctrl + Spacebar",
-      "explanation": "اختصار Ctrl + Spacebar يحدد العمود بأكمله في إكسل."
+      "answer": "Flight 211 was called off",
+      "explanation": "'was canceled' تعني 'was called off' أي أُلغيت الرحلة."
     },
     {
-      "question": "Which Excel shortcut selects the entire row containing the active cell?",
+      "question": "Man: The paper isn't due until next week. Woman: Yes, I know, but I wanted to turn it in ahead of time if that's all right. What does the woman mean?",
       "options": [
-        "Shift + Spacebar",
-        "Ctrl + Spacebar",
-        "Ctrl + Shift + Right",
-        "Alt + Spacebar"
+        "She wants to submit her paper early",
+        "Answers on paper are all correct",
+        "The deadline has passed for the paper",
+        "The paper is not quite finished"
       ],
-      "answer": "Shift + Spacebar",
-      "explanation": "اختصار Shift + Spacebar يحدد الصف بأكمله في إكسل."
+      "answer": "She wants to submit her paper early",
+      "explanation": "'turn it in ahead of time' تعني تقديم الورقة قبل الموعد، أي تريد تسليمها مبكراً (submit early)."
     },
     {
-      "question": "What is the shortcut in Excel to apply or remove the outline border to selected cells?",
+      "question": "Lisa is at a restaurant and wants to ask for the bill. What is the correct way to ask?",
       "options": [
-        "Ctrl + Shift + &",
-        "Ctrl + Shift + _",
-        "Ctrl + B",
-        "Ctrl + Border"
+        "Where is my food?",
+        "Do you have dessert?",
+        "I am hungry",
+        "Can I get the bill, please?"
       ],
-      "answer": "Ctrl + Shift + &",
-      "explanation": "اختصار Ctrl + Shift + & يطبق حدود الإطار الخارجي على الخلايا المحددة."
+      "answer": "Can I get the bill, please?",
+      "explanation": "الطريقة الصحيحة لطلب الفاتورة هي 'Can I get the bill, please?'."
     },
     {
-      "question": "Which shortcut removes all borders from selected cells in Excel?",
+      "question": "You're in a business meeting, and someone strongly disagrees with your opinion. What is the best way to respond?",
       "options": [
-        "Ctrl + Shift + _ (Underscore / Minus)",
-        "Ctrl + 0",
-        "Ctrl + Delete",
-        "Ctrl + Shift + 0"
+        "I see your point, but I respectfully disagree because",
+        "That's wrong! You don't understand the topic",
+        "You're mistaken, and I'll prove it"
       ],
-      "answer": "Ctrl + Shift + _ (Underscore / Minus)",
-      "explanation": "اختصار Ctrl + Shift + _ يزيل جميع الحدود من الخلايا المحددة."
+      "answer": "I see your point, but I respectfully disagree because",
+      "explanation": "الرد المهني المؤدب هو الاعتراف بوجهة النظر ثم الاختلاف باحترام (I see your point, but I respectfully disagree because)."
     },
     {
-      "question": "What does pressing Ctrl + Shift + U do in Excel formula bar?",
+      "question": "Speaker A: _____ Speaker B: No thanks, I am full.",
       "options": [
-        "Expand or collapse the formula bar",
-        "Underline text",
-        "Uppercase text",
-        "Unlock cells"
+        "Bon appetit",
+        "Who is full?",
+        "Another piece of cake?",
+        "Are you full?"
       ],
-      "answer": "Expand or collapse the formula bar",
-      "explanation": "اختصار Ctrl + Shift + U يوسع أو يطوي شريط الصيغة في إكسل."
+      "answer": "Another piece of cake?",
+      "explanation": "الرد 'No thanks, I am full' يأتي عادة على عرض المزيد من الطعام (Another piece of cake?)."
     },
     {
-      "question": "How do you calculate or recalculate all worksheets in all open workbooks in Excel?",
+      "question": "Man: Tell me about your trip to New York. Woman: It was great! We saw the Statue of Liberty and the Empire State Building and all of the tourist attractions the first day, then saw the museum the second day and spent the rest of the time shopping and seeing shows. What are the man and woman talking about?",
       "options": [
-        "F9 (or Ctrl + Alt + F9)",
-        "F5",
-        "Ctrl + R",
-        "Ctrl + F9"
+        "The woman's trip",
+        "Museum",
+        "Shopping",
+        "Empire State"
       ],
-      "answer": "F9 (or Ctrl + Alt + F9)",
-      "explanation": "مفتاح F9 يقوم بإعادة حساب ورقة العمل والصيغ."
+      "answer": "The woman's trip",
+      "explanation": "الحوار كله يدور حول رحلة المرأة إلى نيويورك (The woman's trip)."
     },
     {
-      "question": "What is the shortcut to minimize the active workbook window in Excel?",
+      "question": "Woman: I wish all of your friends were as nice as Michael. Man: Not everyone has such a good friend. What do we learn from the conversation?",
       "options": [
-        "Ctrl + F9",
-        "Ctrl + F10",
-        "Ctrl + W",
-        "Ctrl + M"
+        "No one has a friend like Michael",
+        "Everyone is Michael's good friend",
+        "The man feels lucky to have Michael as a friend"
       ],
-      "answer": "Ctrl + F9",
-      "explanation": "اختصار Ctrl + F9 يصغر (Minimize) نافذة المصنف الحالي."
-    },
-    {
-      "question": "Which shortcut maximizes or restores the active workbook window in Excel?",
-      "options": [
-        "Ctrl + F10",
-        "Ctrl + F9",
-        "Ctrl + F11",
-        "Ctrl + F12"
-      ],
-      "answer": "Ctrl + F10",
-      "explanation": "اختصار Ctrl + F10 يكبر أو يستعيد حجم نافذة المصنف."
-    },
-    {
-      "question": "What does pressing Ctrl + F11 do in Excel?",
-      "options": [
-        "Insert a new macro chart worksheet",
-        "Open VBA editor",
-        "Save workbook",
-        "Print sheet"
-      ],
-      "answer": "Insert a new macro chart worksheet",
-      "explanation": "اختصار Ctrl + F11 يدرج ورقة عمل ماكرو بيانية جديدة."
-    },
-    {
-      "question": "Which shortcut opens the Visual Basic for Applications (VBA) editor in Excel?",
-      "options": [
-        "Alt + F11",
-        "Ctrl + F11",
-        "F11",
-        "Ctrl + Shift + F11"
-      ],
-      "answer": "Alt + F11",
-      "explanation": "اختصار Alt + F11 يفتح محرر الأكواد VBA المدمج."
-    },
-    {
-      "question": "What is the shortcut to insert a new worksheet in an Excel workbook?",
-      "options": [
-        "Shift + F11 (or Alt + Shift + F1)",
-        "Ctrl + N",
-        "Ctrl + M",
-        "Ctrl + Shift + N"
-      ],
-      "answer": "Shift + F11 (or Alt + Shift + F1)",
-      "explanation": "اختصار Shift + F11 يضيف ورقة عمل جديدة (Sheet) للمصنف."
-    },
-    {
-      "question": "Which shortcut opens the spell check dialog in Excel?",
-      "options": [
-        "F7",
-        "Ctrl + F7",
-        "Shift + F7",
-        "Ctrl + S"
-      ],
-      "answer": "F7",
-      "explanation": "مفتاح F7 يُستخدم للتدقيق الإملائي في إكسل وورد."
-    },
-    {
-      "question": "What does pressing Ctrl + Page Down do in Excel and multi-tab applications?",
-      "options": [
-        "Move to the next worksheet or tab",
-        "Move to the previous worksheet",
-        "Scroll down page",
-        "Go to bottom cell"
-      ],
-      "answer": "Move to the next worksheet or tab",
-      "explanation": "اختصار Ctrl + Page Down ينتقل إلى ورقة العمل أو التبويب التالي."
-    },
-    {
-      "question": "Which shortcut moves to the previous worksheet or tab in Excel or browsers?",
-      "options": [
-        "Ctrl + Page Up",
-        "Ctrl + Page Down",
-        "Ctrl + Shift + Tab",
-        "Both A and C"
-      ],
-      "answer": "Both A and C",
-      "explanation": "اختصار Ctrl + Page Up أو Ctrl + Shift + Tab ينتقل للتبويب السابق."
-    },
-    {
-      "question": "What is the shortcut to open the Paste Special dialog box in Excel?",
-      "options": [
-        "Ctrl + Alt + V (or Alt, E, S)",
-        "Ctrl + Shift + V",
-        "Ctrl + V",
-        "Ctrl + P"
-      ],
-      "answer": "Ctrl + Alt + V (or Alt, E, S)",
-      "explanation": "اختصار Ctrl + Alt + V يفتح نافذة اللصق الخاص (Paste Special) لإلصاق القيم أو التنسيقات."
-    },
-    {
-      "question": "Which shortcut opens the Create Pivot Table dialog in Excel?",
-      "options": [
-        "Alt + N, V (or Alt + D, P)",
-        "Ctrl + P",
-        "Ctrl + T",
-        "Ctrl + Shift + P"
-      ],
-      "answer": "Alt + N, V (or Alt + D, P)",
-      "explanation": "اختصارات لوحة المفاتيح المتقدمة مثل Alt ثم N ثم V تنشئ جدول محوري (Pivot Table)."
-    },
-    {
-      "question": "What does pressing Ctrl + Shift + * (Asterisk) do in Excel?",
-      "options": [
-        "Select the current data region around the active cell",
-        "Insert multiplication symbol",
-        "Multiply all cells",
-        "Show formulas"
-      ],
-      "answer": "Select the current data region around the active cell",
-      "explanation": "اختصار Ctrl + Shift + * يحدد منطقة البيانات المحيطة بالخلية النشطة."
-    },
-    {
-      "question": "How do you toggle the ribbon menu in Microsoft Office applications using a shortcut?",
-      "options": [
-        "Ctrl + F1",
-        "Ctrl + F2",
-        "Alt + F1",
-        "Ctrl + F"
-      ],
-      "answer": "Ctrl + F1",
-      "explanation": "اختصار Ctrl + F1 يطوي أو يعرض شريط الأدوات (Ribbon Menu)."
-    },
-    {
-      "question": "What is the shortcut to preview a document before printing in Word?",
-      "options": [
-        "Ctrl + F2 (or Ctrl + P)",
-        "Ctrl + F1",
-        "Ctrl + Shift + P",
-        "F12"
-      ],
-      "answer": "Ctrl + F2 (or Ctrl + P)",
-      "explanation": "اختصار Ctrl + F2 يعرض معاينة ما قبل الطباعة (Print Preview)."
-    },
-    {
-      "question": "Which shortcut inserts a footnote in Microsoft Word?",
-      "options": [
-        "Alt + Ctrl + F",
-        "Ctrl + F",
-        "Ctrl + Shift + F",
-        "F10"
-      ],
-      "answer": "Alt + Ctrl + F",
-      "explanation": "اختصار Alt + Ctrl + F يدرج حاشية سفلية (Footnote) في المستند."
-    },
-    {
-      "question": "What does pressing Alt + Ctrl + D do in Microsoft Word?",
-      "options": [
-        "Insert an endnote",
-        "Insert date",
-        "Delete paragraph",
-        "Duplicate document"
-      ],
-      "answer": "Insert an endnote",
-      "explanation": "اختصار Alt + Ctrl + D يدرج تعليق ختامي (Endnote) بنهاية المستند."
-    },
-    {
-      "question": "How do you switch between window frames or panes in Office or split views?",
-      "options": [
-        "F6 (or Shift + F6)",
-        "Ctrl + Tab",
-        "Alt + Tab",
-        "Ctrl + F6"
-      ],
-      "answer": "F6 (or Shift + F6)",
-      "explanation": "مفتاح F6 يتنقل بين الأجزاء والنوافذ المقسمة في البرنامج."
-    },
-    {
-      "question": "What is the shortcut to open the Help window in most Windows applications?",
-      "options": [
-        "F1",
-        "F2",
-        "F10",
-        "Ctrl + H"
-      ],
-      "answer": "F1",
-      "explanation": "مفتاح F1 يفتح نافذة المساعدة والدعم الفني (Help) للبرنامج."
-    },
-    {
-      "question": "Which shortcut allows you to rename a selected file, folder, or worksheet tab?",
-      "options": [
-        "F2",
-        "F4",
-        "F5",
-        "F7"
-      ],
-      "answer": "F2",
-      "explanation": "مفتاح F2 يُستخدم لإعادة تسمية الملفات أو الخلايا والشرائح النشطة."
-    },
-    {
-      "question": "What does pressing F4 do in Microsoft Excel during formula editing?",
-      "options": [
-        "Toggle absolute and relative cell references (e.g., $A$1)",
-        "Repeat last action",
-        "Close workbook",
-        "Open find dialog"
-      ],
-      "answer": "Toggle absolute and relative cell references (e.g., $A$1)",
-      "explanation": "مفتاح F4 يثبت خلايا الصيغة ويحولها لمراجع مطلقة أو نسبية أثناء التعديل."
-    },
-    {
-      "question": "Which function key repeats the last editing action in many applications like Word?",
-      "options": [
-        "F4",
-        "F3",
-        "F8",
-        "F12"
-      ],
-      "answer": "F4",
-      "explanation": "مفتاح F4 يكرر آخر أمر أو إجراء تم تنفيذه في بعض البرامج."
-    },
-    {
-      "question": "What is the shortcut to open the 'Save As' window directly in Office apps?",
-      "options": [
-        "F12",
-        "Ctrl + S",
-        "Ctrl + Shift + S",
-        "Alt + S"
-      ],
-      "answer": "F12",
-      "explanation": "مفتاح F12 يفتح نافذة الحفظ باسم (Save As) مباشرة."
-    },
-    {
-      "question": "How do you select text in blocks by extending the selection using F8 in Word?",
-      "options": [
-        "Pressing F8 multiple times",
-        "Ctrl + F8",
-        "Shift + F8",
-        "Alt + F8"
-      ],
-      "answer": "Pressing F8 multiple times",
-      "explanation": "الضغط المتكرر على F8 يوسع نطاق تحديد النص (كلمة، جملة، فقرة، مستند)."
-    },
-    {
-      "question": "What does pressing Alt + F4 do in the Windows operating system?",
-      "options": [
-        "Close the active window or application",
-        "Shut down computer",
-        "Open run menu",
-        "Refresh desktop"
-      ],
-      "answer": "Close the active window or application",
-      "explanation": "اختصار Alt + F4 يغلق النافذة النشطة أو يفتح خيارات إيقاف تشغيل الويندوز إذا لم توجد نافذة مفتوحة."
-    },
-    {
-      "question": "Which shortcut cycles through open tabs in a web browser from left to right?",
-      "options": [
-        "Ctrl + Tab",
-        "Ctrl + Shift + Tab",
-        "Ctrl + Page Down",
-        "Both A and C"
-      ],
-      "answer": "Both A and C",
-      "explanation": "اختصار Ctrl + Tab أو Ctrl + Page Down يتنقل بين التبويبات باتجاه اليمين."
-    },
-    {
-      "question": "What is the shortcut to cycle through open browser tabs from right to left?",
-      "options": [
-        "Ctrl + Shift + Tab (or Ctrl + Page Up)",
-        "Ctrl + Tab",
-        "Alt + Tab",
-        "Ctrl + Left"
-      ],
-      "answer": "Ctrl + Shift + Tab (or Ctrl + Page Up)",
-      "explanation": "اختصار Ctrl + Shift + Tab أو Ctrl + Page Up يتنقل بين التبويبات بالاتجاه المعاكس."
-    },
-    {
-      "question": "How do you close a specific browser tab directly using a number shortcut?",
-      "options": [
-        "Ctrl + W (or middle-click tab)",
-        "Ctrl + 4",
-        "Ctrl + Q",
-        "Alt + W"
-      ],
-      "answer": "Ctrl + W (or middle-click tab)",
-      "explanation": "إغلاق التبويب يتم عبر Ctrl + W أو الضغط بعجلة الماوس الوسطى على التبويب."
-    },
-    {
-      "question": "What does pressing Ctrl + 1 through 8 do in web browsers like Chrome?",
-      "options": [
-        "Switch to the specific numbered tab (1st to 8th tab)",
-        "Zoom to 100-800%",
-        "Open bookmarks 1 to 8",
-        "Resize window"
-      ],
-      "answer": "Switch to the specific numbered tab (1st to 8th tab)",
-      "explanation": "اختصار Ctrl مع الأرقام من 1 إلى 8 ينقل المداوم مباشرة للتبويب رقم كذا."
-    },
-    {
-      "question": "Which shortcut switches to the absolute last (rightmost) tab in a web browser?",
-      "options": [
-        "Ctrl + 9",
-        "Ctrl + 0",
-        "Ctrl + End",
-        "Ctrl + Last"
-      ],
-      "answer": "Ctrl + 9",
-      "explanation": "اختصار Ctrl + 9 ينقل الانتقال مباشرة إلى أقصى تبويب جهة اليمين بغض النظر عن عددهم."
+      "answer": "The man feels lucky to have Michael as a friend",
+      "explanation": "قول الرجل 'Not everyone has such a good friend' يعني أنه يشعر بالحظ لوجود مايكل كصديق."
     }
   ]
 }
