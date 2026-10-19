@@ -1,0 +1,1401 @@
+{
+  "questions": [
+    {
+      "question": "Hassan: I'm going to stay up to watch the football finals. Bilal: I advise you not to. You won't be able to wake up in time for school.",
+      "options": [
+        "To discourage",
+        "To inform",
+        "To threaten",
+        "To deny"
+      ],
+      "answer": "To discourage",
+      "explanation": "بيلال ينصح حسن بعدم السهر لأنه لن يستطيع الاستيقاظ للمدرسة، وهذا تثبيط (discourage)."
+    },
+    {
+      "question": "Employee: \"I am terribly sorry for being late.\" Manager: \"It's ok.\"",
+      "options": [
+        "A complaint",
+        "A request",
+        "An apology",
+        "A suggestion"
+      ],
+      "answer": "An apology",
+      "explanation": "الموظف يعتذر عن تأخره بعبارة 'I am terribly sorry'، فهذا اعتذار (apology)."
+    },
+    {
+      "question": "I'm sorry, but the service was extremely slow.",
+      "options": [
+        "Expressing gratitude",
+        "Making promises",
+        "Making complaints",
+        "Denying"
+      ],
+      "answer": "Making complaints",
+      "explanation": "المتحدث يشتكي من بطء الخدمة، فهذا تقديم شكوى (complaints)."
+    },
+    {
+      "question": "What is a polite way to ask someone to repeat something?",
+      "options": [
+        "Say it again",
+        "Can you repeat that, please?",
+        "I didn't hear you",
+        "None of the above"
+      ],
+      "answer": "Can you repeat that, please?",
+      "explanation": "عبارة 'Can you repeat that, please?' هي الأكثر تهذيباً لطلب الإعادة."
+    },
+    {
+      "question": "Driver: \"I am sorry, I took the wrong turn.\" Passenger: \"It's ok, no problem.\"",
+      "options": [
+        "To condemn",
+        "To apologize",
+        "To describe",
+        "To blame"
+      ],
+      "answer": "To apologize",
+      "explanation": "السائق يعتذر بعبارة 'I am sorry'، فهذا اعتذار (apologize)."
+    },
+    {
+      "question": "What function is served by the statement: \"I'm thrilled to hear you got the promotion!\"",
+      "options": [
+        "Complaint",
+        "Suggestion",
+        "Warning",
+        "Congratulations"
+      ],
+      "answer": "Congratulations",
+      "explanation": "المتحدث يعبر عن سعادته بخبر الترقية، فهذا تقديم تهنئة (congratulations)."
+    },
+    {
+      "question": "Student: \"Please professor forgive me for being rude.\" Professor: \"You're forgiven.\"",
+      "options": [
+        "To disagree",
+        "To protest",
+        "To encourage",
+        "To forgive"
+      ],
+      "answer": "To forgive",
+      "explanation": "الأستاذ يقول 'You're forgiven' أي 'أنت مغفور لك'، فهذا مسامحة (forgive)."
+    },
+    {
+      "question": "Jones: \"The film was very interesting, wasn't it?\" Thomas: \"I find it terrible.\"",
+      "options": [
+        "To express intention",
+        "To express like",
+        "To express dislike",
+        "To express gratitude"
+      ],
+      "answer": "To express dislike",
+      "explanation": "توماس يصف الفيلم بـ'terrible'، فهذا تعبير عن عدم الإعجاب (dislike)."
+    },
+    {
+      "question": "Speaker A: \"We are leaving today.\" Speaker B (Mother): \"Yes, don't forget to lock the doors.\"",
+      "options": [
+        "To blame",
+        "To announce",
+        "To suggest",
+        "To remind"
+      ],
+      "answer": "To remind",
+      "explanation": "الأم تذكر ابنها بقفل الأبواب، فهذا تذكير (remind)."
+    },
+    {
+      "question": "Please be quiet.",
+      "options": [
+        "Request",
+        "Apologize",
+        "Greeting",
+        "Thanking"
+      ],
+      "answer": "Request",
+      "explanation": "عبارة 'Please be quiet' طلب مؤدب بالهدوء، فهذا طلب (request)."
+    },
+    {
+      "question": "You have helped me a lot. I'm really grateful to you.",
+      "options": [
+        "Expressing gratitude",
+        "Compliment",
+        "Offering",
+        "Suggestion"
+      ],
+      "answer": "Expressing gratitude",
+      "explanation": "'I'm really grateful' تعبير صريح عن الامتنان (gratitude)."
+    },
+    {
+      "question": "His apology wasn't enough ____ him.",
+      "options": [
+        "So I forgive",
+        "For me to forgive",
+        "That I forgave",
+        "For me forgiving"
+      ],
+      "answer": "For me to forgive",
+      "explanation": "التركيب الصحيح: enough for me to forgive him (for + pronoun + to + infinitive)."
+    },
+    {
+      "question": "Clean the room, please.",
+      "options": [
+        "To command",
+        "To assure",
+        "To regret",
+        "To deny"
+      ],
+      "answer": "To command",
+      "explanation": "'Clean the room' أمر مباشر (command) وإن جاء بـplease للتلطيف."
+    },
+    {
+      "question": "I'd be glad if you could attend the party.",
+      "options": [
+        "Ordering",
+        "Thanking",
+        "Inviting",
+        "Stating"
+      ],
+      "answer": "Inviting",
+      "explanation": "المتحدث يعبر عن سعادته بحضور الطرف الآخر، فهذا دعوة (inviting)."
+    },
+    {
+      "question": "Jassim: \"I did not pass the comprehensive exam.\" Rafid: \"You should have taken the exam more seriously.\"",
+      "options": [
+        "To refuse",
+        "To blame",
+        "To invite",
+        "To welcome"
+      ],
+      "answer": "To blame",
+      "explanation": "رفيد يلوم جاسم على عدم أخذه الامتحان بجدية، فهذا لوم (blame)."
+    },
+    {
+      "question": "Do you think I could use your phone? Yes, of course.",
+      "options": [
+        "To invite",
+        "To oblige",
+        "To regret",
+        "To request"
+      ],
+      "answer": "To request",
+      "explanation": "السؤال طلب مؤدب لاستخدام الهاتف، فهذا طلب (request)."
+    },
+    {
+      "question": "I wish I had learnt the highway code.",
+      "options": [
+        "Express satisfaction",
+        "Regret",
+        "Apology",
+        "None of the options"
+      ],
+      "answer": "Regret",
+      "explanation": "تركيب 'I wish I had + p.p.' يعبر عن التحسر على ما لم يحدث، فهذا ندم (regret)."
+    },
+    {
+      "question": "She walked across the bridge.",
+      "options": [
+        "Showing agreement",
+        "Showing direction",
+        "Describing manner",
+        "Indicating time"
+      ],
+      "answer": "Showing direction",
+      "explanation": "'across' تحدد اتجاه الحركة عبر الجسر، فهذا اتجاه (direction)."
+    },
+    {
+      "question": "What does \"excuse me\" mean in a crowded place?",
+      "options": [
+        "I'm sorry",
+        "Hello",
+        "Move out of my way, please",
+        "Congratulations"
+      ],
+      "answer": "Move out of my way, please",
+      "explanation": "في الزحام تُستخدم 'excuse me' لطلب إفساح الطريق بلطف."
+    },
+    {
+      "question": "She should speak English.",
+      "options": [
+        "Suggestion",
+        "Ability",
+        "Emphasis",
+        "Request"
+      ],
+      "answer": "Suggestion",
+      "explanation": "'should' هنا تعبر عن اقتراح/نصيحة (suggestion)."
+    },
+    {
+      "question": "Mother: \"My cat has been missing!\" Kids: \"We will search every inch of the neighborhood.\"",
+      "options": [
+        "To take leave",
+        "To fear",
+        "To encourage",
+        "To volunteer"
+      ],
+      "answer": "To volunteer",
+      "explanation": "الأطفال يتطوعون بالبحث عن القطة، فهذا تطوع (volunteer)."
+    },
+    {
+      "question": "Let's agree or disagree.",
+      "options": [
+        "Welcome",
+        "Accepting different opinions",
+        "Refusing other's views",
+        "Ordering"
+      ],
+      "answer": "Accepting different opinions",
+      "explanation": "العبارة تعني تقبل الاختلاف في الآراء (accepting different opinions)."
+    },
+    {
+      "question": "Shall I carry this bag for you?",
+      "options": [
+        "Asking information",
+        "Offering help",
+        "Giving information",
+        "Proposing"
+      ],
+      "answer": "Offering help",
+      "explanation": "'Shall I...?' تستخدم لعرض المساعدة (offering help)."
+    },
+    {
+      "question": "A: I have a headache. B: You look pale. You should see a doctor soon.",
+      "options": [
+        "To oblige",
+        "To blame",
+        "To introduce",
+        "To advise"
+      ],
+      "answer": "To advise",
+      "explanation": "المتحدث ينصح بزيارة الطبيب باستخدام 'should'، فهذا نصيحة (advise)."
+    },
+    {
+      "question": "Room partner: \"Do I have to clean the room twice a day?\" Man: \"It has never been my mess!\"",
+      "options": [
+        "To protest",
+        "To agree",
+        "To mitigate",
+        "To celebrate"
+      ],
+      "answer": "To protest",
+      "explanation": "الرجل يعترض لأن الفوضى ليست من صنعه، فهذا احتجاج (protest)."
+    },
+    {
+      "question": "Police officer: \"Car registration papers, please!\" Driver: \"All right, sir.\"",
+      "options": [
+        "To disagree",
+        "To order",
+        "To inform",
+        "To take leave"
+      ],
+      "answer": "To order",
+      "explanation": "الشرطي يصدر أمراً مباشراً بتقديم الأوراق، فهذا أمر (order)."
+    },
+    {
+      "question": "Player A: \"You had the worst performance today.\" Player B: \"Yeah, it wasn't actually me.\"",
+      "options": [
+        "To blame",
+        "To order",
+        "To celebrate",
+        "To thank"
+      ],
+      "answer": "To blame",
+      "explanation": "اللاعب الأول يلوم الثاني على أسوأ أداء، فهذا لوم (blame)."
+    },
+    {
+      "question": "Mother: \"I haven't seen my pet since last weekend!\" Kids: \"We will search for it.\"",
+      "options": [
+        "To celebrate",
+        "To volunteer",
+        "To intimidate",
+        "To apologize"
+      ],
+      "answer": "To volunteer",
+      "explanation": "الأطفال يتطوعون بالبحث عن الحيوان المفقود، فهذا تطوع (volunteer)."
+    },
+    {
+      "question": "Coach: \"I expect a better performance.\" Player: \"I'm doing my best.\"",
+      "options": [
+        "To excuse",
+        "To mourn",
+        "To encourage",
+        "To inform"
+      ],
+      "answer": "To encourage",
+      "explanation": "المدرب يشجع اللاعب على أداء أفضل، فهذا تشجيع (encourage)."
+    },
+    {
+      "question": "Speaker: \"I need to hurry up to my aunt now, it was a nice session.\"",
+      "options": [
+        "To celebrate",
+        "To blame",
+        "To agree",
+        "To take leave"
+      ],
+      "answer": "To take leave",
+      "explanation": "المتحدث يستأذن بالمغادرة للذهاب إلى خالته، فهذا استئذان (take leave)."
+    },
+    {
+      "question": "Speaker: \"Listen to me all please, my new baby's name will be Marry.\"",
+      "options": [
+        "To announce",
+        "To condemn",
+        "To claim",
+        "To protest"
+      ],
+      "answer": "To announce",
+      "explanation": "المتحدث يعلن اسم طفله الجديد، فهذا إعلان (announce)."
+    },
+    {
+      "question": "Ali: \"Ahmed, I want you to meet Sameer. Sameer, this is Ahmed.\" Sameer: \"Nice to meet you.\" Ahmed: \"Nice to meet you too.\"",
+      "options": [
+        "To volunteer",
+        "To express anger",
+        "To take leave",
+        "To introduce"
+      ],
+      "answer": "To introduce",
+      "explanation": "علي يعرّف أحمد وسمير ببعضهما، فهذا تعريف (introduce)."
+    },
+    {
+      "question": "Hello, Ali! Nice to see you.",
+      "options": [
+        "To introduce",
+        "To inform",
+        "To compliment",
+        "To greet"
+      ],
+      "answer": "To greet",
+      "explanation": "'Hello' و'Nice to see you' للتحية عند اللقاء (greet)."
+    },
+    {
+      "question": "Man: \"Wow! You're looking good.\"",
+      "options": [
+        "To compliment",
+        "To congratulate",
+        "To explain",
+        "To inform"
+      ],
+      "answer": "To compliment",
+      "explanation": "'You're looking good' إطراء على المظهر، فهذا إطراء (compliment)."
+    },
+    {
+      "question": "Speaker 1: \"I suggest we go to London.\" Speaker 2: \"I don't think I can.\"",
+      "options": [
+        "To condemn",
+        "To agree",
+        "To refuse",
+        "To argue"
+      ],
+      "answer": "To refuse",
+      "explanation": "المتحدث الثاني يرفض الاقتراح، فهذا رفض (refuse)."
+    },
+    {
+      "question": "Speaker A: \"It feels like spring today!\" Speaker B: \"Really? It feels humid.\"",
+      "options": [
+        "To disagree",
+        "To confirm",
+        "To mitigate",
+        "To excuse"
+      ],
+      "answer": "To disagree",
+      "explanation": "المتحدث الثاني يعارض رأي الأول عن الطقس، فهذا اختلاف (disagree)."
+    },
+    {
+      "question": "Speaker A: \"Prepare your ID cards and fasten seat belts.\" Speaker B: \"All right.\"",
+      "options": [
+        "To claim",
+        "To disagree",
+        "To intimidate",
+        "To inform"
+      ],
+      "answer": "To inform",
+      "explanation": "المتحدث الأول يخبر الركاب بالتعليمات، فهذا إخبار (inform)."
+    },
+    {
+      "question": "Speaker 1: \"We are winning the sixth war, long live the king!\" Speaker 2: \"Long live the king!\"",
+      "options": [
+        "To agree",
+        "To celebrate",
+        "To excuse",
+        "To take leave"
+      ],
+      "answer": "To agree",
+      "explanation": "المتحدث الثاني يردد نفس العبارة موافقاً، فهذا موافقة (agree)."
+    },
+    {
+      "question": "Speaker A: \"I don't want to see you now, get off.\"",
+      "options": [
+        "To agree",
+        "To refuse",
+        "To dismiss",
+        "To claim"
+      ],
+      "answer": "To dismiss",
+      "explanation": "'get off' هنا تعني الطرد والإبعاد، فهذا طرد (dismiss)."
+    },
+    {
+      "question": "Player A: \"It is so hot today.\" Player B: \"I believe that too.\"",
+      "options": [
+        "To agree",
+        "To threaten",
+        "To refuse",
+        "To remind"
+      ],
+      "answer": "To agree",
+      "explanation": "'I believe that too' تعني 'أعتقد ذلك أيضاً'، فهذا موافقة (agree)."
+    },
+    {
+      "question": "Speaker A: \"Hi dear, how are you?\" Speaker B: \"I am fine, thank you.\"",
+      "options": [
+        "To threaten",
+        "To refuse",
+        "To assure",
+        "To welcome"
+      ],
+      "answer": "To assure",
+      "explanation": "'I am fine' تطمئن السائل على حاله، فهذا طمأنة (assure)."
+    },
+    {
+      "question": "Teacher: \"You are all present today, right?\" Students: \"Yes sir.\"",
+      "options": [
+        "To confirm",
+        "To express anger",
+        "To take leave",
+        "To volunteer"
+      ],
+      "answer": "To confirm",
+      "explanation": "الطلاب يؤكدون حضورهم بـ'Yes sir'، فهذا تأكيد (confirm)."
+    },
+    {
+      "question": "Speaker A: \"I am from Iraq.\" Speaker B: \"Me too, I am very glad to hear that.\"",
+      "options": [
+        "To fear",
+        "To refuse",
+        "To threaten",
+        "To show solidarity"
+      ],
+      "answer": "To show solidarity",
+      "explanation": "المتحدث الثاني يشارك الأول أصله ويعبر عن سعادته، فهذا تضامن (solidarity)."
+    },
+    {
+      "question": "Speaker A: \"My father has just died.\" Speaker B: \"I am sorry to hear that.\"",
+      "options": [
+        "To express joys",
+        "To express fear",
+        "To express condolences",
+        "To agree"
+      ],
+      "answer": "To express condolences",
+      "explanation": "'I am sorry to hear that' في سياق الوفاة تعبير عن التعازي (condolences)."
+    },
+    {
+      "question": "Speaker A: \"If you touch my kids I will call the police.\" Speaker B: \"Come on, I am joking.\"",
+      "options": [
+        "To threaten",
+        "To refuse",
+        "To assure",
+        "To claim"
+      ],
+      "answer": "To threaten",
+      "explanation": "المتحدث الأول يهدد بالاتصال بالشرطة، فهذا تهديد (threaten)."
+    },
+    {
+      "question": "Employee: \"I am quitting this job.\" Director: \"Request denied.\"",
+      "options": [
+        "To express anger",
+        "To take leave",
+        "To deny",
+        "To volunteer"
+      ],
+      "answer": "To deny",
+      "explanation": "المدير يرفض الطلب بـ'Request denied'، فهذا رفض/إنكار (deny)."
+    },
+    {
+      "question": "Speaker A: \"What are you doing here?\" Speaker B: \"None of your business!\"",
+      "options": [
+        "To inform",
+        "To express offense",
+        "To protest",
+        "To wish"
+      ],
+      "answer": "To express offense",
+      "explanation": "'None of your business' تعبر عن الانزعاج من التدخل، فهذا إساءة (offense)."
+    },
+    {
+      "question": "Speaker A: \"He is late for school.\" Speaker B: \"Let's give him a ride.\"",
+      "options": [
+        "To suggest",
+        "To blame",
+        "To assure",
+        "To confirm"
+      ],
+      "answer": "To suggest",
+      "explanation": "'Let's give him a ride' اقتراح لتوصيله، فهذا اقتراح (suggest)."
+    },
+    {
+      "question": "Speaker A: \"I am very sick.\" Speaker B: \"I wish you soon feel better.\"",
+      "options": [
+        "To announce",
+        "To condemn",
+        "To protest",
+        "To wish"
+      ],
+      "answer": "To wish",
+      "explanation": "'I wish you soon feel better' دعاء بالشفاء، فهذا تمنٍّ (wish)."
+    },
+    {
+      "question": "Speaker A: \"I feel so bored.\" Speaker B: \"Let's go to the movies.\"",
+      "options": [
+        "To urge",
+        "To blame",
+        "To suggest",
+        "To condemn"
+      ],
+      "answer": "To suggest",
+      "explanation": "'Let's go to the movies' اقتراح للترفيه، فهذا اقتراح (suggest)."
+    },
+    {
+      "question": "Speaker: \"Do not lose the ball to the opponent.\" Speaker B: \"I am doing my best.\"",
+      "options": [
+        "To question",
+        "To claim",
+        "To inform",
+        "To argue"
+      ],
+      "answer": "To inform",
+      "explanation": "المتحدث يخبر اللاعب بعدم فقدان الكرة، فهذا إخبار/توجيه (inform)."
+    },
+    {
+      "question": "Speaker A: \"Go fast, you will be late.\" Speaker B: \"I will.\"",
+      "options": [
+        "To advise",
+        "To punish",
+        "To express fear",
+        "To volunteer"
+      ],
+      "answer": "To advise",
+      "explanation": "'Go fast, you will be late' نصيحة بالإسراع، فهذا نصيحة (advise)."
+    },
+    {
+      "question": "Speaker A: \"Your shoes are full of mud.\" Speaker B: \"It is muddy outside.\"",
+      "options": [
+        "To welcome",
+        "To agree",
+        "To inform",
+        "To condemn"
+      ],
+      "answer": "To inform",
+      "explanation": "المتحدث الثاني يخبر بسبب اتساخ الحذاء، فهذا إخبار (inform)."
+    },
+    {
+      "question": "Speaker A: \"What time is it?\" Speaker B: \"10 pm.\"",
+      "options": [
+        "To agree",
+        "To condemn",
+        "To confirm",
+        "To ask"
+      ],
+      "answer": "To ask",
+      "explanation": "'What time is it?' سؤال عن الوقت، فهذا سؤال (ask)."
+    },
+    {
+      "question": "Speaker A: \"Long time no see dad.\" Speaker B: \"Welcome back my dear son.\"",
+      "options": [
+        "To welcome",
+        "To inform",
+        "To agree",
+        "To refuse"
+      ],
+      "answer": "To welcome",
+      "explanation": "الأب يرحب بعودة ابنه بـ'Welcome back'، فهذا ترحيب (welcome)."
+    },
+    {
+      "question": "Girl: \"I think I'll enter the beauty contest.\" Sister: \"Are you sure? You're rather young.\"",
+      "options": [
+        "To discourage",
+        "To advise",
+        "To suggest",
+        "To ask"
+      ],
+      "answer": "To discourage",
+      "explanation": "الأخت تشكك في القرار بسبب صغر السن، فهذا تثبيط (discourage)."
+    },
+    {
+      "question": "Student: \"Good evening, Miss Tala. I'm so glad you could come. But you look worried. Is anything the matter?\"",
+      "options": [
+        "To welcome",
+        "To greet",
+        "To compliment",
+        "To invite"
+      ],
+      "answer": "To welcome",
+      "explanation": "'I'm so glad you could come' تعبير عن الترحيب بالحضور (welcome)."
+    },
+    {
+      "question": "Mrs. Tang: \"More rice, Dear?\" Mr. Tang: \"Thanks. I'm full.\"",
+      "options": [
+        "To explain",
+        "To deny",
+        "To inform",
+        "To decline"
+      ],
+      "answer": "To decline",
+      "explanation": "السيد تانغ يرفض المزيد بلطف بـ'Thanks. I'm full'، فهذا رفض مؤدب (decline)."
+    },
+    {
+      "question": "Right! I'll see you then.",
+      "options": [
+        "To instruct",
+        "To confirm",
+        "To accept",
+        "To inform"
+      ],
+      "answer": "To confirm",
+      "explanation": "'I'll see you then' تؤكد الاتفاق على اللقاء، فهذا تأكيد (confirm)."
+    },
+    {
+      "question": "Steven: \"Rothman! Rothman!\" Rothman: \"Oh! It's you. Do come in.\"",
+      "options": [
+        "To greet",
+        "To interrupt",
+        "To invite",
+        "To instruct"
+      ],
+      "answer": "To invite",
+      "explanation": "'Do come in' دعوة للدخول، فهذا دعوة (invite)."
+    },
+    {
+      "question": "Andrew: \"He is the most popular boy in school.\" Heather: \"He is? I can't stand him at all!\"",
+      "options": [
+        "To express disgust",
+        "To express envy",
+        "To performance",
+        "To express anger"
+      ],
+      "answer": "To express disgust",
+      "explanation": "'I can't stand him at all' تعبر عن الاشمئزاز الشديد، فهذا اشمئزاز (disgust)."
+    },
+    {
+      "question": "Alan: \"Why do you look so gloomy?\" Gary: \"I am so sad. I feel like crying.\"",
+      "options": [
+        "To express shock",
+        "To express anger",
+        "To express performance",
+        "To express unhappiness"
+      ],
+      "answer": "To express unhappiness",
+      "explanation": "غاري يعبر عن حزنه ورغبته في البكاء، فهذا عدم سعادة (unhappiness)."
+    },
+    {
+      "question": "Sarah: \"I hope we will make it to the finals this year.\" Jasmine: \"We'll all try our best.\"",
+      "options": [
+        "To promise",
+        "To hope",
+        "To console",
+        "To compromise"
+      ],
+      "answer": "To promise",
+      "explanation": "'We'll all try our best' وعد ببذل الجهد، فهذا وعد (promise)."
+    },
+    {
+      "question": "Darren: \"Are you coming for the concert?\" Andrew: \"Which concert? I don't know anything about it.\"",
+      "options": [
+        "To express indifference",
+        "To express disgust",
+        "To express ignorance",
+        "To express fear"
+      ],
+      "answer": "To express ignorance",
+      "explanation": "'I don't know anything about it' تعبر عن عدم المعرفة، فهذا جهل بالموضوع (ignorance)."
+    },
+    {
+      "question": "Abdullah: \"Can you finish your assignment by Monday?\" Tammy: \"I'm sure I can finish my assignment on time.\"",
+      "options": [
+        "To compromise",
+        "To assure",
+        "To hope",
+        "To admire"
+      ],
+      "answer": "To assure",
+      "explanation": "'I'm sure I can' تؤكد القدرة على الإنجاز، فهذا طمأنة (assure)."
+    },
+    {
+      "question": "Suspect: \"I was at home all night reading.\" Detective: \"Was anyone with you?\" Suspect: \"No, I was alone.\"",
+      "options": [
+        "To confirm",
+        "To appeal",
+        "To consent",
+        "To claim"
+      ],
+      "answer": "To confirm",
+      "explanation": "المشتبه يؤكد أنه كان وحيداً، فهذا تأكيد (confirm)."
+    },
+    {
+      "question": "Son: \"I got a Grade 1, Mum.\" Mother: \"Oh, well done! I always expected you to do well.\"",
+      "options": [
+        "To express appreciation",
+        "To express admiration",
+        "To express approval",
+        "To express surprise"
+      ],
+      "answer": "To express approval",
+      "explanation": "'Well done' تعبر عن الموافقة والاستحسان، فهذا موافقة (approval)."
+    },
+    {
+      "question": "Teenager: \"May I go, Mum? Please, Mum.\" Mother: \"Well, alright. But be back by five.\"",
+      "options": [
+        "To threaten",
+        "To accept",
+        "To consent",
+        "None of the options"
+      ],
+      "answer": "To consent",
+      "explanation": "'Well, alright' موافقة على الذهاب، فهذا إذن/موافقة (consent)."
+    },
+    {
+      "question": "Mother: \"Don't you touch my cakes! They're for the party tonight.\"",
+      "options": [
+        "To request",
+        "To appeal",
+        "To order",
+        "To invite"
+      ],
+      "answer": "To order",
+      "explanation": "'Don't you touch' أمر حازم بعدم اللمس، فهذا أمر (order)."
+    },
+    {
+      "question": "Joe: \"That remark was uncalled for.\" Raymond: \"I'm sorry. I shouldn't have said it.\"",
+      "options": [
+        "To forgive",
+        "To wish",
+        "To advise",
+        "To apologize"
+      ],
+      "answer": "To apologize",
+      "explanation": "رايموند يعتذر عن كلامه، فهذا اعتذار (apologize)."
+    },
+    {
+      "question": "Rooney: \"Are we going now?\" Mother: \"Yes, don't forget to lock your room.\"",
+      "options": [
+        "To instruct",
+        "To remind",
+        "To announce",
+        "To appeal"
+      ],
+      "answer": "To remind",
+      "explanation": "الأم تذكر ابنها بقفل غرفته، فهذا تذكير (remind)."
+    },
+    {
+      "question": "Charlie: \"Gray, let's join Dark Glove's gang.\" Gary: \"No, I will never join them.\"",
+      "options": [
+        "To apologize",
+        "To suggest",
+        "To regret",
+        "To refuse"
+      ],
+      "answer": "To refuse",
+      "explanation": "غاري يرفض الانضمام بـ'No, I will never join them'، فهذا رفض (refuse)."
+    },
+    {
+      "question": "Owen: \"Please forgive me for being rude.\" Teacher: \"You're forgiven.\"",
+      "options": [
+        "To regret",
+        "To protest",
+        "To forgive",
+        "None of the options"
+      ],
+      "answer": "To forgive",
+      "explanation": "'You're forgiven' أي 'أنت مغفور لك'، فهذا مسامحة (forgive)."
+    },
+    {
+      "question": "Mother: \"I wonder why Sharon has not written for a long time.\" Barry: \"Don't worry. I'm sure she is fine.\"",
+      "options": [
+        "To confirm",
+        "To remind",
+        "To compliment",
+        "To inform"
+      ],
+      "answer": "To confirm",
+      "explanation": "'I'm sure she is fine' تؤكد أن شارون بخير، فهذا تأكيد (confirm)."
+    },
+    {
+      "question": "Ali: \"I failed the driving test again.\" Omar: \"Don't give up. You can do it next time.\"",
+      "options": [
+        "To discourage",
+        "To encourage",
+        "To blame",
+        "To threaten"
+      ],
+      "answer": "To encourage",
+      "explanation": "'Don't give up. You can do it' تشجع عمر على المحاولة، فهذا تشجيع (encourage)."
+    },
+    {
+      "question": "Sara: \"Can I borrow your book for a day?\" Layla: \"Sure, here you are.\"",
+      "options": [
+        "To refuse",
+        "To accept",
+        "To complain",
+        "To apologize"
+      ],
+      "answer": "To accept",
+      "explanation": "'Sure, here you are' قبول للطلب، فهذا قبول (accept)."
+    },
+    {
+      "question": "Waiter: \"Would you like some dessert?\" Customer: \"No, thanks. I'm on a diet.\"",
+      "options": [
+        "To accept",
+        "To decline",
+        "To order",
+        "To complain"
+      ],
+      "answer": "To decline",
+      "explanation": "'No, thanks' رفض مؤدب للعرض، فهذا رفض (decline)."
+    },
+    {
+      "question": "Tom: \"I'm sorry I broke your glass.\" Jack: \"Don't worry about it. It's not a big deal.\"",
+      "options": [
+        "To blame",
+        "To forgive",
+        "To threaten",
+        "To deny"
+      ],
+      "answer": "To forgive",
+      "explanation": "'Don't worry about it' تعني المسامحة، فهذا مسامحة (forgive)."
+    },
+    {
+      "question": "A: \"The traffic is terrible today.\" B: \"I know, I've been stuck for an hour.\"",
+      "options": [
+        "To disagree",
+        "To agree",
+        "To refuse",
+        "To warn"
+      ],
+      "answer": "To agree",
+      "explanation": "'I know' تعبر عن الموافقة على كلام المتحدث الأول، فهذا موافقة (agree)."
+    },
+    {
+      "question": "Teacher: \"You must submit your homework tomorrow.\" Student: \"Understood, sir.\"",
+      "options": [
+        "To order",
+        "To inform",
+        "To apologize",
+        "To suggest"
+      ],
+      "answer": "To order",
+      "explanation": "'You must submit' أمر واضح من المعلم، فهذا أمر (order)."
+    },
+    {
+      "question": "A: \"Watch out! There's a car coming!\"",
+      "options": [
+        "To warn",
+        "To invite",
+        "To thank",
+        "To greet"
+      ],
+      "answer": "To warn",
+      "explanation": "'Watch out!' تحذير من خطر قادم، فهذا تحذير (warn)."
+    },
+    {
+      "question": "A: \"Thank you so much for your help.\" B: \"You're welcome.\"",
+      "options": [
+        "To apologize",
+        "To thank",
+        "To respond to thanks",
+        "To complain"
+      ],
+      "answer": "To respond to thanks",
+      "explanation": "'You're welcome' رد على الشكر، فهذا رد على الشكر (respond to thanks)."
+    },
+    {
+      "question": "A: \"Would you mind closing the window?\" B: \"Not at all.\"",
+      "options": [
+        "To request",
+        "To order",
+        "To threaten",
+        "To deny"
+      ],
+      "answer": "To request",
+      "explanation": "'Would you mind...?' طلب مؤدب، فهذا طلب (request)."
+    },
+    {
+      "question": "A: \"Congratulations on your graduation!\" B: \"Thank you!\"",
+      "options": [
+        "To congratulate",
+        "To apologize",
+        "To complain",
+        "To refuse"
+      ],
+      "answer": "To congratulate",
+      "explanation": "'Congratulations' تهنئة صريحة، فهذا تهنئة (congratulate)."
+    },
+    {
+      "question": "A: \"I'm afraid I can't come to your party.\" B: \"That's a pity.\"",
+      "options": [
+        "To accept",
+        "To refuse",
+        "To invite",
+        "To thank"
+      ],
+      "answer": "To refuse",
+      "explanation": "'I'm afraid I can't come' رفض مؤدب للدعوة، فهذا رفض (refuse)."
+    },
+    {
+      "question": "A: \"You should try this restaurant; the food is amazing.\" B: \"I'll give it a try.\"",
+      "options": [
+        "To suggest",
+        "To order",
+        "To blame",
+        "To deny"
+      ],
+      "answer": "To suggest",
+      "explanation": "'You should try' اقتراح بتجربة المطعم، فهذا اقتراح (suggest)."
+    },
+    {
+      "question": "A: \"I'm really sorry for the misunderstanding.\" B: \"It's fine, don't worry.\"",
+      "options": [
+        "To apologize",
+        "To complain",
+        "To warn",
+        "To invite"
+      ],
+      "answer": "To apologize",
+      "explanation": "'I'm really sorry' اعتذار عن سوء الفهم، فهذا اعتذار (apologize)."
+    },
+    {
+      "question": "A: \"Could you please pass me the salt?\" B: \"Here you go.\"",
+      "options": [
+        "To request",
+        "To offer",
+        "To apologize",
+        "To complain"
+      ],
+      "answer": "To request",
+      "explanation": "'Could you please pass...' طلب مؤدب، فهذا طلب (request)."
+    },
+    {
+      "question": "A: \"I've got a terrible cold.\" B: \"You should stay in bed and rest.\"",
+      "options": [
+        "To advise",
+        "To order",
+        "To threaten",
+        "To deny"
+      ],
+      "answer": "To advise",
+      "explanation": "'You should stay in bed' نصيحة بالراحة، فهذا نصيحة (advise)."
+    },
+    {
+      "question": "A: \"Let's meet at 5 o'clock.\" B: \"That works for me.\"",
+      "options": [
+        "To agree",
+        "To refuse",
+        "To complain",
+        "To apologize"
+      ],
+      "answer": "To agree",
+      "explanation": "'That works for me' موافقة على الموعد، فهذا موافقة (agree)."
+    },
+    {
+      "question": "A: \"I can't believe you did that!\" B: \"I'm sorry, I didn't mean to.\"",
+      "options": [
+        "To apologize",
+        "To congratulate",
+        "To invite",
+        "To warn"
+      ],
+      "answer": "To apologize",
+      "explanation": "'I'm sorry, I didn't mean to' اعتذار عن الفعل، فهذا اعتذار (apologize)."
+    },
+    {
+      "question": "A: \"Do you want to join us for dinner?\" B: \"I'd love to, thank you.\"",
+      "options": [
+        "To accept",
+        "To refuse",
+        "To complain",
+        "To blame"
+      ],
+      "answer": "To accept",
+      "explanation": "'I'd love to' قبول الدعوة، فهذا قبول (accept)."
+    },
+    {
+      "question": "A: \"The movie starts at 8.\" B: \"Thanks for letting me know.\"",
+      "options": [
+        "To inform",
+        "To order",
+        "To apologize",
+        "To threaten"
+      ],
+      "answer": "To inform",
+      "explanation": "'The movie starts at 8' إخبار بمعلومة، فهذا إخبار (inform)."
+    },
+    {
+      "question": "A: \"You're late again!\" B: \"I know, I'm really sorry.\"",
+      "options": [
+        "To blame",
+        "To congratulate",
+        "To invite",
+        "To thank"
+      ],
+      "answer": "To blame",
+      "explanation": "'You're late again!' لوم على التأخير، فهذا لوم (blame)."
+    },
+    {
+      "question": "A: \"I passed the exam!\" B: \"That's great news! Well done!\"",
+      "options": [
+        "To congratulate",
+        "To complain",
+        "To refuse",
+        "To warn"
+      ],
+      "answer": "To congratulate",
+      "explanation": "'Well done!' تهنئة بالنجاح، فهذا تهنئة (congratulate)."
+    },
+    {
+      "question": "A: \"Could I have a glass of water, please?\" B: \"Of course.\"",
+      "options": [
+        "To request",
+        "To offer",
+        "To deny",
+        "To blame"
+      ],
+      "answer": "To request",
+      "explanation": "'Could I have...?' طلب مؤدب، فهذا طلب (request)."
+    },
+    {
+      "question": "A: \"I think it's going to rain.\" B: \"I don't think so; the sky is clear.\"",
+      "options": [
+        "To disagree",
+        "To agree",
+        "To accept",
+        "To thank"
+      ],
+      "answer": "To disagree",
+      "explanation": "'I don't think so' تعارض رأي المتحدث الأول، فهذا اختلاف (disagree)."
+    },
+    {
+      "question": "A: \"Would you like me to help you with that?\" B: \"Yes, please. That's very kind.\"",
+      "options": [
+        "To offer help",
+        "To request",
+        "To complain",
+        "To apologize"
+      ],
+      "answer": "To offer help",
+      "explanation": "'Would you like me to help' عرض مساعدة، فهذا عرض مساعدة (offer help)."
+    },
+    {
+      "question": "A: \"I'm afraid I have to go now.\" B: \"OK, see you later.\"",
+      "options": [
+        "To take leave",
+        "To greet",
+        "To blame",
+        "To invite"
+      ],
+      "answer": "To take leave",
+      "explanation": "'I have to go now' استئذان بالمغادرة، فهذا استئذان (take leave)."
+    },
+    {
+      "question": "A: \"Nice to meet you.\" B: \"Nice to meet you too.\"",
+      "options": [
+        "To greet",
+        "To apologize",
+        "To complain",
+        "To refuse"
+      ],
+      "answer": "To greet",
+      "explanation": "'Nice to meet you' تحية عند اللقاء، فهذا تحية (greet)."
+    },
+    {
+      "question": "A: \"You look beautiful in that dress!\" B: \"Thank you!\"",
+      "options": [
+        "To compliment",
+        "To blame",
+        "To warn",
+        "To deny"
+      ],
+      "answer": "To compliment",
+      "explanation": "'You look beautiful' إطراء على المظهر، فهذا إطراء (compliment)."
+    },
+    {
+      "question": "A: \"I'm sorry for your loss.\" B: \"Thank you for your kindness.\"",
+      "options": [
+        "To express condolences",
+        "To congratulate",
+        "To invite",
+        "To order"
+      ],
+      "answer": "To express condolences",
+      "explanation": "'I'm sorry for your loss' تعزية في وفاة، فهذا تعازي (condolences)."
+    },
+    {
+      "question": "A: \"If you don't study, you will fail.\"",
+      "options": [
+        "To warn",
+        "To invite",
+        "To thank",
+        "To greet"
+      ],
+      "answer": "To warn",
+      "explanation": "العبارة تحذر من عاقبة عدم الدراسة، فهذا تحذير (warn)."
+    },
+    {
+      "question": "A: \"Let's go to the beach this weekend.\" B: \"That sounds like a great idea.\"",
+      "options": [
+        "To agree",
+        "To refuse",
+        "To complain",
+        "To apologize"
+      ],
+      "answer": "To agree",
+      "explanation": "'That sounds like a great idea' موافقة على الاقتراح، فهذا موافقة (agree)."
+    },
+    {
+      "question": "A: \"I'm so excited about the trip!\" B: \"Me too!\"",
+      "options": [
+        "To agree",
+        "To disagree",
+        "To blame",
+        "To warn"
+      ],
+      "answer": "To agree",
+      "explanation": "'Me too!' مشاركة في الشعور، فهذا موافقة (agree)."
+    },
+    {
+      "question": "A: \"Please don't be late again.\" B: \"I promise I won't.\"",
+      "options": [
+        "To promise",
+        "To apologize",
+        "To complain",
+        "To invite"
+      ],
+      "answer": "To promise",
+      "explanation": "'I promise I won't' وعد بعدم التأخير، فهذا وعد (promise)."
+    },
+    {
+      "question": "A: \"I'm not feeling well today.\" B: \"I hope you feel better soon.\"",
+      "options": [
+        "To wish",
+        "To blame",
+        "To order",
+        "To deny"
+      ],
+      "answer": "To wish",
+      "explanation": "'I hope you feel better' تمنٍّ بالشفاء، فهذا تمنٍّ (wish)."
+    },
+    {
+      "question": "A: \"Can you help me with this exercise?\" B: \"I'm afraid I'm busy right now.\"",
+      "options": [
+        "To refuse",
+        "To accept",
+        "To thank",
+        "To greet"
+      ],
+      "answer": "To refuse",
+      "explanation": "'I'm afraid I'm busy' رفض مؤدب للمساعدة، فهذا رفض (refuse)."
+    },
+    {
+      "question": "A: \"You did a great job on the project.\" B: \"Thanks, I appreciate that.\"",
+      "options": [
+        "To compliment",
+        "To complain",
+        "To warn",
+        "To invite"
+      ],
+      "answer": "To compliment",
+      "explanation": "'You did a great job' إطراء على العمل، فهذا إطراء (compliment)."
+    },
+    {
+      "question": "A: \"I'm calling to ask about the job vacancy.\" B: \"Sure, how can I help?\"",
+      "options": [
+        "To ask for information",
+        "To complain",
+        "To apologize",
+        "To refuse"
+      ],
+      "answer": "To ask for information",
+      "explanation": "'I'm calling to ask about...' طلب معلومات، فهذا سؤال عن معلومات (ask for information)."
+    },
+    {
+      "question": "A: \"I'm afraid I can't agree with you.\" B: \"That's your right.\"",
+      "options": [
+        "To disagree",
+        "To agree",
+        "To accept",
+        "To thank"
+      ],
+      "answer": "To disagree",
+      "explanation": "'I can't agree with you' تعارض الرأي، فهذا اختلاف (disagree)."
+    },
+    {
+      "question": "A: \"Would you like to come to my wedding?\" B: \"I'd be honored.\"",
+      "options": [
+        "To accept",
+        "To refuse",
+        "To complain",
+        "To blame"
+      ],
+      "answer": "To accept",
+      "explanation": "'I'd be honored' قبول الدعوة، فهذا قبول (accept)."
+    },
+    {
+      "question": "A: \"I'm sorry, I can't hear you clearly.\" B: \"Let me repeat that.\"",
+      "options": [
+        "To request repetition",
+        "To apologize",
+        "To complain",
+        "To invite"
+      ],
+      "answer": "To request repetition",
+      "explanation": "'I can't hear you clearly' طلب إعادة الكلام، فهذا طلب إعادة (request repetition)."
+    },
+    {
+      "question": "A: \"The meeting is cancelled.\" B: \"Oh, I didn't know that.\"",
+      "options": [
+        "To inform",
+        "To order",
+        "To apologize",
+        "To threaten"
+      ],
+      "answer": "To inform",
+      "explanation": "'The meeting is cancelled' إخبار بمعلومة، فهذا إخبار (inform)."
+    },
+    {
+      "question": "A: \"You should apologize to her.\" B: \"You're right, I will.\"",
+      "options": [
+        "To advise",
+        "To order",
+        "To threaten",
+        "To deny"
+      ],
+      "answer": "To advise",
+      "explanation": "'You should apologize' نصيحة بالاعتذار، فهذا نصيحة (advise)."
+    },
+    {
+      "question": "A: \"I'm so happy for you!\" B: \"Thank you!\"",
+      "options": [
+        "To express happiness for someone",
+        "To complain",
+        "To refuse",
+        "To warn"
+      ],
+      "answer": "To express happiness for someone",
+      "explanation": "'I'm so happy for you' تعبير عن السعادة للآخر، فهذا سعادة للآخر (happiness for someone)."
+    },
+    {
+      "question": "A: \"Could you speak more slowly, please?\"",
+      "options": [
+        "To request",
+        "To order",
+        "To apologize",
+        "To invite"
+      ],
+      "answer": "To request",
+      "explanation": "'Could you speak more slowly' طلب مؤدب، فهذا طلب (request)."
+    },
+    {
+      "question": "A: \"I'm really grateful for everything you've done.\"",
+      "options": [
+        "To express gratitude",
+        "To complain",
+        "To blame",
+        "To deny"
+      ],
+      "answer": "To express gratitude",
+      "explanation": "'I'm really grateful' تعبير عن الامتنان، فهذا امتنان (gratitude)."
+    },
+    {
+      "question": "A: \"Don't worry, everything will be fine.\"",
+      "options": [
+        "To reassure",
+        "To threaten",
+        "To blame",
+        "To refuse"
+      ],
+      "answer": "To reassure",
+      "explanation": "'Everything will be fine' طمأنة، فهذا طمأنة (reassure)."
+    },
+    {
+      "question": "A: \"I'm sorry to interrupt, but may I ask a question?\"",
+      "options": [
+        "To apologize and request",
+        "To order",
+        "To invite",
+        "To complain"
+      ],
+      "answer": "To apologize and request",
+      "explanation": "العبارة تجمع اعتذاراً ('I'm sorry to interrupt') وطلباً ('may I ask')، فهي اعتذار وطلب معاً."
+    },
+    {
+      "question": "A: \"Let me know if you need anything.\"",
+      "options": [
+        "To offer help",
+        "To request",
+        "To complain",
+        "To blame"
+      ],
+      "answer": "To offer help",
+      "explanation": "'Let me know if you need anything' عرض مساعدة، فهذا عرض مساعدة (offer help)."
+    },
+    {
+      "question": "A: \"I'm afraid that's not possible.\"",
+      "options": [
+        "To refuse politely",
+        "To accept",
+        "To thank",
+        "To greet"
+      ],
+      "answer": "To refuse politely",
+      "explanation": "'I'm afraid that's not possible' رفض مؤدب، فهذا رفض مؤدب (refuse politely)."
+    },
+    {
+      "question": "A: \"You must be exhausted after the long trip.\"",
+      "options": [
+        "To show sympathy",
+        "To order",
+        "To blame",
+        "To deny"
+      ],
+      "answer": "To show sympathy",
+      "explanation": "'You must be exhausted' تعبير عن التعاطف، فهذا تعاطف (sympathy)."
+    },
+    {
+      "question": "A: \"I can't thank you enough.\"",
+      "options": [
+        "To express gratitude",
+        "To complain",
+        "To refuse",
+        "To warn"
+      ],
+      "answer": "To express gratitude",
+      "explanation": "'I can't thank you enough' تعبير قوي عن الامتنان، فهذا امتنان (gratitude)."
+    },
+    {
+      "question": "A: \"Would it be possible to change the appointment?\"",
+      "options": [
+        "To request",
+        "To order",
+        "To apologize",
+        "To invite"
+      ],
+      "answer": "To request",
+      "explanation": "'Would it be possible...' طلب مؤدب لتغيير الموعد، فهذا طلب (request)."
+    },
+    {
+      "question": "A: \"I'm afraid I have some bad news.\"",
+      "options": [
+        "To announce bad news",
+        "To congratulate",
+        "To invite",
+        "To thank"
+      ],
+      "answer": "To announce bad news",
+      "explanation": "'I have some bad news' إعلان خبر سيئ، فهذا إعلان خبر سيئ (announce bad news)."
+    },
+    {
+      "question": "A: \"That's a wonderful idea!\"",
+      "options": [
+        "To agree/approve",
+        "To refuse",
+        "To complain",
+        "To blame"
+      ],
+      "answer": "To agree/approve",
+      "explanation": "'That's a wonderful idea' موافقة واستحسان، فهذا موافقة/استحسان (agree/approve)."
+    }
+  ]
+}
