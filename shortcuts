@@ -1,0 +1,2336 @@
+{
+  "questions": [
+    {
+      "question": "What is the shortcut key combination to copy selected text or items in Windows?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + A"
+      ],
+      "answer": "Ctrl + C",
+      "explanation": "اختصار Ctrl + C يُستخدم لنسخ النصوص أو العناصر المحددة إلى الحافظة."
+    },
+    {
+      "question": "Which shortcut is used to paste the copied content in Windows?",
+      "options": [
+        "Ctrl + P",
+        "Ctrl + V",
+        "Ctrl + Z",
+        "Ctrl + S"
+      ],
+      "answer": "Ctrl + V",
+      "explanation": "اختصار Ctrl + V يُستخدم لصق المحتوى المنسوخ أو المنقول من الحافظة."
+    },
+    {
+      "question": "What does the shortcut Ctrl + X do in Windows?",
+      "options": [
+        "Copy",
+        "Cut",
+        "Paste",
+        "Delete"
+      ],
+      "answer": "Cut",
+      "explanation": "اختصار Ctrl + X يُستخدم لقص العناصر أو النصوص المحددة لإزالتها ونقلها لمكان آخر."
+    },
+    {
+      "question": "Which shortcut allows you to select all items or text in a document or window?",
+      "options": [
+        "Ctrl + A",
+        "Ctrl + F",
+        "Ctrl + N",
+        "Ctrl + S"
+      ],
+      "answer": "Ctrl + A",
+      "explanation": "اختصار Ctrl + A يُستخدم لتحديد الكل (Select All) في المستندات أو النوافذ المفتوحة."
+    },
+    {
+      "question": "What is the shortcut to undo the last action in Windows and Office applications?",
+      "options": [
+        "Ctrl + Y",
+        "Ctrl + Z",
+        "Ctrl + U",
+        "Ctrl + R"
+      ],
+      "answer": "Ctrl + Z",
+      "explanation": "اختصار Ctrl + Z يُستخدم التراجع عن آخر إجراء قمت به (Undo)."
+    },
+    {
+      "question": "Which shortcut is used to redo an action that was undone?",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl + Y",
+        "Ctrl + D",
+        "Ctrl + E"
+      ],
+      "answer": "Ctrl + Y",
+      "explanation": "اختصار Ctrl + Y يُستخدم لإعادة تنفيذ الإجراء الذي تم التراجع عنه (Redo)."
+    },
+    {
+      "question": "What shortcut is used to save a file or document?",
+      "options": [
+        "Ctrl + O",
+        "Ctrl + S",
+        "Ctrl + N",
+        "Ctrl + W"
+      ],
+      "answer": "Ctrl + S",
+      "explanation": "اختصار Ctrl + S يُستخدم لحفظ الملف الحالي بسرعة."
+    },
+    {
+      "question": "Which shortcut opens the Find dialog box to search for text in a file?",
+      "options": [
+        "Ctrl + H",
+        "Ctrl + F",
+        "Ctrl + G",
+        "Ctrl + P"
+      ],
+      "answer": "Ctrl + F",
+      "explanation": "اختصار Ctrl + F يُستخدم لفتح نافذة البحث (Find) داخل المستند أو الصفحة."
+    },
+    {
+      "question": "What shortcut is used to open the Find and Replace dialog box?",
+      "options": [
+        "Ctrl + F",
+        "Ctrl + H",
+        "Ctrl + R",
+        "Ctrl + T"
+      ],
+      "answer": "Ctrl + H",
+      "explanation": "اختصار Ctrl + H يُستخدم لفتح نافذة البحث والاستبدال (Find and Replace)."
+    },
+    {
+      "question": "Which shortcut opens a new file or document in most programs?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + O",
+        "Ctrl + P",
+        "Ctrl + Q"
+      ],
+      "answer": "Ctrl + N",
+      "explanation": "اختصار Ctrl + N يُستخدم لإنشاء أو فتح مستند أو نافذة جديدة (New)."
+    },
+    {
+      "question": "What shortcut is used to open an existing file?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + O",
+        "Ctrl + S",
+        "Ctrl + W"
+      ],
+      "answer": "Ctrl + O",
+      "explanation": "اختصار Ctrl + O يُستخدم لفتح ملف موجود مسبقاً (Open)."
+    },
+    {
+      "question": "Which shortcut is used to print a document or page?",
+      "options": [
+        "Ctrl + P",
+        "Ctrl + PrtSc",
+        "Ctrl + Shift + P",
+        "Ctrl + Alt + P"
+      ],
+      "answer": "Ctrl + P",
+      "explanation": "اختصار Ctrl + P يُستخدم لفتح خيارات طباعة المستند (Print)."
+    },
+    {
+      "question": "What shortcut closes the active window or program?",
+      "options": [
+        "Ctrl + W",
+        "Ctrl + Q",
+        "Ctrl + F4",
+        "Ctrl + C"
+      ],
+      "answer": "Ctrl + W",
+      "explanation": "اختصار Ctrl + W (أو Ctrl + F4) يُستخدم لإغلاق النافذة أو المستند النشط حالياً."
+    },
+    {
+      "question": "Which shortcut locks your Windows computer or switches users?",
+      "options": [
+        "Ctrl + Alt + Delete",
+        "Ctrl + Shift + Esc",
+        "Ctrl + L",
+        "Ctrl + K"
+      ],
+      "answer": "Ctrl + Alt + Delete",
+      "explanation": "اختصار Ctrl + Alt + Delete يعرض خيارات الأمان مثل قفل الكمبيوتر، تبديل المستخدم، أو فتح مدير المهام."
+    },
+    {
+      "question": "What shortcut opens the Task Manager directly in Windows?",
+      "options": [
+        "Ctrl + Shift + Esc",
+        "Ctrl + Alt + T",
+        "Ctrl + T",
+        "Ctrl + Esc"
+      ],
+      "answer": "Ctrl + Shift + Esc",
+      "explanation": "اختصار Ctrl + Shift + Esc يفتح مدير المهام (Task Manager) بشكل مباشر."
+    },
+    {
+      "question": "Which shortcut toggles between open apps or windows?",
+      "options": [
+        "Ctrl + Tab",
+        "Alt + Tab",
+        "Ctrl + Esc",
+        "Win + Tab"
+      ],
+      "answer": "Alt + Tab",
+      "explanation": "اختصار Alt + Tab يُستخدم للتنقل السريع بين النوافذ والتطبيقات المفتوحة."
+    },
+    {
+      "question": "What shortcut opens the Start Menu in Windows?",
+      "options": [
+        "Ctrl + Esc",
+        "Ctrl + Space",
+        "Ctrl + Shift",
+        "Ctrl + Win"
+      ],
+      "answer": "Ctrl + Esc",
+      "explanation": "اختصار Ctrl + Esc يفتح قائمة ابدأ (Start Menu) كبديل لزر ويندوز."
+    },
+    {
+      "question": "Which shortcut is used in web browsers to open a closed tab?",
+      "options": [
+        "Ctrl + Shift + T",
+        "Ctrl + T",
+        "Ctrl + N",
+        "Ctrl + Shift + N"
+      ],
+      "answer": "Ctrl + Shift + T",
+      "explanation": "اختصار Ctrl + Shift + T يُعيد فتح آخر تبويب تم إغلاقه في المتصفح."
+    },
+    {
+      "question": "What shortcut opens a new browser tab?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + T",
+        "Ctrl + B",
+        "Ctrl + Shift + T"
+      ],
+      "answer": "Ctrl + T",
+      "explanation": "اختصار Ctrl + T يفتح علامة تبويب جديدة (New Tab) في متصفحات الويب."
+    },
+    {
+      "question": "Which shortcut opens an Incognito or Private browsing window?",
+      "options": [
+        "Ctrl + Shift + N",
+        "Ctrl + Shift + P",
+        "Ctrl + Alt + N",
+        "Ctrl + I"
+      ],
+      "answer": "Ctrl + Shift + N",
+      "explanation": "اختصار Ctrl + Shift + N يفتح نافذة تصفح مخفي (Incognito) في معظم المتصفحات."
+    },
+    {
+      "question": "What shortcut is used to bold selected text in Microsoft Word?",
+      "options": [
+        "Ctrl + B",
+        "Ctrl + D",
+        "Ctrl + L",
+        "Ctrl + M"
+      ],
+      "answer": "Ctrl + B",
+      "explanation": "اختصار Ctrl + B يُستخدم لجعل النص المحدد غامقاً (Bold)."
+    },
+    {
+      "question": "Which shortcut makes selected text italic in Microsoft Word?",
+      "options": [
+        "Ctrl + I",
+        "Ctrl + T",
+        "Ctrl + E",
+        "Ctrl + Shift + I"
+      ],
+      "answer": "Ctrl + I",
+      "explanation": "اختصار Ctrl + I يُستخدم لجعل النص المحدد مائلاً (Italic)."
+    },
+    {
+      "question": "What shortcut underlines selected text in Microsoft Word?",
+      "options": [
+        "Ctrl + U",
+        "Ctrl + Line",
+        "Ctrl + Underline",
+        "Ctrl + Shift + U"
+      ],
+      "answer": "Ctrl + U",
+      "explanation": "اختصار Ctrl + U يُستخدم لإضافة خط تحت النص المحدد (Underline)."
+    },
+    {
+      "question": "Which shortcut aligns text to the center in Microsoft Word?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + E",
+        "Ctrl + M",
+        "Ctrl + T"
+      ],
+      "answer": "Ctrl + E",
+      "explanation": "اختصار Ctrl + E يُستخدم لمحاذاة النص إلى المنتصف (Center) في برامج التحرير."
+    },
+    {
+      "question": "What shortcut aligns text to the left in Microsoft Word?",
+      "options": [
+        "Ctrl + L",
+        "Ctrl + Left",
+        "Ctrl + Shift + L",
+        "Ctrl + A"
+      ],
+      "answer": "Ctrl + L",
+      "explanation": "اختصار Ctrl + L يُستخدم لمحاذاة النص إلى اليسار (Left align)."
+    },
+    {
+      "question": "Which shortcut aligns text to the right in Microsoft Word?",
+      "options": [
+        "Ctrl + R",
+        "Ctrl + Right",
+        "Ctrl + Shift + R",
+        "Ctrl + D"
+      ],
+      "answer": "Ctrl + R",
+      "explanation": "اختصار Ctrl + R يُستخدم لمحاذاة النص إلى اليمين (Right align)."
+    },
+    {
+      "question": "What shortcut justifies text (aligns both left and right margins) in Word?",
+      "options": [
+        "Ctrl + J",
+        "Ctrl + Justify",
+        "Ctrl + F",
+        "Ctrl + Shift + J"
+      ],
+      "answer": "Ctrl + J",
+      "explanation": "اختصار Ctrl + J يُستخدم لضبط النص (Justify) ليتساوى الطرفين."
+    },
+    {
+      "question": "Which shortcut opens the Font formatting dialog box in Microsoft Word?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + F",
+        "Ctrl + Shift + F",
+        "Ctrl + Font"
+      ],
+      "answer": "Ctrl + D",
+      "explanation": "اختصار Ctrl + D يفتح نافذة إعدادات الخط (Font) لتغيير نوعه وحجمه وتأثيراته."
+    },
+    {
+      "question": "What shortcut increases the font size of selected text by 1 point in Word?",
+      "options": [
+        "Ctrl + ]",
+        "Ctrl + [",
+        "Ctrl + Shift + >",
+        "Ctrl + +"
+      ],
+      "answer": "Ctrl + ]",
+      "explanation": "اختصار Ctrl + ] يُستخدم لزيادة حجم الخط بمقدار نقطة واحدة."
+    },
+    {
+      "question": "Which shortcut decreases the font size of selected text by 1 point in Word?",
+      "options": [
+        "Ctrl + ]",
+        "Ctrl + [",
+        "Ctrl + Shift + <",
+        "Ctrl + -"
+      ],
+      "answer": "Ctrl + [",
+      "explanation": "اختصار Ctrl + [ يُستخدم تقليل حجم الخط بمقدار نقطة واحدة."
+    },
+    {
+      "question": "What shortcut inserts a page break in Microsoft Word?",
+      "options": [
+        "Ctrl + Enter",
+        "Ctrl + Shift + Enter",
+        "Ctrl + P",
+        "Ctrl + B"
+      ],
+      "answer": "Ctrl + Enter",
+      "explanation": "اختصار Ctrl + Enter يُستخدم لإدراج فاصل صفحات (Page Break) والانتقال للصفحة التالية مباشرة."
+    },
+    {
+      "question": "Which shortcut opens the Spelling and Grammar check tool in Word?",
+      "options": [
+        "F7",
+        "Ctrl + F7",
+        "Ctrl + S",
+        "Ctrl + Alt + S"
+      ],
+      "answer": "F7",
+      "explanation": "مفتاح F7 يُستخدم لتدقيق الإمساك والقواعد (Spelling & Grammar) في حزمة أوفيس."
+    },
+    {
+      "question": "What shortcut creates a hanging indent in Microsoft Word?",
+      "options": [
+        "Ctrl + T",
+        "Ctrl + H",
+        "Ctrl + M",
+        "Ctrl + I"
+      ],
+      "answer": "Ctrl + T",
+      "explanation": "اختصار Ctrl + T يُستخدم لإنشاء إزاحة معلقة (Hanging Indent) حيث يثبت السطر الأول ويتحرك الباقي."
+    },
+    {
+      "question": "Which shortcut removes paragraph formatting in Microsoft Word?",
+      "options": [
+        "Ctrl + Q",
+        "Ctrl + Space",
+        "Ctrl + Shift + Q",
+        "Ctrl + R"
+      ],
+      "answer": "Ctrl + Q",
+      "explanation": "اختصار Ctrl + Q يُستخدم لإزالة تنسيق الفقرة وإعادتها للافتراضي."
+    },
+    {
+      "question": "What shortcut removes character formatting (like bold, italic) in Word?",
+      "options": [
+        "Ctrl + Space",
+        "Ctrl + Shift + S",
+        "Ctrl + C",
+        "Ctrl + X"
+      ],
+      "answer": "Ctrl + Space",
+      "explanation": "اختصار Ctrl + Space يعيد النص المحدد إلى تنسيق الخط الافتراضي مع إزالة التنسيقات اليدوية."
+    },
+    {
+      "question": "Which shortcut opens the Navigation pane to search headings and pages in Word?",
+      "options": [
+        "Ctrl + F",
+        "Ctrl + Shift + F",
+        "Ctrl + Alt + F",
+        "Ctrl + N"
+      ],
+      "answer": "Ctrl + F",
+      "explanation": "اختصار Ctrl + F في وورد يفتح لوحة التنقل (Navigation Pane) للبحث السريع عن الكلمات والعناوين."
+    },
+    {
+      "question": "What shortcut selects the entire current paragraph in Word by clicking?",
+      "options": [
+        "Triple click",
+        "Double click",
+        "Ctrl + Click",
+        "Shift + Click"
+      ],
+      "answer": "Triple click",
+      "explanation": "النقر ثلاث مرات متتالية (Triple click) يحدد الفقرة الحالية بالكامل في معالج النصوص."
+    },
+    {
+      "question": "Which shortcut selects a single word in Word by clicking?",
+      "options": [
+        "Double click",
+        "Triple click",
+        "Single click",
+        "Ctrl + Click"
+      ],
+      "answer": "Double click",
+      "explanation": "النقر المزدوج (Double click) فوق الكلمة يحددها بالكامل."
+    },
+    {
+      "question": "What shortcut opens the Hyperlink dialog box in Office applications?",
+      "options": [
+        "Ctrl + K",
+        "Ctrl + H",
+        "Ctrl + L",
+        "Ctrl + Link"
+      ],
+      "answer": "Ctrl + K",
+      "explanation": "اختصار Ctrl + K يُستخدم لإدراج أو تعديل ارتباط تشعبي (Hyperlink)."
+    },
+    {
+      "question": "Which shortcut opens the Go To dialog box in Word and Excel?",
+      "options": [
+        "Ctrl + G",
+        "Ctrl + T",
+        "Ctrl + Shift + G",
+        "Ctrl + J"
+      ],
+      "answer": "Ctrl + G",
+      "explanation": "اختصار Ctrl + G يُستخدم لفتح نافذة الانتقال السريع (Go To) لصفحة أو سطر أو خلية معينة."
+    },
+    {
+      "question": "What shortcut creates a new workbook or opens a blank worksheet in Excel?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + Shift + N",
+        "Ctrl + Alt + N",
+        "Ctrl + W"
+      ],
+      "answer": "Ctrl + N",
+      "explanation": "اختصار Ctrl + N يُستخدم لإنشاء مصنف عمل جديد (New Workbook) في إكسل."
+    },
+    {
+      "question": "Which shortcut opens the Format Cells dialog box in Excel?",
+      "options": [
+        "Ctrl + 1",
+        "Ctrl + F1",
+        "Ctrl + Shift + F",
+        "Ctrl + D"
+      ],
+      "answer": "Ctrl + 1",
+      "explanation": "اختصار Ctrl + 1 يفتح نافذة تنسيق الخلايا الشهيرة (Format Cells) في إكسل."
+    },
+    {
+      "question": "What shortcut bolds text or numbers in the active Excel cells?",
+      "options": [
+        "Ctrl + B",
+        "Ctrl + Shift + B",
+        "Ctrl + 2",
+        "Ctrl + Alt + B"
+      ],
+      "answer": "Ctrl + B",
+      "explanation": "اختصار Ctrl + B (أو Ctrl + 2) يجعل محتوى الخلايا المحددة غامقاً (Bold)."
+    },
+    {
+      "question": "Which shortcut italicizes text in Excel cells?",
+      "options": [
+        "Ctrl + I",
+        "Ctrl + 3",
+        "Ctrl + Shift + I",
+        "Ctrl + T"
+      ],
+      "answer": "Ctrl + I",
+      "explanation": "اختصار Ctrl + I (أو Ctrl + 3) يجعل محتوى الخلايا مائلاً (Italic)."
+    },
+    {
+      "question": "What shortcut underlines contents of selected cells in Excel?",
+      "options": [
+        "Ctrl + U",
+        "Ctrl + 4",
+        "Ctrl + Shift + U",
+        "Ctrl + L"
+      ],
+      "answer": "Ctrl + U",
+      "explanation": "اختصار Ctrl + U (أو Ctrl + 4) يضع خطاً تحت النص أو الأرقام في الخلايا المحددة."
+    },
+    {
+      "question": "Which shortcut applies or removes strikethrough formatting in Excel?",
+      "options": [
+        "Ctrl + 5",
+        "Ctrl + S",
+        "Ctrl + Shift + S",
+        "Ctrl + 6"
+      ],
+      "answer": "Ctrl + 5",
+      "explanation": "اختصار Ctrl + 5 يُستخدم لتطبيق أو إزالة يتوسطه خط (Strikethrough) على الخلايا."
+    },
+    {
+      "question": "What shortcut fills data downward from the cell above in Excel?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + Down",
+        "Ctrl + Shift + D",
+        "Ctrl + F"
+      ],
+      "answer": "Ctrl + D",
+      "explanation": "اختصار Ctrl + D ينسخ المحتوى والتنسيق من الخلية العليا إلى الخلايا التي أسفلها (Fill Down)."
+    },
+    {
+      "question": "Which shortcut fills data to the right from the cell on the left in Excel?",
+      "options": [
+        "Ctrl + R",
+        "Ctrl + Right",
+        "Ctrl + Shift + R",
+        "Ctrl + F"
+      ],
+      "answer": "Ctrl + R",
+      "explanation": "اختصار Ctrl + R ينسخ المحتوى والتنسيق من الخلية اليسرى إلى الخلايا التي يمينها (Fill Right)."
+    },
+    {
+      "question": "What shortcut inserts the current time into an Excel cell?",
+      "options": [
+        "Ctrl + Shift + :",
+        "Ctrl + T",
+        "Ctrl + Alt + T",
+        "Ctrl + :"
+      ],
+      "answer": "Ctrl + Shift + :",
+      "explanation": "اختصار Ctrl + Shift + : يُستخدم لإدراج الوقت الحالي الثابت في الخلية."
+    },
+    {
+      "question": "Which shortcut inserts the current date into an Excel cell?",
+      "options": [
+        "Ctrl + ;",
+        "Ctrl + D",
+        "Ctrl + Shift + D",
+        "Ctrl + Alt + D"
+      ],
+      "answer": "Ctrl + ;",
+      "explanation": "اختصار Ctrl + ; يُستخدم لإدراج التاريخ الحالي الثابت في الخلية."
+    },
+    {
+      "question": "What shortcut switches between formula view and normal value view in Excel?",
+      "options": [
+        "Ctrl + `",
+        "Ctrl + F",
+        "Ctrl + ~",
+        "Ctrl + Shift + F"
+      ],
+      "answer": "Ctrl + `",
+      "explanation": "اختصار Ctrl + ` (مفتاح التلدة الموجود قرب زر الذال) يُظهر جميع الصيغ المستخدمة في ورقة العمل بدلاً من نواتجها."
+    },
+    {
+      "question": "Which shortcut hides selected rows in Excel?",
+      "options": [
+        "Ctrl + 9",
+        "Ctrl + Shift + 9",
+        "Ctrl + H",
+        "Ctrl + R"
+      ],
+      "answer": "Ctrl + 9",
+      "explanation": "اختصار Ctrl + 9 يُستخدم لإخفاء الصفوف المحددة (Hide Rows)."
+    },
+    {
+      "question": "What shortcut unhides any hidden rows within a selection in Excel?",
+      "options": [
+        "Ctrl + Shift + (",
+        "Ctrl + 9",
+        "Ctrl + Unhide",
+        "Ctrl + Alt + 9"
+      ],
+      "answer": "Ctrl + Shift + (",
+      "explanation": "اختصار Ctrl + Shift + ( يُستخدم لإظهار الصفوف المخفية."
+    },
+    {
+      "question": "Which shortcut hides selected columns in Excel?",
+      "options": [
+        "Ctrl + 0",
+        "Ctrl + Shift + 0",
+        "Ctrl + C",
+        "Ctrl + H"
+      ],
+      "answer": "Ctrl + 0",
+      "explanation": "اختصار Ctrl + 0 يُستخدم لإخفاء الأعمدة المحددة (Hide Columns)."
+    },
+    {
+      "question": "What shortcut unhides any hidden columns within a selection in Excel?",
+      "options": [
+        "Ctrl + Shift + )",
+        "Ctrl + 0",
+        "Ctrl + Unhide",
+        "Ctrl + Alt + 0"
+      ],
+      "answer": "Ctrl + Shift + )",
+      "explanation": "اختصار Ctrl + Shift + ) يُستخدم لإظهار الأعمدة المخفية."
+    },
+    {
+      "question": "Which shortcut opens the Insert dialog box to insert cells, rows, or columns in Excel?",
+      "options": [
+        "Ctrl + Shift + +",
+        "Ctrl + I",
+        "Ctrl + Alt + +",
+        "Ctrl + Insert"
+      ],
+      "answer": "Ctrl + Shift + +",
+      "explanation": "اختصار Ctrl + Shift + + يفتح نافذة إدراج خلايا أو صفوف أو أعمدة جديدة."
+    },
+    {
+      "question": "What shortcut deletes selected cells, rows, or columns in Excel?",
+      "options": [
+        "Ctrl + -",
+        "Ctrl + Delete",
+        "Ctrl + Shift + -",
+        "Ctrl + D"
+      ],
+      "answer": "Ctrl + -",
+      "explanation": "اختصار Ctrl + - يفتح نافذة حذف الخلايا أو الصفوف أو الأعمدة المحددة."
+    },
+    {
+      "question": "Which shortcut selects an entire data region or table in Excel?",
+      "options": [
+        "Ctrl + A",
+        "Ctrl + Shift + A",
+        "Ctrl + T",
+        "Ctrl + Space"
+      ],
+      "answer": "Ctrl + A",
+      "explanation": "اختصار Ctrl + A يُستخدم لتحديد جدول البيانات الحالي أو ورقة العمل بالكامل."
+    },
+    {
+      "question": "What shortcut selects an entire column in Excel when active in a cell?",
+      "options": [
+        "Ctrl + Space",
+        "Ctrl + Shift + Space",
+        "Ctrl + C",
+        "Ctrl + Alt + Space"
+      ],
+      "answer": "Ctrl + Space",
+      "explanation": "اختصار Ctrl + Space يحدد العمود الحالي بالكامل في إكسل."
+    },
+    {
+      "question": "Which shortcut selects an entire row in Excel when active in a cell?",
+      "options": [
+        "Shift + Space",
+        "Ctrl + Space",
+        "Ctrl + R",
+        "Ctrl + Shift + Space"
+      ],
+      "answer": "Shift + Space",
+      "explanation": "اختصار Shift + Space يحدد الصف الحالي بالكامل في إكسل."
+    },
+    {
+      "question": "What shortcut automatically sums a column or row of numbers using AutoSum in Excel?",
+      "options": [
+        "Alt + =",
+        "Ctrl + =",
+        "Ctrl + Shift + +",
+        "Ctrl + Sum"
+      ],
+      "answer": "Alt + =",
+      "explanation": "اختصار Alt + = يُدرج دالة الجمع التلقائي (AutoSum) بسرعة للخلايا المجاورة."
+    },
+    {
+      "question": "Which shortcut creates an instant chart from selected data in Excel?",
+      "options": [
+        "F11",
+        "Ctrl + F11",
+        "Alt + F1",
+        "Ctrl + C"
+      ],
+      "answer": "F11",
+      "explanation": "مفتاح F11 ينشئ رسماً بيانياً (Chart) في ورقة منفصلة بناءً على البيانات المحددة."
+    },
+    {
+      "question": "What shortcut opens the Create Table dialog box in Excel?",
+      "options": [
+        "Ctrl + T",
+        "Ctrl + L",
+        "Ctrl + Tab",
+        "Both Ctrl + T and Ctrl + L"
+      ],
+      "answer": "Both Ctrl + T and Ctrl + L",
+      "explanation": "اختصاران Ctrl + T و Ctrl + L يُستخدمان كلاهما لتحويل النطاق المحدد إلى جدول إكسل منسق (Table)."
+    },
+    {
+      "question": "Which shortcut moves to the next sheet in an Excel workbook?",
+      "options": [
+        "Ctrl + Page Down",
+        "Ctrl + Tab",
+        "Ctrl + Page Up",
+        "Alt + Page Down"
+      ],
+      "answer": "Ctrl + Page Down",
+      "explanation": "اختصار Ctrl + Page Down ينتقل إلى ورقة العمل التالية (Sheet) في الملف."
+    },
+    {
+      "question": "What shortcut moves to the previous sheet in an Excel workbook?",
+      "options": [
+        "Ctrl + Page Up",
+        "Ctrl + Shift + Tab",
+        "Ctrl + Page Down",
+        "Alt + Page Up"
+      ],
+      "answer": "Ctrl + Page Up",
+      "explanation": "اختصار Ctrl + Page Up ينتقل إلى ورقة العمل السابقة في الملف."
+    },
+    {
+      "question": "Which shortcut starts a slideshow from the current slide in PowerPoint?",
+      "options": [
+        "Shift + F5",
+        "F5",
+        "Ctrl + F5",
+        "Alt + F5"
+      ],
+      "answer": "Shift + F5",
+      "explanation": "اختصار Shift + F5 يبدأ عرض العرض التقديمي (Slideshow) من الشريحة الحالية."
+    },
+    {
+      "question": "What shortcut starts a slideshow from the very beginning (first slide) in PowerPoint?",
+      "options": [
+        "F5",
+        "Ctrl + F5",
+        "Shift + F5",
+        "Alt + F5"
+      ],
+      "answer": "F5",
+      "explanation": "مفتاح F5 يبدأ العرض التقديمي من الشريحة الأولى."
+    },
+    {
+      "question": "Which shortcut inserts a new slide in PowerPoint?",
+      "options": [
+        "Ctrl + M",
+        "Ctrl + N",
+        "Ctrl + Shift + N",
+        "Ctrl + S"
+      ],
+      "answer": "Ctrl + M",
+      "explanation": "اختصار Ctrl + M يُستخدم لإدراج شريحة جديدة (New Slide) في العرض التقديمي."
+    },
+    {
+      "question": "What shortcut duplicates the selected slide or object in PowerPoint?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + C",
+        "Ctrl + Shift + D",
+        "Ctrl + P"
+      ],
+      "answer": "Ctrl + D",
+      "explanation": "اختصار Ctrl + D يكرر الشريحة المحددة أو الكائن (Duplicate) بسرعة."
+    },
+    {
+      "question": "Which shortcut groups selected objects together in PowerPoint?",
+      "options": [
+        "Ctrl + G",
+        "Ctrl + Shift + G",
+        "Ctrl + Alt + G",
+        "Ctrl + Group"
+      ],
+      "answer": "Ctrl + G",
+      "explanation": "اختصار Ctrl + G يجمع الأشكال أو العناصر المحددة لتصبح كائناً واحداً (Group)."
+    },
+    {
+      "question": "What shortcut ungroups previously grouped objects in PowerPoint?",
+      "options": [
+        "Ctrl + Shift + G",
+        "Ctrl + G",
+        "Ctrl + U",
+        "Ctrl + Alt + U"
+      ],
+      "answer": "Ctrl + Shift + G",
+      "explanation": "اختصار Ctrl + Shift + G يفصل العناصر المجمعة عن بعضها (Ungroup)."
+    },
+    {
+      "question": "Which shortcut hides the cursor and navigation controls during a slideshow in PowerPoint?",
+      "options": [
+        "Ctrl + H",
+        "Ctrl + M",
+        "Ctrl + Shift + H",
+        "Esc"
+      ],
+      "answer": "Ctrl + H",
+      "explanation": "اختصار Ctrl + H أثناء عرض الشرائح يخفي مؤشر الماوس والأزرار تلقائياً."
+    },
+    {
+      "question": "What shortcut brings up all slides as thumbnails for quick navigation in PowerPoint slideshow?",
+      "options": [
+        "Ctrl + S (in view)",
+        "G (or slide navigator)",
+        "Ctrl + Shift + S",
+        "Tab"
+      ],
+      "answer": "G (or slide navigator)",
+      "explanation": "الضغط على حرف G أثناء العرض (أو استخدام نافذة المصغرات) يسمح بالانتقال السريع بين الشرائح."
+    },
+    {
+      "question": "Which shortcut toggles the pen or pointer tool during a PowerPoint slideshow?",
+      "options": [
+        "Ctrl + P",
+        "Ctrl + L",
+        "Ctrl + I",
+        "Ctrl + Pen"
+      ],
+      "answer": "Ctrl + P",
+      "explanation": "اختصار Ctrl + P أثناء العرض يحول مؤشر الماوس إلى قلم رسم (Pen) لتوضيح النقاط."
+    },
+    {
+      "question": "What shortcut resets the pointer back to the normal arrow during a PowerPoint slideshow?",
+      "options": [
+        "Ctrl + A",
+        "Ctrl + Shift + A",
+        "Esc",
+        "Ctrl + R"
+      ],
+      "answer": "Ctrl + A",
+      "explanation": "اختصار Ctrl + A أثناء العرض يعيد المؤشر إلى طبيعته كالسهم العادي."
+    },
+    {
+      "question": "Which shortcut opens the Spelling dialog box in PowerPoint?",
+      "options": [
+        "F7",
+        "Ctrl + F7",
+        "Shift + F7",
+        "Alt + F7"
+      ],
+      "answer": "F7",
+      "explanation": "مفتاح F7 يُستخدم لتدقيق الإمساك في شرائح الباوربوينت."
+    },
+    {
+      "question": "What shortcut opens the Thesaurus tool to find synonyms in Office apps?",
+      "options": [
+        "Shift + F7",
+        "F7",
+        "Ctrl + F7",
+        "Alt + F7"
+      ],
+      "answer": "Shift + F7",
+      "explanation": "اختصار Shift + F7 يفتح قاموس المرادفات (Thesaurus) للبحث عن كلمات بديلة."
+    },
+    {
+      "question": "Which shortcut switches between the active window and the desktop in Windows?",
+      "options": [
+        "Win + D",
+        "Ctrl + D",
+        "Alt + D",
+        "Ctrl + Shift + D"
+      ],
+      "answer": "Win + D",
+      "explanation": "اختصار Win + D يُظهر سطح المكتب أو يخفيه فوراً (Show/Hide Desktop)."
+    },
+    {
+      "question": "What shortcut opens the File Explorer directly in Windows?",
+      "options": [
+        "Win + E",
+        "Ctrl + E",
+        "Alt + E",
+        "Ctrl + Shift + E"
+      ],
+      "answer": "Win + E",
+      "explanation": "اختصار Win + E يفتح مستكشف الملفات (File Explorer) لتصفح أقراص الكمبيوتر."
+    },
+    {
+      "question": "Which shortcut opens the Windows Settings panel?",
+      "options": [
+        "Win + I",
+        "Ctrl + I",
+        "Alt + I",
+        "Ctrl + Shift + I"
+      ],
+      "answer": "Win + I",
+      "explanation": "اختصار Win + I يفتح نافذة إعدادات النظام الأساسية في ويندوز (Settings)."
+    },
+    {
+      "question": "What shortcut opens the Run dialog box to execute commands in Windows?",
+      "options": [
+        "Win + R",
+        "Ctrl + R",
+        "Alt + R",
+        "Ctrl + Shift + R"
+      ],
+      "answer": "Win + R",
+      "explanation": "اختصار Win + R يفتح نافذة تشغيل الأوامر (Run)."
+    },
+    {
+      "question": "Which shortcut opens the Quick Link menu (Context menu of Start button) in Windows?",
+      "options": [
+        "Win + X",
+        "Ctrl + X",
+        "Alt + X",
+        "Ctrl + Shift + X"
+      ],
+      "answer": "Win + X",
+      "explanation": "اختصار Win + X يفتح قائمة الأدوات الإدارية السريعة (مثل إدارة الأقراص وإدارة الجهاز)."
+    },
+    {
+      "question": "What shortcut takes a screenshot of the entire screen and saves it in Pictures/Screenshots in Windows?",
+      "options": [
+        "Win + PrtScn",
+        "Ctrl + PrtScn",
+        "Alt + PrtScn",
+        "PrtScn"
+      ],
+      "answer": "Win + PrtScn",
+      "explanation": "اختصار Win + PrtScn يلتقط صورة كاملة للشاشة ويحفظها تلقائياً كمجلد صور شاشة."
+    },
+    {
+      "question": "Which shortcut opens the Snipping Tool for custom screen clippings in Windows?",
+      "options": [
+        "Win + Shift + S",
+        "Ctrl + Shift + S",
+        "Win + S",
+        "PrtScn"
+      ],
+      "answer": "Win + Shift + S",
+      "explanation": "اختصار Win + Shift + S يفتح أداة الاقتصاص السريع (Snipping Tool) لأخذ لقطة شاشة دقيقة."
+    },
+    {
+      "question": "What shortcut opens the Search bar in Windows?",
+      "options": [
+        "Win + S",
+        "Ctrl + F",
+        "Win + F",
+        "Ctrl + S"
+      ],
+      "answer": "Win + S",
+      "explanation": "اختصار Win + S (أو Win + Q) يفتح شريط البحث في نظام ويندوز للبحث عن الملفات والبرامج."
+    },
+    {
+      "question": "Which shortcut opens the Action Center or Notification panel in Windows?",
+      "options": [
+        "Win + A",
+        "Ctrl + A",
+        "Alt + A",
+        "Win + N"
+      ],
+      "answer": "Win + A",
+      "explanation": "اختصار Win + A يفتح لوحة الإشعارات والإعدادات السريعة (Action Center)."
+    },
+    {
+      "question": "What shortcut opens the Widget board or News and Interests panel in Windows 11?",
+      "options": [
+        "Win + W",
+        "Ctrl + W",
+        "Win + N",
+        "Alt + W"
+      ],
+      "answer": "Win + W",
+      "explanation": "اختصار Win + W يفتح لوحة الأدوات المصغرة (Widgets)."
+    },
+    {
+      "question": "Which shortcut opens the Task View to manage virtual desktops in Windows?",
+      "options": [
+        "Win + Tab",
+        "Alt + Tab",
+        "Ctrl + Tab",
+        "Win + D"
+      ],
+      "answer": "Win + Tab",
+      "explanation": "اختصار Win + Tab يفتح عرض المهام (Task View) والتنقل بين أسطح المكتب الافتراضية."
+    },
+    {
+      "question": "What shortcut creates a new virtual desktop in Windows?",
+      "options": [
+        "Ctrl + Win + D",
+        "Win + D",
+        "Ctrl + Shift + D",
+        "Win + N"
+      ],
+      "answer": "Ctrl + Win + D",
+      "explanation": "اختصار Ctrl + Win + D ينشئ سطح مكتب افتراضي جديد في ويندوز."
+    },
+    {
+      "question": "Which shortcut closes the current virtual desktop in Windows?",
+      "options": [
+        "Ctrl + Win + F4",
+        "Ctrl + Win + W",
+        "Win + F4",
+        "Alt + F4"
+      ],
+      "answer": "Ctrl + Win + F4",
+      "explanation": "اختصار Ctrl + Win + F4 يغلق سطح المكتب الافتراضي الحالي."
+    },
+    {
+      "question": "What shortcut switches to the left virtual desktop in Windows?",
+      "options": [
+        "Ctrl + Win + Left Arrow",
+        "Alt + Left Arrow",
+        "Win + Left Arrow",
+        "Ctrl + Left Arrow"
+      ],
+      "answer": "Ctrl + Win + Left Arrow",
+      "explanation": "اختصار Ctrl + Win + السهم الأيسر ينقل التبديل لسطح المكتب الافتراضي الأيسر."
+    },
+    {
+      "question": "Which shortcut switches to the right virtual desktop in Windows?",
+      "options": [
+        "Ctrl + Win + Right Arrow",
+        "Alt + Right Arrow",
+        "Win + Right Arrow",
+        "Ctrl + Right Arrow"
+      ],
+      "answer": "Ctrl + Win + Right Arrow",
+      "explanation": "اختصار Ctrl + Win + السهم الأيمن ينقل التبديل لسطح المكتب الافتراضي الأيمن."
+    },
+    {
+      "question": "What shortcut minimizes all open windows to show the desktop?",
+      "options": [
+        "Win + M",
+        "Win + D",
+        "Ctrl + M",
+        "Alt + M"
+      ],
+      "answer": "Win + M",
+      "explanation": "اختصار Win + M يصغر جميع النوافذ المفتوحة (Minimize All)."
+    },
+    {
+      "question": "Which shortcut restores minimized windows back to their original size?",
+      "options": [
+        "Win + Shift + M",
+        "Win + D",
+        "Ctrl + Shift + M",
+        "Alt + Space"
+      ],
+      "answer": "Win + Shift + M",
+      "explanation": "اختصار Win + Shift + M يستعيد النوافذ التي تم تصغيرها عبر أمر Win + M."
+    },
+    {
+      "question": "What shortcut snaps the active window to the left half of the screen?",
+      "options": [
+        "Win + Left Arrow",
+        "Ctrl + Left Arrow",
+        "Alt + Left Arrow",
+        "Win + Shift + Left"
+      ],
+      "answer": "Win + Left Arrow",
+      "explanation": "اختصار Win + السهم الأيسر يلصق النافذة النشطة في النصف الأيسر من الشاشة (Snap Window)."
+    },
+    {
+      "question": "Which shortcut snaps the active window to the right half of the screen?",
+      "options": [
+        "Win + Right Arrow",
+        "Ctrl + Right Arrow",
+        "Alt + Right Arrow",
+        "Win + Shift + Right"
+      ],
+      "answer": "Win + Right Arrow",
+      "explanation": "اختصار Win + السهم الأيمن يلصق النافذة النشطة في النصف الأيمن من الشاشة."
+    },
+    {
+      "question": "What shortcut maximizes the active window or snaps it to the top?",
+      "options": [
+        "Win + Up Arrow",
+        "Ctrl + Up Arrow",
+        "Alt + Up Arrow",
+        "F11"
+      ],
+      "answer": "Win + Up Arrow",
+      "explanation": "اختصار Win + سهم لأعلى يكبر النافذة النشطة أو يملأ بها الشاشة."
+    },
+    {
+      "question": "Which shortcut minimizes or snaps the active window down?",
+      "options": [
+        "Win + Down Arrow",
+        "Ctrl + Down Arrow",
+        "Alt + Down Arrow",
+        "Win + M"
+      ],
+      "answer": "Win + Down Arrow",
+      "explanation": "اختصار Win + سهم لاسفل يصغر النافذة النشطة أو يلغي تكبيرها."
+    },
+    {
+      "question": "What shortcut opens the Project menu to configure dual monitors or projectors?",
+      "options": [
+        "Win + P",
+        "Ctrl + P",
+        "Alt + P",
+        "Win + Shift + P"
+      ],
+      "answer": "Win + P",
+      "explanation": "اختصار Win + P يفتح قائمة العرض على الشاشات الخارجية أو أجهزة العرض الضوئي (Projectors)."
+    },
+    {
+      "question": "Which shortcut opens the Emoji and Symbol panel in Windows?",
+      "options": [
+        "Win + . (period) or Win + ;",
+        "Ctrl + E",
+        "Alt + E",
+        "Ctrl + Shift + E"
+      ],
+      "answer": "Win + . (period) or Win + ;",
+      "explanation": "اختصار مفتاح ويندوز مع نقطة (.) أو الفاصلة المنقوطة (;) يفتح لوحة الوجوه التعبيرية والرموز الخاصة."
+    },
+    {
+      "question": "What shortcut opens the Clipboard history manager in Windows?",
+      "options": [
+        "Win + V",
+        "Ctrl + V",
+        "Alt + V",
+        "Ctrl + Shift + V"
+      ],
+      "answer": "Win + V",
+      "explanation": "اختصار Win + V يفتح سجل الحافظة (Clipboard History) لرؤية كل العناصر التي تم نسخها مسبقاً."
+    },
+    {
+      "question": "Which shortcut opens File Explorer options or properties?",
+      "options": [
+        "Alt + Enter",
+        "Ctrl + Enter",
+        "Win + Enter",
+        "Shift + Enter"
+      ],
+      "answer": "Alt + Enter",
+      "explanation": "اختصار Alt + Enter يعرض خصائص (Properties) العنصر أو الملف المحدد في مستكشف الملفات."
+    },
+    {
+      "question": "What shortcut renames a selected file or folder in Windows?",
+      "options": [
+        "F2",
+        "Ctrl + R",
+        "Ctrl + F2",
+        "Alt + F2"
+      ],
+      "answer": "F2",
+      "explanation": "مفتاح F2 يُستخدم لإعادة تسمية الملف أو المجلد المحدد (Rename) بسرعة."
+    },
+    {
+      "question": "Which shortcut deletes a file or folder permanently without sending it to the Recycle Bin?",
+      "options": [
+        "Shift + Delete",
+        "Ctrl + Delete",
+        "Alt + Delete",
+        "Delete"
+      ],
+      "answer": "Shift + Delete",
+      "explanation": "اختصار Shift + Delete يحذف الملفات نهائياً من الكمبيوتر دون تمريرها لسلة المحذوفات."
+    },
+    {
+      "question": "What shortcut opens the help window in most programs?",
+      "options": [
+        "F1",
+        "Ctrl + F1",
+        "Alt + F1",
+        "Shift + F1"
+      ],
+      "answer": "F1",
+      "explanation": "مفتاح F1 يُستخدم لفتح نافذة المساعدة والدعم (Help) للبرنامج النشط."
+    },
+    {
+      "question": "Which shortcut refreshes the active window, folder, or web page?",
+      "options": [
+        "F5",
+        "Ctrl + F5",
+        "Ctrl + R",
+        "Both F5 and Ctrl + R"
+      ],
+      "answer": "Both F5 and Ctrl + R",
+      "explanation": "مفتاح F5 أو اختصار Ctrl + R يقومان بتحديث (Refresh) الصفحة أو النافذة الحالية."
+    },
+    {
+      "question": "What shortcut highlights the address bar in web browsers?",
+      "options": [
+        "Ctrl + L",
+        "Alt + D",
+        "F6",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "اختصارات Ctrl + L و Alt + D و مفتاح F6 كلها تحدد شريط العنوان (Address Bar) في المتصفحات."
+    },
+    {
+      "question": "Which shortcut closes the current tab in a web browser?",
+      "options": [
+        "Ctrl + W",
+        "Ctrl + F4",
+        "Ctrl + Q",
+        "Both Ctrl + W and Ctrl + F4"
+      ],
+      "answer": "Both Ctrl + W and Ctrl + F4",
+      "explanation": "اختصارا Ctrl + W و Ctrl + F4 يغلقان علامة التبويب الحالية في المتصفح."
+    },
+    {
+      "question": "What shortcut opens the browser history page?",
+      "options": [
+        "Ctrl + H",
+        "Ctrl + Shift + H",
+        "Ctrl + Y",
+        "Ctrl + History"
+      ],
+      "answer": "Ctrl + H",
+      "explanation": "اختصار Ctrl + H يفتح صفحة سجل التصفح (History) في معظم المتصفحات."
+    },
+    {
+      "question": "Which shortcut opens the browser downloads manager page?",
+      "options": [
+        "Ctrl + J",
+        "Ctrl + D",
+        "Ctrl + Shift + D",
+        "Ctrl + Down"
+      ],
+      "answer": "Ctrl + J",
+      "explanation": "اختصار Ctrl + J يفتح نافذة التنزيلات والملفات المحملة (Downloads) في المتصفح."
+    },
+    {
+      "question": "What shortcut opens the browser bookmarks or favorites manager?",
+      "options": [
+        "Ctrl + Shift + O",
+        "Ctrl + B",
+        "Ctrl + D",
+        "Ctrl + Shift + B"
+      ],
+      "answer": "Ctrl + Shift + O",
+      "explanation": "اختصار Ctrl + Shift + O (أو إدارة المفضلة) يفتح مدير الإشارات المرجعية (Bookmarks Manager)."
+    },
+    {
+      "question": "Which shortcut bookmarks the current web page?",
+      "options": [
+        "Ctrl + D",
+        "Ctrl + B",
+        "Ctrl + Shift + D",
+        "Ctrl + K"
+      ],
+      "answer": "Ctrl + D",
+      "explanation": "اختصار Ctrl + D يضيف الصفحة الحالية إلى المفضلة أو الإشارات المرجعية (Bookmark)."
+    },
+    {
+      "question": "What shortcut zooms in (makes text larger) in web browsers and documents?",
+      "options": [
+        "Ctrl + Plus (+)",
+        "Ctrl + =",
+        "Ctrl + Scroll Up",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "اختصار Ctrl + علامة الزائد، أو تدوير عجلة الماوس لأعلى مع Ctrl، يقوم بتكبير العرض (Zoom In)."
+    },
+    {
+      "question": "Which shortcut zooms out (makes text smaller) in web browsers and documents?",
+      "options": [
+        "Ctrl + Minus (-)",
+        "Ctrl + Scroll Down",
+        "Both Ctrl + Minus and Scroll Down",
+        "Ctrl + Shift + -"
+      ],
+      "answer": "Both Ctrl + Minus and Scroll Down",
+      "explanation": "اختصار Ctrl + علامة الناقص أو تدوير عجلة الماوس لأسفل مع Ctrl يصغر العرض (Zoom Out)."
+    },
+    {
+      "question": "What shortcut resets the zoom level back to 100% in browsers?",
+      "options": [
+        "Ctrl + 0",
+        "Ctrl + 1",
+        "Ctrl + Shift + 0",
+        "Ctrl + R"
+      ],
+      "answer": "Ctrl + 0",
+      "explanation": "اختصار Ctrl + 0 يعيد مستوى التكبير والتصغير إلى وضعه الطبيعي 100%."
+    },
+    {
+      "question": "Which shortcut opens the Developer Tools in web browsers?",
+      "options": [
+        "F12",
+        "Ctrl + Shift + I",
+        "Ctrl + Shift + J",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "مفتاح F12 أو اختصارات Ctrl + Shift + I و Ctrl + Shift + J تفتح أدوات المطورين (DevTools) في المتصفحات."
+    },
+    {
+      "question": "What shortcut selects words consecutively to the left in text editors?",
+      "options": [
+        "Ctrl + Shift + Left Arrow",
+        "Ctrl + Left Arrow",
+        "Shift + Left Arrow",
+        "Alt + Left Arrow"
+      ],
+      "answer": "Ctrl + Shift + Left Arrow",
+      "explanation": "اختصار Ctrl + Shift + السهم الأيسر يحدد الكلمات كلمة بكلمة نحو اليسار."
+    },
+    {
+      "question": "Which shortcut selects words consecutively to the right in text editors?",
+      "options": [
+        "Ctrl + Shift + Right Arrow",
+        "Ctrl + Right Arrow",
+        "Shift + Right Arrow",
+        "Alt + Right Arrow"
+      ],
+      "answer": "Ctrl + Shift + Right Arrow",
+      "explanation": "اختصار Ctrl + Shift + السهم الأيمن يحدد الكلمات كلمة بكلمة نحو اليمين."
+    },
+    {
+      "question": "What shortcut moves the cursor to the beginning of the next word?",
+      "options": [
+        "Ctrl + Right Arrow",
+        "Ctrl + Left Arrow",
+        "Ctrl + Down Arrow",
+        "Ctrl + Up Arrow"
+      ],
+      "answer": "Ctrl + Right Arrow",
+      "explanation": "اختصار Ctrl + السهم الأيمن ينقل مؤشر الكتابة إلى بداية الكلمة التالية."
+    },
+    {
+      "question": "Which shortcut moves the cursor to the beginning of the previous word?",
+      "options": [
+        "Ctrl + Left Arrow",
+        "Ctrl + Right Arrow",
+        "Ctrl + Up Arrow",
+        "Ctrl + Down Arrow"
+      ],
+      "answer": "Ctrl + Left Arrow",
+      "explanation": "اختصار Ctrl + السهم الأيسر ينقل مؤشر الكتابة إلى بداية الكلمة السابقة."
+    },
+    {
+      "question": "What shortcut moves the cursor to the very beginning of a document?",
+      "options": [
+        "Ctrl + Home",
+        "Ctrl + Page Up",
+        "Home",
+        "Ctrl + Up"
+      ],
+      "answer": "Ctrl + Home",
+      "explanation": "اختصار Ctrl + Home ينقل المؤشر مباشرة إلى بداية المستند أو الصفحة الأولى."
+    },
+    {
+      "question": "Which shortcut moves the cursor to the very end of a document?",
+      "options": [
+        "Ctrl + End",
+        "Ctrl + Page Down",
+        "End",
+        "Ctrl + Down"
+      ],
+      "answer": "Ctrl + End",
+      "explanation": "اختصار Ctrl + End ينقل المؤشر مباشرة إلى نهاية المستند بالكامل."
+    },
+    {
+      "question": "What shortcut deletes a word to the left of the cursor?",
+      "options": [
+        "Ctrl + Backspace",
+        "Ctrl + Delete",
+        "Backspace",
+        "Ctrl + Shift + Backspace"
+      ],
+      "answer": "Ctrl + Backspace",
+      "explanation": "اختصار Ctrl + Backspace يحذف كلمة كاملة تقع إلى يسار أو خلف مؤشر الكتابة."
+    },
+    {
+      "question": "Which shortcut deletes a word to the right of the cursor?",
+      "options": [
+        "Ctrl + Delete",
+        "Ctrl + Backspace",
+        "Delete",
+        "Ctrl + Shift + Delete"
+      ],
+      "answer": "Ctrl + Delete",
+      "explanation": "اختصار Ctrl + Delete يحذف كلمة كاملة تقع إلى يمين أو أمام مؤشر الكتابة."
+    },
+    {
+      "question": "What shortcut opens the Office Clipboard to view multiple copied items?",
+      "options": [
+        "Pressing Ctrl + C twice (in some apps)",
+        "Ctrl + V twice",
+        "Ctrl + Shift + C",
+        "Alt + C"
+      ],
+      "answer": "Pressing Ctrl + C twice (in some apps)",
+      "explanation": "الضغط على Ctrl + C مرتين متتاليتين في بعض البرامج يفتح لوحة حافظة أوفيس المتقدمة."
+    },
+    {
+      "question": "Which shortcut cycles through open tabs sequentially in web browsers?",
+      "options": [
+        "Ctrl + Tab",
+        "Ctrl + Page Down",
+        "Ctrl + Shift + Tab",
+        "Both Ctrl + Tab and Ctrl + Page Down"
+      ],
+      "answer": "Both Ctrl + Tab and Ctrl + Page Down",
+      "explanation": "اختصارا Ctrl + Tab و Ctrl + Page Down ينتقلان بالترتيب بين علامات التبويب المفتوحة لليمين."
+    },
+    {
+      "question": "What shortcut cycles backwards through open tabs in web browsers?",
+      "options": [
+        "Ctrl + Shift + Tab",
+        "Ctrl + Tab",
+        "Ctrl + Page Up",
+        "Both Ctrl + Shift + Tab and Ctrl + Page Up"
+      ],
+      "answer": "Both Ctrl + Shift + Tab and Ctrl + Page Up",
+      "explanation": "اختصارا Ctrl + Shift + Tab و Ctrl + Page Up ينتقلان للخلف بين علامات التبويب."
+    },
+    {
+      "question": "Which shortcut opens the Excel Paste Special dialog box?",
+      "options": [
+        "Ctrl + Alt + V",
+        "Ctrl + Shift + V",
+        "Alt + E + S",
+        "Both Ctrl + Alt + V and Alt + E + S"
+      ],
+      "answer": "Both Ctrl + Alt + V and Alt + E + S",
+      "explanation": "اختصار Ctrl + Alt + V أو Alt + E + S يفتح نافذة اللصق الخاص (Paste Special) في إكسل."
+    },
+    {
+      "question": "What shortcut inserts a comment into an Excel cell?",
+      "options": [
+        "Shift + F2",
+        "Ctrl + F2",
+        "Alt + F2",
+        "Ctrl + M"
+      ],
+      "answer": "Shift + F2",
+      "explanation": "اختصار Shift + F2 يُستخدم لإدراج أو تحرير تعليق (Comment) في خلية إكسل."
+    },
+    {
+      "question": "Which shortcut opens the Insert Note dialog box in modern Excel versions?",
+      "options": [
+        "Shift + F2 (for legacy comments / notes)",
+        "Ctrl + Shift + O",
+        "Alt + N",
+        "Ctrl + N"
+      ],
+      "answer": "Shift + F2 (for legacy comments / notes)",
+      "explanation": "اختصار Shift + F2 يضيف ملاحظة (Note) أو تعليقاً في خلايا الإكسل."
+    },
+    {
+      "question": "What shortcut selects the current region around the active cell in Excel?",
+      "options": [
+        "Ctrl + Shift + * (Asterisk)",
+        "Ctrl + A",
+        "Ctrl + *",
+        "Both Ctrl + Shift + * and Ctrl + A"
+      ],
+      "answer": "Both Ctrl + Shift + * and Ctrl + A",
+      "explanation": "اختصار Ctrl + Shift + * يحدد نطاق الخلايا المتصلة المحيطة بالخلية النشطة."
+    },
+    {
+      "question": "Which shortcut moves to the edge of data regions in a worksheet in Excel?",
+      "options": [
+        "Ctrl + Arrow Keys",
+        "Alt + Arrow Keys",
+        "Shift + Arrow Keys",
+        "Win + Arrow Keys"
+      ],
+      "answer": "Ctrl + Arrow Keys",
+      "explanation": "اختصار Ctrl مع مفاتيح الأسهم ينقل المؤشر بسرعة إلى أطراف بيانات الجدول الحالية."
+    },
+    {
+      "question": "What shortcut selects cells from the active cell to the edge of data in Excel?",
+      "options": [
+        "Ctrl + Shift + Arrow Keys",
+        "Shift + Arrow Keys",
+        "Ctrl + Arrow Keys",
+        "Alt + Shift + Arrow"
+      ],
+      "answer": "Ctrl + Shift + Arrow Keys",
+      "explanation": "اختصار Ctrl + Shift مع مفاتيح الأسهم يحدد الخلايا من الموضع الحالي حتى نهاية البيانات."
+    },
+    {
+      "question": "Which shortcut toggles Absolute and Relative cell references (e.g., $A$1) in Excel formulas?",
+      "options": [
+        "F4",
+        "Ctrl + F4",
+        "Shift + F4",
+        "Alt + F4"
+      ],
+      "answer": "F4",
+      "explanation": "مفتاح F4 أثناء كتابة الصيغة يغير نوع مرجع الخلية بين نسبي ومطلق ($A$1)."
+    },
+    {
+      "question": "What shortcut opens the Insert Function dialog box in Excel?",
+      "options": [
+        "Shift + F3",
+        "Ctrl + F3",
+        "Alt + F3",
+        "F3"
+      ],
+      "answer": "Shift + F3",
+      "explanation": "اختصار Shift + F3 يفتح نافذة إدراج الدالات الرياضية والمنطقية (Insert Function)."
+    },
+    {
+      "question": "Which shortcut opens the Name Manager dialog box in Excel?",
+      "options": [
+        "Ctrl + F3",
+        "Shift + F3",
+        "Alt + F3",
+        "F3"
+      ],
+      "answer": "Ctrl + F3",
+      "explanation": "اختصار Ctrl + F3 يفتح مدير الأسماء (Name Manager) لإدارة نطاقات الخلايا المسماة."
+    },
+    {
+      "question": "What shortcut pastes defined names into formulas in Excel?",
+      "options": [
+        "F3",
+        "Ctrl + F3",
+        "Shift + F3",
+        "Alt + F3"
+      ],
+      "answer": "F3",
+      "explanation": "مفتاح F3 يعرض قائمة الأسماء المعرفة لإدراجها مباشرة داخل الصيغة الرياضية."
+    },
+    {
+      "question": "Which shortcut calculates all worksheets in all open workbooks in Excel?",
+      "options": [
+        "F9",
+        "Shift + F9",
+        "Ctrl + F9",
+        "Alt + F9"
+      ],
+      "answer": "F9",
+      "explanation": "مفتاح F9 يجبر برنامج إكسل على إعادة حساب جميع المعادلات والصيغ في كل المصنفات المفتوحة."
+    },
+    {
+      "question": "What shortcut calculates only the active worksheet in Excel?",
+      "options": [
+        "Shift + F9",
+        "F9",
+        "Ctrl + F9",
+        "Alt + F9"
+      ],
+      "answer": "Shift + F9",
+      "explanation": "اختصار Shift + F9 يعيد حساب ورقة العمل النشطة وحدها."
+    },
+    {
+      "question": "Which shortcut minimizes an active workbook window in Excel?",
+      "options": [
+        "Ctrl + F9",
+        "Ctrl + F10",
+        "Ctrl + F11",
+        "Ctrl + F12"
+      ],
+      "answer": "Ctrl + F9",
+      "explanation": "اختصار Ctrl + F9 يصغر نافذة مصنف العمل الحالي."
+    },
+    {
+      "question": "What shortcut maximizes or restores a workbook window in Excel?",
+      "options": [
+        "Ctrl + F10",
+        "Ctrl + F9",
+        "Ctrl + F11",
+        "Ctrl + F5"
+      ],
+      "answer": "Ctrl + F10",
+      "explanation": "اختصار Ctrl + F10 يكبر أو يعيد ضبط حجم نافذة المصنف النشط."
+    },
+    {
+      "question": "Which shortcut opens the Open dialog box quickly in Excel?",
+      "options": [
+        "Ctrl + F12",
+        "Ctrl + O",
+        "Alt + Ctrl + F12",
+        "Both Ctrl + O and Ctrl + F12"
+      ],
+      "answer": "Both Ctrl + O and Ctrl + F12",
+      "explanation": "اختصارا Ctrl + O و Ctrl + F12 يفتحان نافذة فتح ملف في إكسل."
+    },
+    {
+      "question": "What shortcut opens the Save As dialog box quickly in Excel?",
+      "options": [
+        "F12",
+        "Ctrl + S",
+        "Ctrl + Shift + S",
+        "Alt + S"
+      ],
+      "answer": "F12",
+      "explanation": "مفتاح F12 يفتح نافذة حفظ باسم (Save As) لحفظ الملف باسم جديد أو صيغة جديدة."
+    },
+    {
+      "question": "Which shortcut opens the Print preview window in Office apps?",
+      "options": [
+        "Ctrl + F2",
+        "Ctrl + P",
+        "Ctrl + Shift + F2",
+        "Both Ctrl + F2 and Ctrl + P"
+      ],
+      "answer": "Both Ctrl + F2 and Ctrl + P",
+      "explanation": "اختصارا Ctrl + F2 و Ctrl + P يفتحان معاينة الطباعة (Print Preview)."
+    },
+    {
+      "question": "What shortcut collapses or expands the Ribbon menu in Microsoft Office apps?",
+      "options": [
+        "Ctrl + F1",
+        "Ctrl + F2",
+        "Ctrl + F3",
+        "Ctrl + F4"
+      ],
+      "answer": "Ctrl + F1",
+      "explanation": "اختصار Ctrl + F1 يُخفي أو يُظهر شريط الأدوات الرئيسي (Ribbon) لتوسيع مساحة العمل."
+    },
+    {
+      "question": "Which shortcut checks the word count in Microsoft Word?",
+      "options": [
+        "Ctrl + Shift + G",
+        "Ctrl + G",
+        "Ctrl + W",
+        "Alt + G"
+      ],
+      "answer": "Ctrl + Shift + G",
+      "explanation": "اختصار Ctrl + Shift + G يفتح نافذة إحصاء عدد الكلمات والصفحات والحروف في مستند وورد."
+    },
+    {
+      "question": "What shortcut inserts a footnote in Microsoft Word?",
+      "options": [
+        "Ctrl + Alt + F",
+        "Ctrl + F",
+        "Alt + F",
+        "Shift + Alt + F"
+      ],
+      "answer": "Ctrl + Alt + F",
+      "explanation": "اختصار Ctrl + Alt + F يُدرج حاشية سفلية (Footnote) في المستند."
+    },
+    {
+      "question": "Which shortcut inserts an endnote in Microsoft Word?",
+      "options": [
+        "Ctrl + Alt + D",
+        "Ctrl + D",
+        "Alt + D",
+        "Shift + Alt + D"
+      ],
+      "answer": "Ctrl + Alt + D",
+      "explanation": "اختصار Ctrl + Alt + D يُدرج تعليق ختامي (Endnote) في نهاية المستند."
+    },
+    {
+      "question": "What shortcut switches between all-caps, lowercase, and title case for selected text in Word?",
+      "options": [
+        "Shift + F3",
+        "Ctrl + Shift + A",
+        "Ctrl + Shift + K",
+        "F3"
+      ],
+      "answer": "Shift + F3",
+      "explanation": "اختصار Shift + F3 يغير حالة أحرف النص المحدد بين الحروف الكبيرة والصغيرة (Change Case)."
+    },
+    {
+      "question": "Which shortcut applies double underline formatting to text in Word?",
+      "options": [
+        "Ctrl + Shift + D",
+        "Ctrl + D",
+        "Ctrl + U",
+        "Ctrl + Shift + U"
+      ],
+      "answer": "Ctrl + Shift + D",
+      "explanation": "اختصار Ctrl + Shift + D يضع خطاً مزدوجاً تحت النص المحدد."
+    },
+    {
+      "question": "What shortcut applies bold formatting using keyboard shortcuts in Word?",
+      "options": [
+        "Ctrl + B",
+        "Ctrl + Shift + B",
+        "Ctrl + 2",
+        "Both Ctrl + B and Ctrl + Shift + B"
+      ],
+      "answer": "Both Ctrl + B and Ctrl + Shift + B",
+      "explanation": "اختصار Ctrl + B يطبق التغميق (Bold) على النصوص."
+    },
+    {
+      "question": "Which shortcut opens the Navigation / Find search box in Word?",
+      "options": [
+        "Ctrl + F",
+        "Ctrl + H",
+        "Ctrl + G",
+        "Ctrl + Shift + F"
+      ],
+      "answer": "Ctrl + F",
+      "explanation": "اختصار Ctrl + F يفتح لوحة التنقل للبحث عن النصوص والكلمات في مستند وورد."
+    },
+    {
+      "question": "What shortcut opens the macro dialog box in Office applications?",
+      "options": [
+        "Alt + F8",
+        "Ctrl + F8",
+        "Shift + F8",
+        "F8"
+      ],
+      "answer": "Alt + F8",
+      "explanation": "اختصار Alt + F8 يفتح نافذة الماكروز (Macros) لتشغيل أو إنشاء وحدات ماكرو برمجية."
+    },
+    {
+      "question": "Which shortcut opens the VBA Visual Basic Editor in Office applications?",
+      "options": [
+        "Alt + F11",
+        "Ctrl + F11",
+        "Shift + F11",
+        "F11"
+      ],
+      "answer": "Alt + F11",
+      "explanation": "اختصار Alt + F11 يفتح محرر كود البرمجة بلغة VBA (Visual Basic for Applications)."
+    },
+    {
+      "question": "What shortcut extends a selection across multiple cells using arrow keys in Excel?",
+      "options": [
+        "Shift + Arrow Keys",
+        "Ctrl + Arrow Keys",
+        "Alt + Arrow Keys",
+        "Win + Arrow Keys"
+      ],
+      "answer": "Shift + Arrow Keys",
+      "explanation": "استخدام مفتاح Shift مع مفاتيح الأسهم يوسع نطاق الخلايا المحددة في الإكسل."
+    },
+    {
+      "question": "Which shortcut selects all cells from the active cell to the beginning of the row in Excel?",
+      "options": [
+        "Shift + Home",
+        "Ctrl + Shift + Home",
+        "Home",
+        "Ctrl + Home"
+      ],
+      "answer": "Shift + Home",
+      "explanation": "اختصار Shift + Home يحدد الخلايا من الخلية النشطة حتى أول عمود في نفس الصف."
+    },
+    {
+      "question": "What shortcut extends selection to the first cell of the worksheet in Excel?",
+      "options": [
+        "Ctrl + Shift + Home",
+        "Shift + Home",
+        "Ctrl + Home",
+        "Alt + Home"
+      ],
+      "answer": "Ctrl + Shift + Home",
+      "explanation": "اختصار Ctrl + Shift + Home يوسع التحديد حتى الخلية الأولى (A1) في ورقة العمل."
+    },
+    {
+      "question": "Which shortcut extends selection to the last used cell on the worksheet in Excel?",
+      "options": [
+        "Ctrl + Shift + End",
+        "Ctrl + End",
+        "Shift + End",
+        "Alt + End"
+      ],
+      "answer": "Ctrl + Shift + End",
+      "explanation": "اختصار Ctrl + Shift + End يحدد الخلايا من الخلية النشطة حتى آخر خلية مستخدمة في الورقة."
+    },
+    {
+      "question": "What shortcut turns on Extend Selection mode without holding Shift in Excel?",
+      "options": [
+        "F8",
+        "Shift + F8",
+        "Ctrl + F8",
+        "Alt + F8"
+      ],
+      "answer": "F8",
+      "explanation": "مفتاح F8 يفعل وضع توسيع التحديد (Extend Selection) دون الحاجة للضغط المستمر على Shift."
+    },
+    {
+      "question": "Which shortcut adds or drops another non-contiguous range to selection in Excel?",
+      "options": [
+        "Shift + F8",
+        "F8",
+        "Ctrl + F8",
+        "Alt + F8"
+      ],
+      "answer": "Shift + F8",
+      "explanation": "اختصار Shift + F8 يتيح إضافة نطاقات خلايا منفصلة عن بعضها إلى نفس التحديد."
+    },
+    {
+      "question": "What shortcut enters the current formula as an array formula in older Excel versions?",
+      "options": [
+        "Ctrl + Shift + Enter",
+        "Ctrl + Enter",
+        "Enter",
+        "Alt + Enter"
+      ],
+      "answer": "Ctrl + Shift + Enter",
+      "explanation": "اختصار Ctrl + Shift + Enter كان يُستخدم لاعتماد الصيغ المصفوفية (Array Formulas) في الإصدارات القديمة."
+    },
+    {
+      "question": "Which shortcut inserts a line break inside the same cell in Excel?",
+      "options": [
+        "Alt + Enter",
+        "Ctrl + Enter",
+        "Shift + Enter",
+        "Enter"
+      ],
+      "answer": "Alt + Enter",
+      "explanation": "اختصار Alt + Enter ينشئ سطراً جديداً (Line Break) داخل نفس الخلية في إكسل."
+    },
+    {
+      "question": "What shortcut completes a cell entry and moves the selection downward?",
+      "options": [
+        "Enter",
+        "Tab",
+        "Ctrl + Enter",
+        "Shift + Enter"
+      ],
+      "answer": "Enter",
+      "explanation": "مفتاح Enter يعتمد إدخال الخلية وينتقل إلى الخلية التي أسفلها."
+    },
+    {
+      "question": "Which shortcut completes a cell entry and moves the selection to the right?",
+      "options": [
+        "Tab",
+        "Enter",
+        "Shift + Tab",
+        "Ctrl + Tab"
+      ],
+      "answer": "Tab",
+      "explanation": "مفتاح Tab يعتمد إدخال الخلية وينتقل إلى الخلية التي تليها إلى اليمين أو اليسار."
+    },
+    {
+      "question": "What shortcut completes a cell entry and moves the selection upward?",
+      "options": [
+        "Shift + Enter",
+        "Enter",
+        "Shift + Tab",
+        "Tab"
+      ],
+      "answer": "Shift + Enter",
+      "explanation": "اختصار Shift + Enter يعتمد إدخال الخلية وينتقل إلى الخلية التي تعلوها."
+    },
+    {
+      "question": "Which shortcut completes a cell entry and moves the selection to the left?",
+      "options": [
+        "Shift + Tab",
+        "Tab",
+        "Enter",
+        "Ctrl + Tab"
+      ],
+      "answer": "Shift + Tab",
+      "explanation": "اختصار Shift + Tab يعتمد إدخال الخلية وينتقل إلى الخلية السابقة جهة اليسار."
+    },
+    {
+      "question": "What shortcut opens the Context Menu (Right-click menu) from the keyboard?",
+      "options": [
+        "Shift + F10 (or the Menu key)",
+        "Ctrl + Space",
+        "Alt + Down Arrow",
+        "Ctrl + Alt + Del"
+      ],
+      "answer": "Shift + F10 (or the Menu key)",
+      "explanation": "اختصار Shift + F10 أو زر القائمة المخصص يفتح قائمة النقر بزر الماوس الأيمن."
+    },
+    {
+      "question": "Which shortcut selects all text from the cursor to the beginning of the line in Word?",
+      "options": [
+        "Shift + Home",
+        "Ctrl + Shift + Home",
+        "Home",
+        "Ctrl + Home"
+      ],
+      "answer": "Shift + Home",
+      "explanation": "اختصار Shift + Home يحدد النص من موقع المؤشر حتى بداية السطر الحالي."
+    },
+    {
+      "question": "What shortcut selects all text from the cursor to the end of the line in Word?",
+      "options": [
+        "Shift + End",
+        "Ctrl + Shift + End",
+        "End",
+        "Ctrl + End"
+      ],
+      "answer": "Shift + End",
+      "explanation": "اختصار Shift + End يحدد النص من موقع المؤشر حتى نهاية السطر الحالي."
+    },
+    {
+      "question": "Which shortcut moves the cursor up one paragraph in Word?",
+      "options": [
+        "Ctrl + Up Arrow",
+        "Up Arrow",
+        "Ctrl + Shift + Up",
+        "Alt + Up Arrow"
+      ],
+      "answer": "Ctrl + Up Arrow",
+      "explanation": "اختصار Ctrl + سهم لأعلى ينقل المؤشر فقرة كاملة إلى الأعلى."
+    },
+    {
+      "question": "What shortcut moves the cursor down one paragraph in Word?",
+      "options": [
+        "Ctrl + Down Arrow",
+        "Down Arrow",
+        "Ctrl + Shift + Down",
+        "Alt + Down Arrow"
+      ],
+      "answer": "Ctrl + Down Arrow",
+      "explanation": "اختصار Ctrl + سهم لأسفل ينقل المؤشر فقرة كاملة إلى الأسفل."
+    },
+    {
+      "question": "Which shortcut applies the Heading 1 style to a paragraph in Word?",
+      "options": [
+        "Ctrl + Alt + 1",
+        "Ctrl + 1",
+        "Ctrl + Shift + 1",
+        "Alt + 1"
+      ],
+      "answer": "Ctrl + Alt + 1",
+      "explanation": "اختصار Ctrl + Alt + 1 يحول الفقرة الحالية إلى نمط العنوان الرئيسي الأول (Heading 1)."
+    },
+    {
+      "question": "What shortcut applies the Heading 2 style to a paragraph in Word?",
+      "options": [
+        "Ctrl + Alt + 2",
+        "Ctrl + 2",
+        "Ctrl + Shift + 2",
+        "Alt + 2"
+      ],
+      "answer": "Ctrl + Alt + 2",
+      "explanation": "اختصار Ctrl + Alt + 2 يحول الفقرة الحالية إلى نمط العنوان الفرعي (Heading 2)."
+    },
+    {
+      "question": "Which shortcut applies the Heading 3 style to a paragraph in Word?",
+      "options": [
+        "Ctrl + Alt + 3",
+        "Ctrl + 3",
+        "Ctrl + Shift + 3",
+        "Alt + 3"
+      ],
+      "answer": "Ctrl + Alt + 3",
+      "explanation": "اختصار Ctrl + Alt + 3 يحول الفقرة الحالية إلى نمط العنوان الفرعي الثالث (Heading 3)."
+    },
+    {
+      "question": "What shortcut opens the Bullets and Numbering or style gallery in Word?",
+      "options": [
+        "Ctrl + Shift + L",
+        "Ctrl + L",
+        "Ctrl + B",
+        "Ctrl + N"
+      ],
+      "answer": "Ctrl + Shift + L",
+      "explanation": "اختصار Ctrl + Shift + L يطبق نمط التعداد النقطي (Bullet List) على الفقرة المحددة."
+    },
+    {
+      "question": "Which shortcut updates table fields or citations in Word?",
+      "options": [
+        "F9",
+        "Ctrl + F9",
+        "Shift + F9",
+        "Alt + F9"
+      ],
+      "answer": "F9",
+      "explanation": "مفتاح F9 يُستخدم لتحديث الحقول في وورد (مثل جدول المحتويات أو أرقام الصفحات)."
+    },
+    {
+      "question": "What shortcut toggles field codes visibility in Word?",
+      "options": [
+        "Alt + F9",
+        "Ctrl + F9",
+        "F9",
+        "Shift + F9"
+      ],
+      "answer": "Alt + F9",
+      "explanation": "اختصار Alt + F9 يُظهر أو يخفي رموز الحقول (Field Codes) في المستند."
+    },
+    {
+      "question": "Which shortcut switches between open presentation windows in PowerPoint?",
+      "options": [
+        "Ctrl + F6",
+        "Ctrl + Tab",
+        "Alt + Tab",
+        "Both Ctrl + F6 and Alt + Tab"
+      ],
+      "answer": "Both Ctrl + F6 and Alt + Tab",
+      "explanation": "اختصار Ctrl + F6 ينتقل بين عروض بوربوينت التقديمية المفتوحة داخل نفس النافذة الرئيسية."
+    },
+    {
+      "question": "What shortcut selects all objects or text shapes on a slide in PowerPoint?",
+      "options": [
+        "Ctrl + A",
+        "Ctrl + Shift + A",
+        "Ctrl + T",
+        "Alt + A"
+      ],
+      "answer": "Ctrl + A",
+      "explanation": "اختصار Ctrl + A يحدد جميع العناصر والكائنات الموجودة داخل الشريحة الحالية."
+    },
+    {
+      "question": "Which shortcut groups selected shapes in PowerPoint?",
+      "options": [
+        "Ctrl + G",
+        "Ctrl + Shift + G",
+        "Ctrl + Alt + G",
+        "Ctrl + Group"
+      ],
+      "answer": "Ctrl + G",
+      "explanation": "اختصار Ctrl + G يجمع الأشكال والكائنات المتعددة لتصبح وحدة واحدة."
+    },
+    {
+      "question": "What shortcut opens the Font dialog box in PowerPoint text boxes?",
+      "options": [
+        "Ctrl + T",
+        "Ctrl + Shift + F",
+        "Ctrl + D",
+        "All of the above"
+      ],
+      "answer": "All of the above",
+      "explanation": "اختصارات Ctrl + T و Ctrl + Shift + F و Ctrl + D تفتح نافذة إعدادات وتنسيق الخطوط."
+    },
+    {
+      "question": "Which shortcut increases the font size of selected text in PowerPoint?",
+      "options": [
+        "Ctrl + Shift + >",
+        "Ctrl + ]",
+        "Both Ctrl + Shift + > and Ctrl + ]",
+        "Ctrl + Plus"
+      ],
+      "answer": "Both Ctrl + Shift + > and Ctrl + ]",
+      "explanation": "اختصار Ctrl + Shift + علامة أكبر من (>) أو Ctrl + ] يكبّران حجم الخط في الباوربوينت."
+    },
+    {
+      "question": "What shortcut decreases the font size of selected text in PowerPoint?",
+      "options": [
+        "Ctrl + Shift + <",
+        "Ctrl + [",
+        "Both Ctrl + Shift + < and Ctrl + [",
+        "Ctrl + Minus"
+      ],
+      "answer": "Both Ctrl + Shift + < and Ctrl + [",
+      "explanation": "اختصار Ctrl + Shift + علامة أصغر من (<) أو Ctrl + [ يصغّران حجم الخط."
+    },
+    {
+      "question": "Which shortcut aligns a paragraph to the center in PowerPoint?",
+      "options": [
+        "Ctrl + E",
+        "Ctrl + C",
+        "Ctrl + M",
+        "Ctrl + T"
+      ],
+      "answer": "Ctrl + E",
+      "explanation": "اختصار Ctrl + E يوسط النص داخل مربع النص في الشريحة."
+    },
+    {
+      "question": "What shortcut aligns a paragraph to the left in PowerPoint?",
+      "options": [
+        "Ctrl + L",
+        "Ctrl + Shift + L",
+        "Ctrl + Alt + L",
+        "Ctrl + A"
+      ],
+      "answer": "Ctrl + L",
+      "explanation": "اختصار Ctrl + L يحاذي النص لليسار داخل الشريحة."
+    },
+    {
+      "question": "Which shortcut aligns a paragraph to the right in PowerPoint?",
+      "options": [
+        "Ctrl + R",
+        "Ctrl + Shift + R",
+        "Ctrl + Alt + R",
+        "Ctrl + D"
+      ],
+      "answer": "Ctrl + R",
+      "explanation": "اختصار Ctrl + R يحاذي النص لليمين داخل الشريحة."
+    },
+    {
+      "question": "What shortcut justifies a paragraph in PowerPoint?",
+      "options": [
+        "Ctrl + J",
+        "Ctrl + F",
+        "Ctrl + Shift + J",
+        "Ctrl + E"
+      ],
+      "answer": "Ctrl + J",
+      "explanation": "اختصار Ctrl + J يضبط تباعد النص ليتساوى الطرفان (Justify)."
+    },
+    {
+      "question": "Which shortcut opens the Find dialog box in PowerPoint presentations?",
+      "options": [
+        "Ctrl + F",
+        "Ctrl + H",
+        "Ctrl + Shift + F",
+        "Ctrl + Search"
+      ],
+      "answer": "Ctrl + F",
+      "explanation": "اختصار Ctrl + F يفتح نافذة البحث عن الكلمات في العرض التقديمي."
+    },
+    {
+      "question": "What shortcut opens the Replace dialog box in PowerPoint presentations?",
+      "options": [
+        "Ctrl + H",
+        "Ctrl + F",
+        "Ctrl + R",
+        "Ctrl + Shift + H"
+      ],
+      "answer": "Ctrl + H",
+      "explanation": "اختصار Ctrl + H يفتح نافذة البحث والاستبدال في الباوربوينت."
+    },
+    {
+      "question": "Which shortcut repeats the last editing action in PowerPoint and Office apps?",
+      "options": [
+        "Ctrl + Y (or F4)",
+        "Ctrl + Z",
+        "Ctrl + R",
+        "F4"
+      ],
+      "answer": "Ctrl + Y (or F4)",
+      "explanation": "اختصار Ctrl + Y أو مفتاح F4 يكرر آخر عملية تعديل تم تنفيذها (Repeat)."
+    },
+    {
+      "question": "What shortcut opens the Task Pane or formatting pane on the side of Office apps?",
+      "options": [
+        "Ctrl + F1",
+        "Ctrl + Shift + F1",
+        "Alt + F1",
+        "Ctrl + Alt + F1"
+      ],
+      "answer": "Ctrl + Shift + F1",
+      "explanation": "اختصار Ctrl + Shift + F1 يخفي أو يظهر شريط القوائم واللوحة الجانبية بالكامل في أوفيس."
+    },
+    {
+      "question": "Which shortcut hides the Windows Taskbar automatically or switches focus?",
+      "options": [
+        "Win + T",
+        "Ctrl + Esc",
+        "Win + X",
+        "Win + Tab"
+      ],
+      "answer": "Win + T",
+      "explanation": "اختصار Win + T ينقل التركيز إلى التطبيقات المثبتة في شريط المهام (Taskbar)."
+    },
+    {
+      "question": "What shortcut opens the Magnifier tool to zoom in on screen parts in Windows?",
+      "options": [
+        "Win + Plus (+)",
+        "Ctrl + Plus",
+        "Win + Alt + M",
+        "Ctrl + Win + M"
+      ],
+      "answer": "Win + Plus (+)",
+      "explanation": "اختصار مفتاح ويندوز مع علامة الزائد (+) يفتح أداة المكبر (Magnifier) لتكبير الشاشة."
+    },
+    {
+      "question": "Which shortcut turns off the Windows Magnifier tool?",
+      "options": [
+        "Win + Esc",
+        "Win + Minus (-)",
+        "Ctrl + Esc",
+        "Alt + F4"
+      ],
+      "answer": "Win + Esc",
+      "explanation": "اختصار Win + Esc يُغلق أداة المكبر فوراً."
+    },
+    {
+      "question": "What shortcut opens Narrator screen reader in Windows?",
+      "options": [
+        "Win + Ctrl + Enter",
+        "Win + Enter",
+        "Ctrl + Alt + Enter",
+        "Win + Shift + Enter"
+      ],
+      "answer": "Win + Ctrl + Enter",
+      "explanation": "اختصار Win + Ctrl + Enter يفتح أو يغلق قارئ الشاشة (Narrator) للمكفوفين وضعاف البصر."
+    },
+    {
+      "question": "Which shortcut opens the Settings Quick Share or Cast menu in Windows?",
+      "options": [
+        "Win + K",
+        "Ctrl + K",
+        "Alt + K",
+        "Win + P"
+      ],
+      "answer": "Win + K",
+      "explanation": "اختصار Win + K يفتح لوحة الاتصال بالشاشات والأجهزة اللاسلكية (Cast / Connect)."
+    },
+    {
+      "question": "What shortcut opens Windows Feedback Hub app?",
+      "options": [
+        "Win + F",
+        "Ctrl + F",
+        "Alt + F",
+        "Win + Shift + F"
+      ],
+      "answer": "Win + F",
+      "explanation": "اختصار Win + F يفتح تطبيق مركز التعليقات (Feedback Hub) لإرسال ملاحظات لشركة مايكروسوفت."
+    },
+    {
+      "question": "Which shortcut opens Windows Game Bar for recording screens and games?",
+      "options": [
+        "Win + G",
+        "Ctrl + G",
+        "Alt + G",
+        "Win + Shift + G"
+      ],
+      "answer": "Win + G",
+      "explanation": "اختصار Win + G يفتح شريط ألعاب ويندوز (Xbox Game Bar) لالتقاط الفيديو والصور وتتبع الأداء."
+    },
+    {
+      "question": "What shortcut starts or stops background screen video recording directly in Windows?",
+      "options": [
+        "Win + Alt + R",
+        "Win + R",
+        "Ctrl + Shift + R",
+        "Win + G"
+      ],
+      "answer": "Win + Alt + R",
+      "explanation": "اختصار Win + Alt + R يبدأ أو يوقف تسجيل الشاشة بالفيديو مباشرة دون فتح واجهة الألعاب."
+    },
+    {
+      "question": "Which shortcut toggles microphone mute in Windows Game Bar during recording?",
+      "options": [
+        "Win + Alt + M",
+        "Win + M",
+        "Ctrl + M",
+        "Alt + M"
+      ],
+      "answer": "Win + Alt + M",
+      "explanation": "اختصار Win + Alt + M يكتم أو يعيد تفعيل الميكروفون أثناء التسجيل."
+    },
+    {
+      "question": "What shortcut opens a new browser window in Google Edge or Chrome?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + T",
+        "Ctrl + Shift + N",
+        "Ctrl + W"
+      ],
+      "answer": "Ctrl + N",
+      "explanation": "اختصار Ctrl + N يفتح نافذة جديدة بالكامل للمتصفح (New Window)."
+    },
+    {
+      "question": "Which shortcut saves a web page as a local file on your computer?",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + Shift + S",
+        "Ctrl + P",
+        "Ctrl + D"
+      ],
+      "answer": "Ctrl + S",
+      "explanation": "اختصار Ctrl + S أثناء تصفح صفحة ويب يحفظ الصفحة كاملة على جهازك."
+    },
+    {
+      "question": "What shortcut reloads a web page bypassing cached files (Hard Refresh)?",
+      "options": [
+        "Ctrl + F5",
+        "Ctrl + R",
+        "F5",
+        "Ctrl + Shift + R"
+      ],
+      "answer": "Ctrl + F5 (or Ctrl + Shift + R)",
+      "explanation": "اختصار Ctrl + F5 أو Ctrl + Shift + R يقوم بتحديث الصفحة وإجبار المتصفح على إعادة تحميل الملفات من الخادم مباشرة."
+    },
+    {
+      "question": "Which shortcut opens the browser Clear Browsing Data dialog box?",
+      "options": [
+        "Ctrl + Shift + Delete",
+        "Ctrl + Delete",
+        "Ctrl + H",
+        "Ctrl + Shift + H"
+      ],
+      "answer": "Ctrl + Shift + Delete",
+      "explanation": "اختصار Ctrl + Shift + Delete يفتح نافذة مسح بيانات التصفح والكاش (Clear Browsing Data)."
+    },
+    {
+      "question": "What shortcut toggles Full Screen mode in web browsers and many apps?",
+      "options": [
+        "F11",
+        "Ctrl + F11",
+        "Alt + Enter",
+        "Win + Up"
+      ],
+      "answer": "F11",
+      "explanation": "مفتاح F11 يفعل أو يلغي وضع ملء الشاشة (Full Screen Mode) في المتصفحات والبرامج."
+    },
+    {
+      "question": "Which shortcut moves to the next frame or pane in applications with multiple panes?",
+      "options": [
+        "F6",
+        "Ctrl + F6",
+        "Alt + F6",
+        "Shift + F6"
+      ],
+      "answer": "F6",
+      "explanation": "مفتاح F6 ينقل التركيز بين الأجزاء المختلفة أو اللوحات داخل النافذة النشطة."
+    },
+    {
+      "question": "What shortcut moves to the previous pane or frame in applications?",
+      "options": [
+        "Shift + F6",
+        "Ctrl + Shift + F6",
+        "Alt + Shift + F6",
+        "F6"
+      ],
+      "answer": "Shift + F6",
+      "explanation": "اختصار Shift + F6 ينقل التركيز بالاتجاه المعاكس بين اللوحات والأجزاء."
+    },
+    {
+      "question": "Which shortcut opens the Context menu for a selected misspelled word in Word?",
+      "options": [
+        "Shift + F7 or Shift + F10",
+        "Ctrl + F7",
+        "Alt + F7",
+        "F7"
+      ],
+      "answer": "Shift + F7 or Shift + F10",
+      "explanation": "اختصارات التدقيق اللغوي تعرض خيارات الكلمات الصحيحة البديلة."
+    },
+    {
+      "question": "What shortcut selects all text matching the current search query in Find dialog?",
+      "options": [
+        "Alt + A (in Find dialog)",
+        "Ctrl + A",
+        "Ctrl + Shift + A",
+        "Enter"
+      ],
+      "answer": "Alt + A (in Find dialog)",
+      "explanation": "اختصار Alt + A داخل نافذة البحث يحدد كل النتائج المطابقة دفعة واحدة."
+    },
+    {
+      "question": "Which shortcut opens the Format Picture or Format Shape pane in Office apps?",
+      "options": [
+        "Ctrl + 1 (when shape/image selected)",
+        "Ctrl + Shift + F",
+        "Alt + F1",
+        "F10"
+      ],
+      "answer": "Ctrl + 1 (when shape/image selected)",
+      "explanation": "اختصار Ctrl + 1 يفتح لوحة تنسيق الخصائص للصورة أو الشكل المحدد."
+    },
+    {
+      "question": "What shortcut sends a selected object backward one level in PowerPoint or Word?",
+      "options": [
+        "Ctrl + Shift + [ (or Alt + Down in some contexts)",
+        "Ctrl + Page Down",
+        "Alt + Shift + Down",
+        "Ctrl + Down"
+      ],
+      "answer": "Ctrl + Shift + [ (or Alt + Down in some contexts)",
+      "explanation": "اختصارات ترتيب الكائنات ترسل الشكل المحدد طبقة واحدة للخلف."
+    },
+    {
+      "question": "Which shortcut brings a selected object forward one level in PowerPoint or Word?",
+      "options": [
+        "Ctrl + Shift + ]",
+        "Ctrl + Page Up",
+        "Alt + Shift + Up",
+        "Ctrl + Up"
+      ],
+      "answer": "Ctrl + Shift + ]",
+      "explanation": "اختصارات ترتيب الكائنات تقدم الشكل المحدد طبقة واحدة للأمام."
+    }
+  ]
+}
